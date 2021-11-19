@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            img[src=""] {
+                background-color: #e11b22;
+                min-height: 100px;
+                min-width: 100px;
+            }
+
+            .img_container {
+                min-width: 250px !important;
+                padding: 0px 20px 20px 20px;
+                display: flex;
+                justify-content: center; width: 7em; font-size: 1.5rem;
+            }
+
+            img {
+                width: 100%;
+                height: fit-content;
+            }
+
+            #mobile-img {
+                    display: none;
+                }
+
+            @media only screen and (max-width: 650px) {
+                #desktop-img {
+                    display: none;
+                }
+
+                #mobile-img {
+                    display: initial;
+                }
+
+                #content {
+                    margin: auto;
+                }
+
+                #parent {
+                    flex-direction: column;
+                }
+            }
+        </style>
+    </head>
+    <body>
+        <div style="display: flex; align-items: center;" id="parent">
+            <div style="width: 25%;" id="desktop-img">
+                <img src="" 
+                style="width: 100%; height: fit-content;">
+            </div>
+
+            <div style="width: 100%;" id="mobile-img">
+                <img src="" 
+                style="width: 100%; height: fit-content;">
+            </div>
+
+            <div style="width: 70%; position: relative;" id="content">
+                <h2 style="font-size: 2.5rem; color: #5FB9E4;">
+                    L’examen doit également prendre en considération
+                </h2>
+                <p style="font-size: 1.5rem;">
+                    les obstacles potentiels, qu’il s’agisse des limites des
+                    systèmes internes, des contraintes budgétaires ou de
+                    la réglementation externe, selon le lieu où sont
+                    menées les activités. Par exemple, les avantages
+                    sociaux des employés du Québec peuvent être
+                    soumis à des dispositions fiscales complexes, ce qui
+                    exige la mise en place de solutions de rechange
+                    permettant aux employés d’exercer un plus grand
+                    contrôle sur leurs finances.
+                </p>
+                <div style="position: absolute; z-index: -1; max-width: 150px; height: auto; right: 0%; bottom: -10%;">
+                    <img src="">
+                </div>
+            </div>
+            
+          </div>
+    </body>
+</html>

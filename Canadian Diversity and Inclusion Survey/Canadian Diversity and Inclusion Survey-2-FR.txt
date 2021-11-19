@@ -1,0 +1,42 @@
+<div class="wrapper">
+    <div class="header">
+        <h2 style="font-size: 2.5rem; color: #5FB9E4; margin-inline-start: 10px; padding-bottom: 10px;">
+            Maturité des initiatives d’inclusion et de diversité
+            à l’échelle de l’organisation : 
+        </h2>
+    </div>
+    <div id="one" class="child">
+        <div class="img_container">
+            <img src="" style="
+            max-width: 200px;
+            max-height: 200px;
+            height: fit-content;">
+        </div>
+        <div style="text-align: center; width: 7em; font-size: 1.5rem;">
+            Sont bien avancées
+        </div> 
+    </div>
+    <div id="two" class="child">
+        <div class="img_container">
+            <img src="" style="
+            max-width: 200px;
+            max-height: 200px;
+            height: fit-content;">
+        </div>
+        <div style="text-align: center; width: 7em; font-size: 1.5rem;">
+            En sont seulement aux débuts
+        </div>
+        
+    </div>
+    <div id="three" class="child">
+        <div class="img_container">
+            <img src="" style="
+            max-width: 200px;
+            max-height: 200px;
+            height: fit-content;">
+        </div>
+        <div style="text-align: center; width: 7em; font-size: 1.5rem;">
+            N’ont pas encore commencé
+        </div>
+    </div>
+  </div>

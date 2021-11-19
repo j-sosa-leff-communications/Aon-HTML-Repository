@@ -1,0 +1,42 @@
+<div class="wrapper">
+    <div class="header">
+        <h2 style="font-size: 2.5rem; color: #5FB9E4; margin-inline-start: 10px; padding-bottom: 10px;">
+            Maturity of Organization-Wide Inclusion and
+            Diversity Initiatives:
+        </h2>
+    </div>
+    <div id="one" class="child">
+        <div class="img_container">
+            <img src="" style="
+            max-width: 200px;
+            max-height: 200px;
+            height: fit-content;">
+        </div>
+        <div style="text-align: center; width: 5em; font-size: 1.5rem;">
+            Well down the path
+        </div> 
+    </div>
+    <div id="two" class="child">
+        <div class="img_container">
+            <img src="" style="
+            max-width: 200px;
+            max-height: 200px;
+            height: fit-content;">
+        </div>
+        <div style="text-align: center; width: 5em; font-size: 1.5rem;">
+            Just getting started
+        </div>
+        
+    </div>
+    <div id="three" class="child">
+        <div class="img_container">
+            <img src="" style="
+            max-width: 200px;
+            max-height: 200px;
+            height: fit-content;">
+        </div>
+        <div style="text-align: center; width: 5em; font-size: 1.5rem;">
+            Not yet started
+        </div>
+    </div>
+  </div>

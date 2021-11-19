@@ -1,0 +1,34 @@
+<div style="display: flex; align-items: center;" id="parent">
+    <div style="width: 25%;" id="desktop-img">
+        <img src="" 
+        style="width: 100%; height: fit-content;">
+    </div>
+
+    <div style="width: 100%;" id="mobile-img">
+        <img src="" 
+        style="width: 100%; height: fit-content;">
+    </div>
+
+    <div style="width: 70%; position: relative;" id="content">
+        <h2 style="font-size: 2.5rem; color: #5FB9E4;">
+            The review must also take into consideration
+        </h2>
+        <p style="font-size: 1.5rem;">
+            potential roadblocks, from
+            internal system limitations or
+            budget constraints to external
+            regulations based on where
+            the operations are. For
+            example, employees in Quebec
+            may be subject to a complex
+            web of taxes on their benefits,
+            requiring the provision of
+            alternatives that enable
+            employees to take more control
+            over their finances.
+        </p>
+        <div style="position: absolute; z-index: -1; max-width: 150px; height: auto; right: 0%; bottom: -10%;">
+            <img src="" style="width: 100%;">
+        </div>
+    </div>
+</div>

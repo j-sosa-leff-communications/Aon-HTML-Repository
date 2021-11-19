@@ -1,0 +1,68 @@
+<div class="wrapper" style="
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 10px;
+        padding: 10px;">
+            <div class="header"><h2 style="font-size: 2rem; color: #5FB9E4;">Key Survey Findings</h2></div>
+            <div id="one1" class="child1">
+                <div class="img_container">
+                    <img src="" style="
+                    max-width: 150px;
+                    max-height: 150px;
+                    height: fit-content;">
+                </div>
+                <ul style="margin-block-start: 0em; font-size: 1.6rem;">
+                    <li>
+                        Many organizations feel
+                        that their retirement
+                        (74 percent) and benefits
+                        plans (62 percent) are
+                        meeting the needs of their
+                        diverse workforces.
+                    </li>
+                </ul>
+            </div>
+            <div id="two1" class="child1">
+                <div class="img_container">
+                    <img src="" style="
+                    max-width: 150px;
+                    max-height: 150px;
+                    height: fit-content;">
+                </div>
+                <ul style="margin-block-start: 0em; font-size: 1.6rem;">
+                    <li style="padding-bottom: 15px;">
+                        50 percent of respondents
+                        don’t know what positive
+                        impacts their diversity
+                        initiatives have made overall
+                        in their workplaces.
+                    </li>
+                    <li>
+                        75 percent of organizations
+                        plan to review some
+                        aspect of their benefits
+                        and retirement programs
+                        from an inclusion and
+                        diversity perspective in the
+                        near future.
+                    </li>
+                </ul>
+            </div>
+            <div id="three1" class="child1">
+                <div class="img_container">
+                    <img src="" style="
+                    max-width: 150px;
+                    max-height: 150px;
+                    height: fit-content;">
+                </div>
+                <ul style="margin-block-start: 0em; font-size: 1.6rem;">
+                    <li>
+                        More than one-third of
+                        respondents have partnered
+                        with an advisory
+                        organization specializing in
+                        inclusion and diversity.
+                    </li>
+                </ul>
+            </div>
+          </div>
