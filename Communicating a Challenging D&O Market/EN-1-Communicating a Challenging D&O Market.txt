@@ -1,0 +1,13 @@
+<div style="border: 2px solid #0e84aa; position: relative; min-height: 250px;">
+    <h3 style="margin: 30px; width: 60%; z-index: 1;">
+        In the fourth quarter of 2020, D&O pricing for public companies grew 
+        <span style="color: #0e84aa; font-size: 3rem;">
+            36 percent.
+        </span>
+    </h3>
+
+    <h3 style="margin: 30px; width: 60%; z-index: 1; font-size: 1rem;">
+        Source: Quarterly D&O Pricing Index, Fourth Quarter 2020
+    </h3>
+    <img src="" alt="" style="position: absolute; right: 10%; bottom: 25%;">
+</div>

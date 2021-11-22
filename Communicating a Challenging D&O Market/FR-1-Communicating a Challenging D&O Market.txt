@@ -1,0 +1,14 @@
+<div style="border: 2px solid #0e84aa; position: relative; min-height: 250px;">
+    <h3 style="margin: 30px; width: 60%; z-index: 1;">
+        Au quatrième trimestre de 2020, les tarifs d’assurance des administrateurs et des dirigeants 
+        des sociétés ouvertes ont augmenté de 
+        <span style="color: #0e84aa; font-size: 3rem;">
+            36 pour cent.
+        </span>
+    </h3>
+
+    <h3 style="margin: 30px; width: 60%; z-index: 1; font-size: 1rem;">
+        Source : Indice trimestriel de tarification de l’assurance des administrateurs et des dirigeants, quatrième trimestre de 2020
+    </h3>
+    <img src="" alt="" style="position: absolute; right: 10%; bottom: 25%;">
+</div>

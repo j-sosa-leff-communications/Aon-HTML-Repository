@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div style="border: 2px solid #e11b22; position: relative; display: flex; min-height: 250px;">
+        <div style="z-index: 1; margin: 30px; width: 60%; position: relative;">
+            <h3>
+                Lors d’un sondage réalisé avant la
+                pandémie de COVID-19, 
+            <span style="color: #e11b22;">
+                82% des répondants 
+            </span>
+                ont indiqué qu’une pandémie ou une autre
+                crise sanitaire majeure ne figurait
+                pas parmi les dix principaux
+                risques sur leur registre des risques.
+        </h3>
+        </div>
+        <img src="https://uc1a4fc1ff6d70b5062e36161103.previews.dropboxusercontent.com/p/thumb/ABUZUpZDFRdt5rhx3BrMZbOqRGZpPxa4dDnP56NKDZXPB_9ogRER029DTjkZbLkJJxmn2XItktCUdfF3WMXCNNCo0f098kGVb0fy65CCCtL7dd8oesKDykVJohhz6NwPsm2SBxP9rV3yGTAgzjFllb6RU30zJSlcuUHXtkcGoUZQzCVqP6xQROuIT-HM9HEdX2XJ_NUCCdiDrRmO9Daw00luUdogFzQVlXHrnWYTQCX2CKdWMsv6x6M0vyQ9o0Shp646RxXMZgbCwDfiKqir74bbN5MQ9-0kA2yLrYmA1JkDnCywrn6KZ2yOlWnVVm89494CouiRwRTpVqCrUb2-4K05jtSch9MgNhptpg-SxClbKigtm6uX6mAB1W41Hs9J5Xw/p.png" alt="" style="position: absolute; right: 10%; bottom: 25%;">
+    </div>
+</body>
+</html>
