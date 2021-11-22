@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+
+        .trail {
+            height: 3px;
+            width: 100%;
+            background-color: #e11b22;
+            position: absolute;
+            top: 50%;
+        }
+    </style>
+</head>
+<body>
+    <div style="border: 2px solid #e11b22; position: relative; min-height: 250px;">
+        <div style="z-index: 1; margin: 30px; position: relative;">
+            <h3 style="color: #e11b22;">
+            Phases:
+            </h3>
+        </div>
+        <div style="width: 90%; margin: 20px auto; position: relative; display: flex; justify-content: space-evenly; align-items: center;">
+            <div id="trail"></div>
+            <img src="https://ucb4f772e951b857b31da1648028.previews.dropboxusercontent.com/p/thumb/ABXoN8SXtHRt903TiWcCRuiL4WQAiFx6MN36Xl1EngbxFdiwZJKNvmu1wO73lemlIHflqutjfobwFDjM3gI5f8nuHVvL7kqKPfJNYbPAg6ZPnSRxkjvPjAMVfDeYUkL7Q0n1gHIGxbpk3_xHVuXpEQ7cf1W0QS09lUCtzQd_0XP_W5ARF7RZ5v37PS6TI60nA82GzDSR2Z2DvRNNi-mgF5KDfTrl4Lwvy_M0oZSdR98bRW1fyeX8XheDuS_ZUFBGLImEEAcMESJoFE8V2V6Kq4wemmhz0Zffm68H-4QgzU5ffeobNipWjUbmPneRUyWUsxTVex99iG-hl4G_pH7vpj21nUYvUdcHZyerP2RixWasEgETtQr-VmacLlXBDtvp0_0/p.png" alt="" style="width: 30%; z-index: 1;">
+            <img src="https://ucb4f772e951b857b31da1648028.previews.dropboxusercontent.com/p/thumb/ABXoN8SXtHRt903TiWcCRuiL4WQAiFx6MN36Xl1EngbxFdiwZJKNvmu1wO73lemlIHflqutjfobwFDjM3gI5f8nuHVvL7kqKPfJNYbPAg6ZPnSRxkjvPjAMVfDeYUkL7Q0n1gHIGxbpk3_xHVuXpEQ7cf1W0QS09lUCtzQd_0XP_W5ARF7RZ5v37PS6TI60nA82GzDSR2Z2DvRNNi-mgF5KDfTrl4Lwvy_M0oZSdR98bRW1fyeX8XheDuS_ZUFBGLImEEAcMESJoFE8V2V6Kq4wemmhz0Zffm68H-4QgzU5ffeobNipWjUbmPneRUyWUsxTVex99iG-hl4G_pH7vpj21nUYvUdcHZyerP2RixWasEgETtQr-VmacLlXBDtvp0_0/p.png" alt="" style="width: 30%; z-index: 1;">
+            <img src="https://ucb4f772e951b857b31da1648028.previews.dropboxusercontent.com/p/thumb/ABXoN8SXtHRt903TiWcCRuiL4WQAiFx6MN36Xl1EngbxFdiwZJKNvmu1wO73lemlIHflqutjfobwFDjM3gI5f8nuHVvL7kqKPfJNYbPAg6ZPnSRxkjvPjAMVfDeYUkL7Q0n1gHIGxbpk3_xHVuXpEQ7cf1W0QS09lUCtzQd_0XP_W5ARF7RZ5v37PS6TI60nA82GzDSR2Z2DvRNNi-mgF5KDfTrl4Lwvy_M0oZSdR98bRW1fyeX8XheDuS_ZUFBGLImEEAcMESJoFE8V2V6Kq4wemmhz0Zffm68H-4QgzU5ffeobNipWjUbmPneRUyWUsxTVex99iG-hl4G_pH7vpj21nUYvUdcHZyerP2RixWasEgETtQr-VmacLlXBDtvp0_0/p.png" alt="" style="width: 30%; z-index: 1;">
+        </div>
+        
+    </div>
+</body>
+</html>

@@ -1,0 +1,10 @@
+<div style="border-radius: 15px; position: relative; background-color: #cce6ee; display: flex; align-items: center; justify-content: center;">
+    <img src="" alt="" style="width: 35%; margin: 30px;">
+
+    <h3 style="margin: 30px; width: 60%; z-index: 1; margin: 30px;">
+        It's important for stakeholders to understand that, even though insurance lines are mostly siloed, 
+        there's still some aggregation. Differentiate for them between market-driven increases and 
+        risk-specific increases, even though they may not be thrilled with either.
+    </h3>
+    
+</div>

@@ -1,0 +1,12 @@
+<div style="border-radius: 15px; position: relative; background-color: #cce6ee; display: flex; align-items: center; justify-content: center;">
+    <img src="" alt="" style="width: 35%; margin: 30px;">
+
+    <h3 style="margin: 30px; width: 60%; z-index: 1; margin: 30px;">
+        Il est important que les parties prenantes comprennent que même si les secteurs de 
+        l’assurance sont pour la plupart cloisonnés, il existe encore certains regroupements. 
+        Expliquez-leur la distinction entre les augmentations dictées par le marché et les 
+        augmentations propres à un risque, même si elles ne sont pas nécessairement ravies 
+        par l’une ou l’autre de ces éventualités.
+    </h3>
+    
+</div>
