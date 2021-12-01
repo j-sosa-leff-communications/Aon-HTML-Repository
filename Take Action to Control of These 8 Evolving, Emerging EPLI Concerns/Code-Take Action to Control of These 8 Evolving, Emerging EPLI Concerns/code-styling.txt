@@ -1,0 +1,20 @@
+<style>
+
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+
+        @media only screen and (max-width: 650px) {
+            .header-bar {
+                width: 100px !important;
+            }
+        
+        }
+
+        
+        
+</style>

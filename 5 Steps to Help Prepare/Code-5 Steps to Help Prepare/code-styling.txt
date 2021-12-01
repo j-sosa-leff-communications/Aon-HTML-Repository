@@ -1,0 +1,45 @@
+<style>
+    .topDiv {
+        padding: 30px 0px;
+    }
+
+    .innerDiv {
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+    }
+
+    h3 {
+        font-size: 2rem;
+    }
+
+    .bottomDiv {
+        padding: 10px 0px 0px 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .trail {
+        width: 75.25%;
+        margin: auto;
+        padding: 5px 0px;
+    }
+
+    img[src=""] {
+        background-color: #e11b22;
+        min-height: 100px;
+        min-width: 100px;
+        z-index: 1;
+        display: initial !important;
+    }
+
+    .iconImg {
+        width: 15%;
+    }
+
+    @media only screen and (max-width: 650px) {
+
+        
+    }
+</style>

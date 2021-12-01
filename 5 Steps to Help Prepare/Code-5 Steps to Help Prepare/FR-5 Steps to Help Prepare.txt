@@ -1,0 +1,237 @@
+<div style="margin: 2px;">
+    <div class="topDiv">
+        <h3 style="font-weight: bold;">Cinq mesures à prendre pour faire face aux menaces grandissantes de cyberattaques
+        </h3>
+    </div>
+
+    <div class="innerDiv" style="justify-content: space-between">
+        <h3 style="font-size: 1.5rem; width: 80%;">
+            Les gestionnaires de risques ont déjà un très grand nombre de défis à relever dans leur recherche de la 
+            résilience au risque, notamment l’équilibre entre l’augmentation du taux de risque et la réduction des 
+            budgets que les entreprises y consacrent. À cela s’ajoute les défis liés au fait d’atténuer les conséquences 
+            de cyberattaques de plus en plus sophistiquées et à l’augmentation du coût des cyberrisques.
+        </h3>
+        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTZlYWRjY2ViLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPThjMjcxZjE2ZTM3M2RkYjI3ZWM0Y2JmMzU4ZDkzN2Nk" class="iconImg">
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            Les cybermenaces rendent plus exigeant et plus essentiel encore le travail des gestionnaires du risque qui cherche 
+            à réduire les risques. C’est pourquoi les cadres supérieurs, le conseil d’administration et les investisseurs doivent le surveiller de plus près.
+        </h3>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            Par conséquent, les gestionnaires du risque et leur organisation doivent comprendre les cyberrisques 
+            auxquels ils sont exposés et la menace croissante que ces derniers représentent pour la continuité des 
+            affaires et les données sur les clients. Ils doivent aussi connaître l’incidence, sur leur programme de 
+            gestion du risque, des cyberpertes et de l’augmentation des coûts de la cyberassurance au sein des marchés de transfert du risque.
+        </h3>
+    </div>
+
+    <div class="innerDiv" id="trailDiv">
+        <div style="height: 1px; width: 100%; background-color: black;"></div>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            La croissance, la compétitivité, les activités et l’existence des entreprises continuent de subir des pertur bations, qui 
+            deviendront considérablement plus fréquentes au cours des prochaines années. Personne n’est à l’abri, pas un secteur ni une entreprise:
+        </h3>
+    </div>
+
+    <div class="innerDiv" id="trailDiv">
+        <div style="height: 1px; width: 100%; background-color: #5d6d78;"></div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #e11b22 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                Les attaques par rançongiciels restent une très grande préoccupation, et pour cause: le nombre d’attaques a 
+                augmenté de 716% de 2019 à 2020, et on estime que leurs dommages s’élèveront à 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">20 milliards de dollars</span>
+                <br>
+                en 2021¹.
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                <span style="color: #e11b22; font-size: 2rem;">L’attaque généralisée ayant visé SolarWinds en 2020, </span>
+                <br>
+                attribuée à des auteurs de menace parrainés par un État-nation étranger, ciblait les chaînes d’approvisionnement et a touché de
+                organisations publiques et privées partout dans le monde².
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #5d6d78 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                <span style="color: #e11b22; font-size: 2rem;">De plus en plus, les attaquants interceptent</span>
+                <br>
+                des virements de fonds, commettent des vols de stratégies commerciales confidentielles et de propriété 
+                intellectuelle et exécutent des systèmes d’extorsion³.
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                Le FBI rapporte que les cyberattaques sont
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">quatre fois plus</span>
+                <br>
+                nombreuses qu’elles ne l’étaient avant la pandémie de COVID-19⁴.
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            Le cybercrime a sans contredit attiré l’attention de dirigeants d’organisations, alors que les auteurs de menaces 
+            continuent d’ élaborer des modèles d’affaires sophistiqués pour exploiter les vulnérabilités techniques et humaines à 
+            des fins lucratives. Un grand nombre d’organisations ont beaucoup de travail à faire:
+        </h3>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #e11b22 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                Le facteur humain associé aux cyberattaques demeure une préoccupation, car les actions des employés et des utilisateurs comptent pour 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">30% </span>
+                des atteintes à la protection des données⁵.
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                Pour ce qui est du vol de propriété intellectuelle, il s’agirait d’un
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">problème de 1 billion de dollars.</span>
+                <br>
+                Néanmoins, seulement un tiers des entreprises protègent leurs secrets commerciaux⁶.
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #5d6d78 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                Les cadres supérieurs demeurent des cibles de choix pour les cybercriminels, étant 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">12 fois plus </span>
+                <br>
+                susceptibles d’être ciblés et neuf fois plus susceptibles de devenir des victimes⁷.
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                Il est 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">essentiel </span>
+                <br>
+                que toute activité de fusion et d’acquisition fasse l’objet d’une cybervigilance rigoureuse⁸.
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #5d6d78 1px solid;">
+        <div>
+            <h3>
+                Augmentation du coût des cyberrisques
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                La fréquence et la gravité des cyberattaques ont augmenté, tout comme les réclamations pour des sinistres. 
+                L’époque de la cyberassurance bon marché est révolue. Les assureurs subissent des pressions extrêmes qui 
+                les poussent à augmenter les tarifs, à resserrer les critères de souscription et à restreindre leur 
+                capacité–ou même à se retirer entièrement du cybermarché–alors que les cybertaux combinés ont grimpé en flèche.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                On peut s’attendre à des augmentations de tarifs atteignant jusqu’à 80% en 2022, alors que les assureurs 
+                s’efforcent de compenser les pertes de plus en plus élevées touchant leurs volumes d’affaires liés aux cyberrisques⁹.
+            </h3>
+        </div>
+        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcwMzY0NDQ1LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTU5MTdhYmI5OGY2MTg0OWM5ODIwYmVkYjA3MThmN2I2" class="iconImg">
+    </div>
+
+    <div class="innerDiv" style="margin: 10px 0px;">
+        <h3 style="font-weight: bold;">Cinq
+            principes fondamentaux que les gestionnaires du risque doivent mettre en œuvre
+        </h3>
+    </div>
+
+    <div class="innerDiv" style="border: #e11b22 1px solid; flex-direction: column;">
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    1. Mettre sur pied un comité multidisciplinaire pour la gestion des cyberrisques: 
+                </span>
+                Tous les services d’une entreprise–services juridiques, conformité, ressources humaines, finances, communications, 
+                exploitation, technologies de l’information et autres–peuvent ressentir l’incidence des cyberrisques. La création 
+                d’un comité pour la gestion des cyberrisques représente un changement organisationnel peu coûteux qui permet de réunir 
+                l’expertise requise pour évaluer l’incidence des cyberrisques sur les différentes fonctions et la façon dont les changements 
+                organisationnels (transaction de fusion et d’acquisition, collaboration avec un nouveau fournisseur ou mise en œuvrede nouvelles technologies) 
+                influeront sur la sécurité de l’entreprise. L’avocat général, en raison de sa position apolitique au sein de l’organisation et de 
+                ses connaissances de l’environnement réglementaire et des responsabilités en aval, devrait présider ce comité multidisciplinaire 
+                et présenter ses conclusions au chef de la direction et au conseil d’administration.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    2. Effectuer une évaluation de la sécurité: 
+                </span>
+                La meilleure façon de comprendre l’état actuel de la sécurité d’une entreprise est de mener une évaluation de sécurité 
+                indépendante. Les petites organisations dotées de systèmes moins complexes peuvent envisager des solutions de logiciel-service (SaaS), 
+                qui sont souvent moins coûteuses et permettent aux responsables des technologies et de la sécurité de l’information de saisir les données 
+                pour évaluer instantanément leur niveau de sécurité. Les résultats de l’évaluation doivent ensuite être communiqués au comité 
+                multidisciplinaire, qui déterminera le budget alloué aux mesures requises pour combler les lacunes, établir l’ordre de priorité des 
+                données et des actifs essentiels à protéger et définir les effets à assurer. Il peut être utile d’investir dans la mise à l’essai¹⁰ 
+                de plans pour mettre en lumière les faiblesses de l’organisation et déterminer les principales mesures correctives à prendre avant 
+                qu’une attaque réelle ne survienne.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    3. Instaurer une culture de sécurité: 
+                </span>
+                Armez vos employés contre la cybercriminalité en investissant dans les programmes de formation et de sensibilisation 
+                pertinents, particulièrement dans les programmes mobilisateurs qui visent à modifier le comportement humain. Tout 
+                le monde doit participer aux programmes, y compris le conseil d’administration et les cadres supérieurs. Il peut s’agir, notamment, 
+                d’un enseignement proactif sur la façon dont nous pouvons repérer les courriels d’hameçonnage suspects et adopter des pratiques 
+                de gestion des mots de passe plus efficaces. Ces petites stratégies de sécurité peuvent procurer des effets positifs immédiats.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    4. Planifier les interventions en cas d’incident: 
+                </span>
+                La planification des interventions en cas d’incident¹¹ est axée sur le renforcement de la résilience de l’organisation face aux attaques. 
+                Alors que de nombreuses entreprises disposent maintenant d’un plan d’intervention en cas d’incident, il est important qu’elles 
+                le mettent à l’essai auprès de toutes les parties concernées et le mettent à jour régulièrement. La planification en cas d’incident, 
+                surtout en ce qui a trait aux rançongiciels, comprend également la sauvegarde périodique des données et des systèmes essentiels afin 
+                de réduire les temps d’arrêt et la mise à l’essai du système de défense, le tout en simulant des attaques.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    5. Souscrire une police d’assurance cyberrisques sur mesure: 
+                </span>
+                Même après avoir adopté certaines mesures proactives comme celles décrites ci-dessus, en raison de l’évolution des 
+                menaces, aucune entreprise n’est complètement protégée. Il est donc important de s’assurer que toute police d’assurance 
+                cyberrisques tient compte des principaux risques auxquels l’entreprise est exposée, puisqu’il 
+                n’existe aucune solution universelle en matière d’assurance. D’ailleurs, une police d’assurance cyberrisques devrait toujours 
+                être traitée dans le cadre d’une stratégie de cybersécurité plus vaste qui repose essentiellement sur une approche 
+                proactive de l’atténuation des risques.
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1rem; color: #5d6d78;">
+            Ce document a été préparé à des fins d’information seulement et ne doit pas être considéré pour toute autre fin. 
+            Vous devez consulter vos propres conseillers juridiques et responsables des technologies et de la sécurité de l’information 
+            avant de mettre en œuvre toute recommandation ou orientation fournie dans les présentes.
+        </h3>
+    </div>
+</div>

@@ -1,0 +1,344 @@
+<div id="parent" style="border:#e11b22 2px solid; height: auto; display: flex; margin: 20px; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 75%; margin: 20px;">
+
+        <h3 style="font-size: 2rem;">
+            <span style="color: #e11b22; font-size: 2rem;">
+                Eight Emerging, Evolving EPLI Exposures
+            </span>
+        </h3>
+
+        <div style="width: 250px; height: 3px; background-color: #e11b22;" class="header-bar"></div>
+
+    </div>
+    <div style="display: flex; margin: 10px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Returning to office following COVID-19
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                After a number of stops and starts in 2021,
+                employers are in the midst of bringing employees
+                back to their workplaces. There are several
+                potential COVID-19-related exposures that may
+                emerge as organizations reopen their offices with
+                uncertainty around the vaccination status of their
+                workforce, including disability discrimination,
+                emotional distress claims, wrongful terminations
+                and retaliation, age discrimination, labor unrest,
+                failure to protect and wrongful death.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                As a best practice, employers should review their
+                EPLI policy to assess whether it will respond to
+                these evolving COVID-19-related issues in
+                respect of employment matters. To assess
+                coverage for any potential claims, EPLI policies
+                should be reviewed for Bodily Injury/Property
+                Damage (BI/PD) exclusions and potential
+                carve-backs. Coverage would depend on the
+                language used in the policy.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Cannabis and the workplace
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Medical and recreational marijuana continues to
+                be a thorny issue in the workplace following the
+                legalization of marijuana in Canada and select U.S.
+                states. Employers must walk a fine line between
+                compliance with employment law protecting
+                employee rights, a patchwork of federal, state and
+                provincial laws that prohibit working under the
+                influence of marijuana and their own company
+                drug use and safety policies. EPLI policies can
+                provide coverage for a host of accusations that
+                may arise resulting from the intersection of
+                cannabis and the workplace, spanning from
+                discrimination based on a disability to wrongful
+                dismissal allegations.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Sexual harassment
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                In the midst of continued worldwide focus on
+                sexual harassment allegations in the workplace,
+                various Canadian jurisdictions have created
+                statutory obligations for companies to investigate
+                and address workplace harassment complaints,
+                and to develop and maintain programs and
+                policies that explicitly address sexual
+                harassment. In Ontario, for example, this came in
+                the form of amendments to the province’s
+                Occupational Health and Safety Act (OHSA). An
+                employer’s failure to comply can result in a
+                mandated third-party investigation and report at
+                the company’s expense, or a hefty fine. Although
+                most EPLI policies exclude violations of the OHSA,
+                and its associated fines and penalties, some EPLI
+                programs will respond to provide certain
+                indemnity and defense costs coverage in the
+                event a company is faced with a civil lawsuit
+                alleging harassment or sexual harassment.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Meanwhile, in the U.S., local, state and federal laws
+                offer a variety of prohibitions against sexual
+                harassment differing mostly in the type of
+                available damages, but also regarding mandatory
+                training requirements in some states. State and
+                local laws often provide the plaintiffs’ bar with
+                uncapped damage and punitive damage award
+                potential, making it more common that these
+                suits are brought under state and local laws.
+                However, similarly complex state insurance laws
+                require careful analysis to ensure EPLI policies
+                can respond to these types of punitive and
+                intentional act-related awards.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Invasion of privacy
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Various privacy-related torts have been
+                recognized in recent years in Canadian
+                jurisdictions. With the broadening of privacy
+                rights, employers must be careful in balancing
+                employees’ reasonable expectations of privacy
+                and, for instance, surveillance and searches or
+                public announcements or statements
+                involving employees.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                In the U.S., there have been two significant trends
+                in the area of employee privacy. The first relates
+                to the capture of biometric information from
+                employees such as eye scans, fingerprints or the
+                use of facial recognition software. In Illinois in
+                particular, but also in a growing number of other
+                states, laws have been passed to make the
+                capture of such information illegal without the
+                written authorization of the employee. Many
+                employee class actions have been brought in
+                Illinois under its Biometric Information Projection
+                Act (BIPA). The COVID-19 pandemic has been
+                another area of significant employee privacy
+                concern. Both contact tracing as a result of an
+                infection and the growing push for employers to
+                learn whether employees have obtained the
+                COVID-19 vaccine have increased the likelihood of
+                privacy-related lawsuits in this area as well.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Many EPLI policies provide some measure of
+                coverage for invasion of privacy claims, although
+                the extent of coverage varies among carriers and
+                may differ depending on whether the insured is a
+                public or private company. Recently, given the
+                rise in BIPA-related lawsuits, some carriers have
+                begun to actively look to either underwrite or
+                exclude coverage for biometric
+                information-related matters.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Evolving grounds of discrimination
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Traditionally, discrimination claims based on
+                race, ethnicity and age have been commonly
+                covered under EPLI policies, but insurance and
+                legal practitioners are expecting to see an uptick
+                in litigation in more recent grounds of human
+                rights discrimination as well. In recent years,
+                legislation has evolved to both recognize
+                expanding rights such as LGBTQ+ rights and
+                gender identity, as well as realities such as
+                work-life balance. It is vital for EPLI policies to
+                respond in the event of discrimination based on,
+                among other things, sexual orientation,
+                transgender status, or gender dysphoria. Equally
+                important is coverage for other grounds of
+                discrimination such as family status (expressly
+                recognized by the Canadian Human Rights
+                Tribunal). EPLI policies typically provide broad
+                coverage in this regard, which in most cases will
+                extend to cover claims stemming from these
+                novel bases of discrimination.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Employee termination
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Termination of an employee can come with
+                potential risk and litigation if not conducted
+                carefully. In Canada, claims for wrongful
+                dismissal are generally accompanied by disputes
+                over the amount of pay-in-lieu of notice to
+                which a terminated employee is entitled.
+                Notably, common law notice periods in Canada
+                have recently increased to an upper threshold of
+                26 months. In the U.S., wrongful termination
+                claims can take many forms even with its
+                supposed employment at-will nature of the
+                employee relationship.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                The Canadian EPLI market now offers coverage
+                by some carriers, subject to terms and
+                conditions, for some of the wages ultimately
+                awarded by a court that are over and above the
+                statutory minimums required by legislation, or
+                the amount that is offered to the employee at or
+                after the time of termination.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                In the U.S., wrongful termination is broadly
+                covered because the damages are much less
+                formulaic and statutory based than in Canada.
+                Therefore, wrongful termination claims are a
+                major source of exposure addressed by EPLI in
+                the U.S.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Dependent contractors
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Dependent contractors find themselves
+                somewhere on the job classification spectrum
+                between employees and independent
+                contractors. Canadian courts have generally
+                classified a dependent contractor as an
+                individual who works for themselves but
+                provides consistent and regular services to one
+                or a limited number of organizations. As a result,
+                that individual is entitled to many of the same
+                rights as an employee. Traditionally, EPLI polices
+                did not extend to cover individuals in these
+                positions. However, the Canada insurance
+                market has begun to move in a favorable
+                direction for insureds, with policies now
+                providing coverage for claims involving
+                dependent contractors.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                In the U.S., the advent of the gig economy has
+                resulted in a blurring of the spectrum between
+                independent contractors and employees as well.
+                In response, employment laws have tended to
+                make it easier for workers who have entered
+                into clear agreements stating they are not
+                employees of a particular organization to sue as
+                if they were employees. As a result, brokers have
+                worked diligently with the insurance market to
+                seek to expand coverage treating employment
+                claims for otherwise covered wrongful acts
+                brought by these non-traditional employees to
+                be treated as employment claims covered under
+                EPLI policies. That is, as long as the worker is
+                claiming to be an employee, which is typically a
+                requirement for the plaintiff to allege to bring a
+                claim under most U.S. employment laws.
+            </h3>
+        </div>
+    </div>
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Wage and hour claims
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                “Wage and hour” claims have increased in both
+                frequency and severity over the past few years.
+                These claims are frequently brought as class
+                action lawsuits, with large groups of employees
+                seeking millions of dollars in damages for
+                matters such as unpaid wages, unpaid overtime
+                and job misclassification leading to wages or
+                other benefits owed. To address this exposure,
+                coverage for lawsuits related to employee wages
+                may be available for larger U.S. and Canadian
+                policyholders who may face significant losses in
+                a wage and hour class action lawsuit. This is
+                typically priced much higher than traditional
+                EPLI insurance. The cost of this coverage has
+                recently decreased, but remains relatively high,
+                as does the retention, due to litigation trends in
+                this area.
+            </h3>
+        </div>
+    </div>
+
+
+
+
+</div>

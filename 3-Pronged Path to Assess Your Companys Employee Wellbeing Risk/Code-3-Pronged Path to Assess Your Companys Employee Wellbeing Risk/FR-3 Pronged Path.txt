@@ -1,0 +1,150 @@
+<div style="border: 2px solid #e11b22; position: relative; min-height: 250px;">
+        <div style="z-index: 1; margin: 30px; position: relative;">
+            <h3 style="color: #e11b22;">
+                Trois voies pour évaluer le risque lié au bien-être
+                de vos employés
+            </h3>
+        </div>
+
+        <div style="width: 100%; display: flex; flex-direction: row; justify-content: space-around;" class="three-col-image">
+            <div style="display: flex;">
+                <img class="mobile-image" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NmI1OWUyMDkxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTE5M2JkMjc3NjcxNWVjOGE0YjY1MTRjYjkxYzdkNTZk" style="object-fit: contain; align-self: baseline;">
+                <div style="width: 32%;" class="column">
+                    <p class="paragraph-1">
+                        La première étape pour quantifier le
+                        risque en matière de bien-être des
+                        employés d’une organisation consiste à
+                        comprendre les répercussions et les
+                        pertes potentielles qu’il peut
+                        sous-tendre. Comprendre ce qui est
+                        essentiel pour l’organisation peut l’aider
+                        à organiser les réflexions sur le risque. 
+                    </p>
+
+                    <h3 style="background-color: #e5eff0;" class="header">
+                        Déterminer les répercussions et les indicateurs
+                    </h3>
+
+                    <div style="height: 400px; display: flex; align-items: center; position: relative; justify-content: center;" class="desktop-graphic">
+                        <div class="arrow"></div>
+                        <div class="arrow2"></div>
+                        <div class="arrow3"></div>
+                        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNzZkYzEzMTQxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkNjBjYWFjMzM5N2NjMjRmZGEyNDYyZGJhNzc5ZWRl" alt="" style="z-index: 1; object-fit: contain; width: 70%;">
+                        <div class="horizontal-arrow"></div>
+                        <div class="horizontal-arrow2"></div>
+                        <div class="horizontal-arrow3"></div>
+                    </div>
+
+                    <p style="font-size: 1.5rem;" class="paragraph-2">
+                        Examinez également la disponibilité de
+                        paramètres de suivi pouvant servir
+                        d’indicateurs précurseurs et décalés.
+                        Les données montrent peut-être une
+                        attrition plus élevée et une productivité
+                        plus faible pendant l’été. Surveillez
+                        également le taux d’absentéisme, les
+                        coûts des soins de santé pour les
+                        employés, les sondages sur la
+                        mobilisation de ces derniers et le taux
+                        de blessures. 
+                    </p>
+
+                </div>
+            </div>
+            
+
+            <div style="display: flex;">
+                <img class="mobile-image" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NmI2Y2M4MGZhLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWRkMzJjNmNlZDMwMGRhNzJjZjYzYWFkYzU4YWJkMDNm" style="object-fit: contain; align-self: baseline;">
+                <div style="width: 32%;" class="column">
+
+                    <p class="paragraph-1">
+                        Il est maintenant temps d’élaborer des
+                        scénarios potentiels. Par exemple, si
+                        vous êtes un important détaillant et que
+                        vous pouvez quantifier que le bien-être
+                        des employés est faible et que cela
+                        entraîne un roulement de 30 %, vous
+                        pouvez ensuite modéliser ce que ce 30
+                        % coûte en matière d’embauche de
+                        remplaçants, d’intégration, de retards
+                        de productivité et de pertes de revenus. 
+                    </p>
+
+                    <h3 style="background-color: #cddbde;" class="header">
+                        Modéliser un scénario crédible
+                    </h3>
+
+                    <div style="height: 400px; display: flex; align-items: center; position: relative; justify-content: center;" class="desktop-graphic">
+                        <div class="arrow"></div>
+                        <div class="arrow2"></div>
+                        <div class="arrow3"></div>
+                        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNzZkYzEzMTQxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkNjBjYWFjMzM5N2NjMjRmZGEyNDYyZGJhNzc5ZWRl" alt="" style="z-index: 1; object-fit: contain; width: 70%;">
+                        <div class="horizontal-arrow"></div>
+                        <div class="horizontal-arrow2"></div>
+                        <div class="horizontal-arrow3"></div>
+                    </div>
+
+                    <p style="font-size: 1.5rem;" class="paragraph-2">
+                        La clé consiste à établir des liens entre
+                        les divers types de facteurs de risque à
+                        l’échelle individuelle et
+                        organisationnelle. Une entreprise
+                        pourrait constater un roulement de
+                        personnel plus élevé, tandis qu’une
+                        autre pourrait conclure que le bien-être
+                        de ses employés n’est pas élevé en
+                        présence d’une fraude par un employé.
+                    </p>
+
+                </div>
+            </div>
+            
+
+            <div style="display: flex;">
+                <img class="mobile-image" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NmI3NzQ3ZDBmLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWNkMmYzNGY5YjIzYjVhODRlNmZjNjc0YzYwMjQ0OTU5" style="object-fit: contain; align-self: baseline;">
+                <div style="width: 32%;" class="column">
+                    <p class="paragraph-1">
+                        Le renforcement de la résilience de la
+                        main-d’œuvre à l’égard des risques en
+                        matière de bien-être des employés doit
+                        commencer par un changement de
+                        mentalité. Les dirigeants qui
+                        comprennent qu’une santé mentale
+                        chancelante représente un risque au
+                        même titre que d’autres catastrophes
+                        aideront leurs employés – et leur
+                        entreprise – à atteindre le succès. 
+                    </p>
+
+                    <h3 style="background-color: #82939a;" class="header">
+                        Faites les compromis nécessaires
+                    </h3>
+
+                    <div style="height: 400px; display: flex; align-items: center; position: relative; justify-content: center;" class="desktop-graphic">
+                        <div class="arrow graphic-three"></div>
+                        <div class="arrow2 graphic-three"></div>
+                        <div class="arrow3 graphic-three"></div>
+                        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNzZkYzEzMTQxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkNjBjYWFjMzM5N2NjMjRmZGEyNDYyZGJhNzc5ZWRl" alt="" style="z-index: 1; object-fit: contain; width: 70%;">
+                        <div class="horizontal-arrow graphic-three"></div>
+                        <div class="horizontal-arrow2 graphic-three"></div>
+                        <div class="horizontal-arrow3 graphic-three"></div>
+                    </div>
+
+                    <p style="font-size: 1.5rem;" class="paragraph-2">
+                        Un bon courtier peut aider les
+                        entreprises à comprendre les attentes
+                        professionnelles de leurs employés, et
+                        comment changer la culture de
+                        l’entreprise pour améliorer leur
+                        bien-être et leur productivité. Le
+                        courtier peut aussi aider à repérer les
+                        lacunes dans des offres précises qui
+                        peuvent faire hésiter les employés.
+                    </p>
+
+                </div>
+            </div>
+            
+        </div>
+        
+    </div>

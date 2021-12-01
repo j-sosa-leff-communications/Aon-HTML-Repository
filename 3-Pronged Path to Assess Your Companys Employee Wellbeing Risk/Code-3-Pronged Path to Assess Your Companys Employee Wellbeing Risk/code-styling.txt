@@ -1,0 +1,186 @@
+<style>
+
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+
+        .arrow {
+            height: 100%;
+            position: absolute;
+            left: 50%;
+            top: 0%;
+            width: 3px;
+            background-color: #e11b22;
+        } 
+        .arrow2 {
+            height: 30px;
+            position: absolute;
+            left: 53%;
+            bottom: 0%;
+            width: 3px;
+            background-color: #e11b22;
+            transform: rotate(30deg);
+        }
+
+        .arrow3 {
+            height: 30px;
+            position: absolute;
+            left: 47%;
+            bottom: 0%;
+            width: 3px;
+            background-color: #e11b22;
+            transform: rotate(-30deg);
+        }
+
+        .horizontal-arrow {
+            height: 3px;
+            width: 70px;
+            position: absolute;
+            right: -15%;
+            top: 50%;
+            background-color: #e11b22;
+        }
+
+        .horizontal-arrow2 {
+            height: 3px;
+            width: 30px;
+            position: absolute;
+            right: -15%;
+            top: 48%;
+            background-color: #e11b22;
+            transform: rotate(30deg);
+        }
+        .horizontal-arrow3 {
+            height: 3px;
+            width: 30px;
+            position: absolute;
+            right: -15%;
+            top: 52%;
+            background-color: #e11b22;
+            transform: rotate(-30deg);
+        }
+
+        .horizontal-arrow.graphic-three {
+            display: none;
+        }
+        .horizontal-arrow2.graphic-three {
+            display: none;
+        }
+        .horizontal-arrow3.graphic-three {
+            display: none;
+        }
+
+        .mobile-image {
+            display: none;
+        }
+
+        .mobile-graphic.div {
+            display: none;
+        }
+
+
+
+        .iconImg {
+            width: 20%;
+        }
+
+        @media only screen and (max-width: 860px) {
+            .iconImg {
+                width: 80% !important;
+            }
+
+            .three-col-image {
+                flex-direction: column !important;
+            }
+            
+            .column {
+                width: 80% !important;
+                display: flex;
+                flex-direction: column;
+            }
+
+            .horizontal-arrow.graphic-three {
+                display: initial !important;
+            }
+            .horizontal-arrow2.graphic-three {
+                display: initial !important;
+            }
+            .horizontal-arrow3.graphic-three {
+                display: initial !important;
+            }
+
+            .arrow.graphic-three {
+                display: none !important;
+            }
+            .arrow2.graphic-three {
+                display: none !important;
+            }
+            .arrow3.graphic-three {
+                display: none !important;
+            }
+
+            .horizontal-arrow2 {
+                left: 52.25%;
+            }
+
+            .horizontal-arrow3 {
+                left: 48%;
+            }
+
+
+            .desktop-graphic {
+                display: none !important;
+            }
+
+            .header {
+                order: 1;
+            }
+            
+            .paragraph-1 {
+                order: 2;
+                height: auto !important;
+            }
+
+            .paragraph-2 {
+                order: 3;
+            }
+
+            .mobile-graphic.div {
+                display: initial;
+            }
+            .mobile-image {
+            display: initial !important;
+        }
+
+        }
+
+        @media only screen and (min-width: 860px) {
+            .paragraph-1 {
+                min-height: 292.5px;
+                font-size: 1.5rem;
+            }
+
+            .header {
+                font-size: 1.75rem !important;
+                height: 6rem;
+            }
+
+        }
+
+        @media only screen and (min-width: 1336px) {
+            .paragraph-1 {
+                min-height: 225px;
+                font-size: 1.5rem;
+            }
+
+            .header {
+                font-size: 1.75rem !important;
+                height: 6rem;
+            }
+
+        }
+</style>

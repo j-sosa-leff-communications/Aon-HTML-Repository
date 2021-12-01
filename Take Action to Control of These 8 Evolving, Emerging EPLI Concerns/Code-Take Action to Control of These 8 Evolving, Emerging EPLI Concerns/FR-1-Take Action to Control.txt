@@ -1,0 +1,410 @@
+<div id="parent" style="border:#e11b22 2px solid; height: auto; display: flex; margin: 20px; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 75%; margin: 20px;">
+
+        <h3 style="font-size: 2rem;">
+            <span style="color: #e11b22; font-size: 2rem;">
+                Huit préoccupations émergentes
+                et en évolution en matière
+                d’assurance responsabilité civile
+                liée aux pratiques d’emploi
+            </span>
+        </h3>
+        
+        <div style="width: 250px; height: 3px; background-color: #e11b22;" class="header-bar"></div>
+
+    </div>
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Retour au bureau après la pandémie de
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Après un certain nombre d’arrêts et de
+                recommencements en 2021, les employeurs sont
+                en train de ramener les employés sur leur lieu de
+                travail. Plusieurs risques liés à la pandémie de
+                COVID-19 peuvent faire leur apparition tandis que
+                les organisations rouvrent leurs bureaux compte
+                tenu des incertitudes quant au statut vaccinal du
+                personnel, y compris la discrimination fondée sur
+                le handicap, les réclamations pour trouble
+                émotionnel, les congédiements injustifiés et les
+                représailles, la discrimination fondée sur l’âge, les
+                conflits de travail, les manquements en matière
+                de protection et les homicides délictuels.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                À titre de pratique exemplaire, les employeurs
+                devraient revoir leur police d’assurance
+                responsabilité civile liée aux pratiques d’emploi
+                pour évaluer si elle couvrira les enjeux en
+                évolution liés à la pandémie de COVID-19 en ce qui
+                a trait aux questions d’emploi. Pour évaluer la
+                couverture de toute réclamation potentielle, les
+                polices d’assurance responsabilité civile liée aux
+                pratiques d’emploi devraient faire l’objet d’un
+                examen pour déterminer si elles contiennent des
+                exclusions et d’éventuelles exemptions relatives
+                aux dommages corporels et matériels. La
+                couverture dépendrait du libellé utilisé dans la
+                police.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Le cannabis et le milieu de travail
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Le cannabis thérapeutique et à usage récréatif
+                continue d’être une question épineuse en milieu
+                de travail depuis la légalisation de cette substance
+                au Canada et dans certains États américains. Les
+                employeurs doivent trouver un juste équilibre
+                entre le respect des lois en matière d’emploi qui
+                protègent les droits des employés, un ensemble
+                de lois fédérales, provinciales et étatiques qui
+                interdisent de travailler sous l’influence du
+                cannabis et leurs propres politiques d’entreprise
+                en matière de sécurité et de consommation de
+                drogues. Les polices d’assurance responsabilité
+                civile liée aux pratiques d’emploi peuvent couvrir
+                une foule d’accusations pouvant découler de
+                l’intersection du cannabis et du milieu de travail,
+                allant de la discrimination fondée sur un handicap
+                aux allégations de congédiement injustifié.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Harcèlement sexuel
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Tandis que les allégations de harcèlement sexuel
+                en milieu de travail continuent d’être au centre de
+                l’attention partout dans le monde, diverses
+                administrations canadiennes ont créé des
+                obligations légales qui forcent les entreprises à
+                enquêter sur les plaintes de harcèlement au
+                travail et à les traiter, ainsi qu’à élaborer et à
+                maintenir des politiques et des programmes
+                portant explicitement sur le harcèlement sexuel.
+                En Ontario, par exemple, cette obligation légale a
+                pris la forme de modifications à la Loi sur la santé
+                et la sécurité au travail (LSST) de la province. Les
+                employeurs qui ne respectent pas ces obligations
+                peuvent faire l’objet d’une enquête et d’un rapport
+                indépendants aux frais de l’entreprise ou recevoir
+                une lourde amende. Bien que la plupart des polices
+                d’assurance responsabilité civile liée aux
+                pratiques d’emploi excluent les violations de la
+                LSST, et les amendes et sanctions associées,
+                certains programmes d’assurance responsabilité
+                civile liée aux pratiques d’emploi prévoient une
+                certaine indemnité et une certaine couverture
+                des frais de défense dans le cas de poursuites
+                civiles en harcèlement, sexuel ou non.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Pendant ce temps, aux États-Unis, les lois
+                fédérales, locales et d’État prévoient diverses
+                interdictions concernant le harcèlement sexuel
+                qui diffèrent principalement sur le plan du type de
+                dommages-intérêts offerts, mais aussi des
+                exigences de formation dans certains États. Les
+                lois locales et d’État accordent souvent à la partie
+                plaignante la possibilité d’obtenir un jugement en
+                dommages-intérêts et en dommages-intérêts à
+                titre punitif non plafonnés, de sorte que ces
+                poursuites sont plus souvent intentées en vertu
+                de ces lois. Toutefois, des lois d’État tout aussi
+                complexes en matière d’assurances requièrent
+                une analyse minutieuse pour veiller à ce que les
+                polices d’assurance responsabilité civile liée aux
+                pratiques d’emploi puissent répondre à ces types
+                de jugements liés à des actes punitifs et
+                intentionnels.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Atteinte à la vie privée
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Divers délits relatifs à la protection de la vie privée
+                ont été reconnus au cours des dernières années
+                dans les administrations canadiennes. Avec
+                l’élargissement des droits à la protection de la vie
+                privée, les employeurs doivent être prudents
+                dans l’établissement d’un équilibre entre les
+                attentes raisonnables des employés en matière
+                de protection de la vie privée et, par exemple, la
+                surveillance et les fouilles, les annonces publiques
+                ou les déclarations concernant les employés.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Aux États-Unis, deux tendances importantes ont
+                été observées relativement à la protection de la
+                vie privée des employés. La première concerne la
+                saisie des renseignements biométriques des
+                employés, comme le balayage oculaire, les
+                empreintes digitales ou l’utilisation d’un logiciel de
+                reconnaissance faciale. En Illinois en particulier,
+                mais aussi dans de plus en plus d’autres États, des
+                lois ont été adoptées pour rendre illégale la saisie
+                de tels renseignements sans l’autorisation écrite
+                de l’employé. De nombreuses actions collectives
+                ont été intentées en Illinois par des employés en
+                vertu de la Biometric Information Privacy Act
+                (BIPA). La pandémie de COVID-19 est un autre
+                sujet qui soulève d’importantes préoccupations
+                en matière de protection de la vie privée des
+                employés. La recherche des contacts à la suite
+                d’une infection et la pression croissante pour que
+                les employeurs soient au courant du statut de
+                leurs employés concernant le vaccin contre la
+                COVID-19 ont également augmenté la probabilité
+                de poursuites liées à l’atteinte à la vie privée.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                De nombreuses polices d’assurance
+                responsabilité civile liée aux pratiques d’emploi
+                offrent une certaine couverture pour les
+                poursuites relatives à l’atteinte à la vie privée,
+                même si l’étendue de la couverture varie parmi
+                les assureurs et peut varier selon que l’assuré est
+                une société ouverte ou fermée.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Récemment, compte tenu de la hausse des
+                poursuites liées à la BIPA, certains assureurs ont
+                commencé à étudier activement la question de
+                savoir s’ils doivent prendre en charge ou exclure
+                la couverture des questions liées aux données
+                biométriques.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Évolution des motifs de discrimination
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Traditionnellement, les réclamations pour
+                discrimination fondée sur la race, l’origine
+                ethnique et l’âge étaient souvent couvertes par
+                les polices d’assurance responsabilité civile liée
+                aux pratiques d’emploi; les assureurs et les
+                juristes s’attendent toutefois à une hausse des
+                litiges pour de nouveaux motifs de discrimination
+                en matière des droits de la personne. Au cours des
+                dernières années, les lois ont évolué,
+                reconnaissant à la fois des droits en pleine
+                expansion comme les droits de la communauté
+                LGBTQ+ et l’identité de genre, ainsi que des
+                réalités comme la conciliation travail-vie
+                personnelle. Il est essentiel que les polices
+                d’assurance responsabilité civile liée aux
+                pratiques d’emploi prévoient une couverture en
+                cas de discrimination fondée, entre autres choses,
+                sur l’orientation sexuelle, le statut de transgenre
+                ou la dysphorie de genre. La couverture d’autres
+                motifs de discrimination, comme la situation de
+                famille (expressément reconnue par le Tribunal
+                canadien des droits de la personne), est tout aussi
+                importante. Les polices d’assurance
+                responsabilité civile liée aux pratiques d’emploi
+                offrent généralement une large couverture à cet
+                égard, qui, dans la plupart des cas, couvrira les
+                poursuites découlant de ces nouveaux motifs de
+                discrimination.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Congédiements
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Le congédiement d’un employé peut
+                entraîner des risques et des litiges s’il n’est pas
+                mené de façon rigoureuse. Au Canada, les
+                réclamations pour congédiement injustifié sont
+                généralement accompagnées de différends
+                concernant le montant de la rémunération tenant
+                lieu de préavis auquel l’employé licencié a droit.
+                Notamment, au Canada, la période de préavis en
+                vertu de la common law est récemment passée à
+                un seuil supérieur de 26 mois. Aux États-Unis, les
+                réclamations pour congédiement injustifié
+                peuvent prendre de nombreuses formes, et ce,
+                même si l’emploi est censé être occupé à
+                titre précaire.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Au sein du marché canadien de l’assurance
+                responsabilité civile liée aux pratiques d’emploi,
+                certains assureurs, sous réserve de modalités,
+                offrent maintenant une couverture pour une
+                partie du salaire accordé par un tribunal qui
+                excède le montant minimal prévu par la loi ou le
+                montant offert à l’employé au moment du
+                congédiement
+                ou après.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Aux États-Unis, le congédiement injustifié est
+                largement couvert, car les dommages-intérêts
+                sont beaucoup moins normés et moins souvent
+                prévus par les lois qu’au Canada. Par conséquent,
+                les réclamations pour congédiement injustifié
+                sont dans ce pays une source de risques majeure
+                couverte par l’assurance responsabilité civile liée
+                aux pratiques d’emploi.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Entrepreneurs dépendants
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Les entrepreneurs dépendants se retrouvent
+                quelque part sur le spectre de la classification des
+                emplois entre les employés et les entrepreneurs
+                indépendants. En règle générale, les tribunaux
+                canadiens ont classé un entrepreneur dépendant
+                dans la catégorie d’une personne travaillant pour
+                elle-même, mais qui fournit des services réguliers
+                et uniformes à une organisation ou à un nombre
+                limité d’organisations. Par conséquent, cette
+                personne jouit de plusieurs des mêmes droits
+                qu’un employé. Traditionnellement, les polices
+                d’assurance responsabilité civile liée aux
+                pratiques d’emploi ne couvraient pas les
+                personnes occupant ces postes. Cependant, le
+                marché de l’assurance canadien a commencé à
+                évoluer dans une direction favorable pour les
+                assurés, alors que des polices offrent désormais
+                une couverture pour les réclamations concernant
+                des entrepreneurs dépendants.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Aux États-Unis, l’avènement de l’économie à la
+                demande a créé un flou entre les entrepreneurs
+                indépendants et les employés. En conséquence,
+                les lois sur l’emploi ont souvent fait en sorte qu’il
+                soit plus facile pour les travailleurs ayant conclu
+                des ententes énonçant clairement qu’ils ne sont
+                pas employés par l’organisation en question
+                d’intenter des poursuites comme s’ils étaient des
+                employés. Les courtiers ont ainsi travaillé avec
+                diligence avec le marché de l’assurance pour
+                chercher à élargir la couverture contre les
+                réclamations liées à l’emploi de façon à ce que les
+                poursuites pour les actes fautifs couverts
+                autrement qui sont intentées par ces employés
+                non traditionnels soient traitées comme des
+                réclamations couvertes par les polices
+                d’assurance responsabilité civile liée aux
+                pratiques d’emploi, tant que le travailleur prétend
+                être un employé, ce qui est généralement une
+                exigence pour que le plaignant présente une
+                réclamation en vertu de la plupart des lois sur
+                l’emploi des États-Unis.
+            </h3>
+        </div>
+    </div>
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 15%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNmNkZWIxNjU5LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTNiYTJlZTg3N2Q0NWNlMTU5NjA1MzJhMTQwODZkMDQw" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem;">
+                <span style="color: #e11b22;">
+                    Poursuites relatives aux salaires et aux heures travaillées
+                </span>
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Les poursuites relatives aux salaires et aux
+                heures travaillées ont connu une hausse ces
+                dernières années, à la fois en fréquence et en
+                gravité. Ces poursuites prennent souvent la
+                forme d’actions collectives, alors que de grands
+                groupes d’employés cherchent à obtenir des
+                millions de dollars en dommages-intérêts pour
+                des questions comme les salaires impayés, les
+                heures supplémentaires non payées et les erreurs
+                de classification des emplois entraînant des
+                salaires et d’autres avantages sociaux dus. Pour
+                remédier à cette situation, la couverture des
+                poursuites judiciaires liées aux salaires des
+                employés pourrait être offerte aux titulaires de
+                police d’envergure au Canada et aux États-Unis,
+                ceux-ci pouvant faire face à de lourdes pertes
+                advenant une action collective portant sur les
+                salaires et les heures de travail. Cette couverture
+                est généralement offerte à un prix beaucoup plus
+                élevé que celui de l’assurance responsabilité civile
+                traditionnelle liée aux pratiques d’emploi. Le prix
+                de cette couverture a diminué récemment, mais
+                son coût demeure relativement élevé, tout
+                comme le taux de rétention, en raison des
+                tendances en faveur des litiges dans ce domaine.
+            </h3>
+        </div>
+    </div>
+
+
+
+
+</div>
