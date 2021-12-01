@@ -1,0 +1,138 @@
+<div style="border: 2px solid #e11b22; position: relative; min-height: 250px;">
+        <div style="z-index: 1; margin: 30px; position: relative;">
+            <h3 style="color: #e11b22;">
+            3-Pronged Path to Assess Your Employee Wellbeing Risk
+            </h3>
+        </div>
+
+        <div style="width: 100%; display: flex; flex-direction: row; justify-content: space-around;" class="three-col-image">
+            <div style="display: flex;">
+                <img class="mobile-image" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NmI1OWUyMDkxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTE5M2JkMjc3NjcxNWVjOGE0YjY1MTRjYjkxYzdkNTZk" style="object-fit: contain; align-self: baseline;">
+                <div style="width: 32%;" class="column">
+                    <p class="paragraph-1">
+                        The first step in quantifying the risk of
+                        an organization’s employee wellbeing is
+                        to understand its impact and potential
+                        losses that may occur. Understanding
+                        what and who are essential to the
+                        organization can help organize
+                        thoughts around the potential risk.
+                    </p>
+
+                    <h3 style="background-color: #e5eff0;" class="header">
+                        Identify Impact and Indicators
+                    </h3>
+
+                    <div style="height: 400px; display: flex; align-items: center; position: relative; justify-content: center;" class="desktop-graphic">
+                        <div class="arrow"></div>
+                        <div class="arrow2"></div>
+                        <div class="arrow3"></div>
+                        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNzZkYzEzMTQxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkNjBjYWFjMzM5N2NjMjRmZGEyNDYyZGJhNzc5ZWRl" alt="" style="z-index: 1; object-fit: contain; width: 70%;">
+                        <div class="horizontal-arrow"></div>
+                        <div class="horizontal-arrow2"></div>
+                        <div class="horizontal-arrow3"></div>
+                    </div>
+
+                    <p style="font-size: 1.5rem;" class="paragraph-2">
+                        Also, look at the availability of trackable
+                        metrics that can serve as leading and
+                        lagging indicators. Perhaps data shows
+                        there is attrition in worker productivity
+                        during the summer. Also, keep an eye on
+                        include absenteeism rates, employee
+                        health costs, employee engagement
+                        surveys and injury rates.
+                    </p>
+
+                </div>
+            </div>
+            
+
+            <div style="display: flex;">
+                <img class="mobile-image" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NmI2Y2M4MGZhLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWRkMzJjNmNlZDMwMGRhNzJjZjYzYWFkYzU4YWJkMDNm" style="object-fit: contain; align-self: baseline;">
+                <div style="width: 32%;" class="column">
+
+                    <p class="paragraph-1">
+                        Now it’s time to map out potential
+                        scenarios. For example, if you’re a large
+                        retailer and you can quantify that poor
+                        employee wellbeing leads to 30%
+                        turnover, you can then model what that
+                        30% would cost in terms of the hiring
+                        of replacements, onboarding,
+                        productivity lags and revenue losses. 
+                    </p>
+
+                    <h3 style="background-color: #cddbde;" class="header">
+                        Model a Credible Scenario
+                    </h3>
+
+                    <div style="height: 400px; display: flex; align-items: center; position: relative; justify-content: center;" class="desktop-graphic">
+                        <div class="arrow"></div>
+                        <div class="arrow2"></div>
+                        <div class="arrow3"></div>
+                        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNzZkYzEzMTQxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkNjBjYWFjMzM5N2NjMjRmZGEyNDYyZGJhNzc5ZWRl" alt="" style="z-index: 1; object-fit: contain; width: 70%;">
+                        <div class="horizontal-arrow"></div>
+                        <div class="horizontal-arrow2"></div>
+                        <div class="horizontal-arrow3"></div>
+                    </div>
+
+                    <p style="font-size: 1.5rem;" class="paragraph-2">
+                        The key is to make connections among
+                        the various types of risk factors on
+                        individual and organizational levels.
+                        One company may see higher turnover,
+                        while another firm may see poor
+                        employee wellbeing surface in
+                        something such as employee fraud. 
+                    </p>
+
+                </div>
+            </div>
+            
+
+            <div style="display: flex;">
+                <img class="mobile-image" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NmI3NzQ3ZDBmLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWNkMmYzNGY5YjIzYjVhODRlNmZjNjc0YzYwMjQ0OTU5" style="object-fit: contain; align-self: baseline;">
+                <div style="width: 32%;" class="column">
+                    <p class="paragraph-1">
+                        Building workforce resilience around
+                        the risk of employee wellbeing must
+                        begin with a mindset shift. Leaders
+                        who understand that poor mental
+                        health is as much of a risk as other
+                        catastrophic exposures will help set up
+                        their employees — and their company —
+                        for success. 
+                    </p>
+
+                    <h3 style="background-color: #82939a;" class="header">
+                        Make Necessary Trade-offs
+                    </h3>
+
+                    <div style="height: 400px; display: flex; align-items: center; position: relative; justify-content: center;" class="desktop-graphic">
+                        <div class="arrow graphic-three"></div>
+                        <div class="arrow2 graphic-three"></div>
+                        <div class="arrow3 graphic-three"></div>
+                        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNzZkYzEzMTQxLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkNjBjYWFjMzM5N2NjMjRmZGEyNDYyZGJhNzc5ZWRl" alt="" style="z-index: 1; object-fit: contain; width: 70%;">
+                        <div class="horizontal-arrow graphic-three"></div>
+                        <div class="horizontal-arrow2 graphic-three"></div>
+                        <div class="horizontal-arrow3 graphic-three"></div>
+                    </div>
+
+                    <p style="font-size: 1.5rem;" class="paragraph-2">
+                        A strong broker may help companies
+                        understand what employees want out
+                        of their careers and how to go about
+                        changing company culture to improve
+                        employee wellbeing and productivity.
+                        The broker also can help identify gaps
+                        in specific offerings that may trip
+                        employees up. 
+                    </p>
+
+                </div>
+            </div>
+            
+        </div>
+        
+    </div>

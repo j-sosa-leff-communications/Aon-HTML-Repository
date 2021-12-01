@@ -1,0 +1,246 @@
+<div style="margin: 2px;">
+    <div class="topDiv">
+        <h3 style="font-weight: bold;">Take These 5 Steps To Help Prepare for Growing Cyber Threats
+        </h3>
+    </div>
+
+    <div class="innerDiv" style="justify-content: space-between">
+        <h3 style="font-size: 1.5rem; width: 80%;">
+            Risk managers already face a plethora of challenges as they seek risk resilience, including balanding rising rates with 
+            shrinking corporate risk budgets. Now, they can add increasingly sophisticated cyber attacks and the rising cost 
+            of cyber risk to the list of challenges.
+        </h3>
+        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTZlYWRjY2ViLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPThjMjcxZjE2ZTM3M2RkYjI3ZWM0Y2JmMzU4ZDkzN2Nk" class="iconImg">
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            Rising cyber threats are increasing both the difficulty and the importance of risk managers' efforts to take control of their risk. 
+            Cyber risk is no longer solely a technology issue but also an enterprise risk issue, and it's coming under heightened scrutiny from the C-suite,
+            the boardroom and investors.
+        </h3>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            As a result, risk managers and their organizations have a duty to understand both cyber perils and their growing threat to business continuity 
+            and customer data, and how cyber losses and the increasing costs of cyber insurance in the risk transfer markets affect their risk management programs.
+        </h3>
+    </div>
+
+    <div class="innerDiv" id="trailDiv">
+        <div style="height: 1px; width: 100%; background-color: black;"></div>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            The disruption to businesses' growth, competitiveness, operations and existence continues to play out and will dramatically increase in the coming years. 
+            No industry, business or business segment is immune:
+        </h3>
+    </div>
+
+    <div class="innerDiv" id="trailDiv">
+        <div style="height: 1px; width: 100%; background-color: #5d6d78;"></div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #e11b22 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                Ransomware remains a
+                heightened concern, and for
+                good reason: Attacks are up
+                716% from 2019 to 2020, with
+                predicted damages from
+                attacks expected to cost 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">$20 billion</span>
+                <br>
+                in 2021.¹
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                <span style="color: #e11b22; font-size: 2rem;">The widespread 2020 attack</span>
+                <br>
+                on SolarWinds, attributed to
+                foreign nation-state threat
+                actors, targeted supply
+                chains, and affected public
+                and private organizations
+                around the world.²
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #5d6d78 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                <span style="color: #e11b22; font-size: 2rem;">Attackers are
+                    increasingly
+                    intercepting</span>
+                <br>
+                money transfers, stealing
+                sensitive commercial
+                strategies and intellectual
+                property (IP), and running
+                extortion schemes.³
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                The FBI reports that cyber attacks are 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">up 400%</span>
+                <br>
+                from pre-Covid-19 pandemic levels.⁴
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1.5rem;">
+            Cyber crime has certainly caught the attention of organizational leaders as threat actors continue to 
+            develop sophisticated business models to monetize and profit from exploiting technical and human vulnerabilities. 
+            Many organizations have much work to do:
+        </h3>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #e11b22 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                The human factor in cyber attacks continues to be a concern, with employee and user actions accounting for 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">30% </span>
+                of all data breaches.⁵
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                IP theft is estimated to be a
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">$1 trillion problem,</span>
+                <br>
+                yet just one-third of companies protect trade secrets.⁶
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #5d6d78 1px solid;">
+        <div style="display: flex;">
+            <h3 style="width: 50%; border-right: #e11b22 1px solid; font-size: 1.5rem; color: #5d6d78; margin: 5px;">
+                C-suite executives continue to be prime targets for attacks: They are
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">12 times more likely</span>
+                <br>
+                to be pursued and nine times more likely to be victimized.⁷
+            </h3>
+            <h3 style="width: 50%; color: #5d6d78; font-size: 1.5rem; margin: 5px;">
+                The need for thorough cyber due diligence is 
+                <br>
+                <span style="color: #e11b22; font-size: 2rem;">critical</span>
+                <br>
+                in any M&A activity.⁸
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv" style="border-bottom: #5d6d78 1px solid;">
+        <div>
+            <h3>
+                The increasing Cost of Cyber Risk
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                As cyber attacks have risen in frequency and severity, so have insurance losses. The days of
+                inexpensive cyber insurance coverage have ended. Insurers are under extreme pressure to
+                increase rates, tighten underwriting criteria and restrict capacity — or even exit the cyber
+                market entirely — as cyber-insurance-combined ratios have risen dramatically.
+            </h3>
+            <h3 style="font-size: 1.5rem;">
+                Companies can anticipate rate increases as high as 80% into 2022 as carriers work to atone 
+                for growing losses in their cyber-risk books of business.⁹
+            </h3>
+        </div>
+        <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcwMzY0NDQ1LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTU5MTdhYmI5OGY2MTg0OWM5ODIwYmVkYjA3MThmN2I2" class="iconImg">
+    </div>
+
+    <div class="innerDiv" style="margin: 10px 0px;">
+        <h3 style="font-weight: bold;">5 Basic Fundamentals that Risk Managers Should Ensure
+            are Implemented
+        </h3>
+    </div>
+
+    <div class="innerDiv" style="border: #e11b22 1px solid; flex-direction: column;">
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    1. Create a multidisciplinary committee for cyber risk management: 
+                </span>
+                The impact of cyber risk can be felt across every
+                department in a business — from legal to compliance, human resources, finance, communications, operations,
+                information technology and elsewhere. A cyber risk committee is a relatively low cost organizational change that
+                brings together the relevant expertise to assess how cyber risk will impact multiple functions, and how changes in
+                the business — such as an M&A transaction, working with a new vendor, or implementing new technologies — will
+                alter the security posture. The General Counsel, who has an apolitical position in the organization, as well as
+                familiarity with the regulatory environment and downstream liabilities should chair this multidisciplinary committee
+                and report out to the CEO and Board with their findings.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    2. Conduct a security assessment: 
+                </span>
+                The best way to understand the current state of a company’s security, is to conduct
+                an independent security assessment. Smaller organizations with less complex systems may consider SaaS-based
+                solutions, which can be cheaper and allow IT or information security leaders to input information and receive an
+                instant score on their security posture. The results of the assessment should then be shared with the
+                multidisciplinary committee so as to inform where budget is spent to close gaps, prioritize critical data and assets
+                for protection, and what to insure. Investing in red team exercises¹⁰ will help expose weakness and identify priorities
+                for remediation before a real attack can strike.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    3. Create a culture of security: 
+                </span>
+                Weaponize your employees in the fight against cybercrime by investing in the right
+                training and awareness programs, with a focus on engaging programs that change human behavior. No one should
+                be exempt from these exercises — including the board and senior executives. For example, proactively teaching
+                people how to spot suspicious phishing emails as well as implementing better password management practices.
+                These small security strategies can have an immediate positive effect.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; border-bottom: #5d6d78 1px solid; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    4. Incident response planning: 
+                </span>
+                Incident response planning focuses on improving the company’s resilience in the face
+                of attacks.¹¹ Many companies now have an incident response plan, but it’s important to test the plan with all
+                stakeholders involved and keep it regularly updated. Planning for an incident — particularly ransomware — also
+                involves creating regular back-ups of critical data and systems to reduce downtime, and testing defenses, all by
+                simulating attacks.
+            </h3>
+        </div>
+        <div class="innerDiv" style="margin: 10px 0px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTllNTcxZGU4NTRiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4MGJhN2RhN2U3ZjQxNDY5MjViZWNkZDkzNzc1Yjdl" style="width: 50px; margin: 20px;">
+            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    5. Have a tailored cyber insurance policy:  
+                </span>
+                Even after taking a number of proactive steps such as those outlined above,
+                the evolving threat landscape means that no company can be completely secure. It’s important to ensure that any
+                cyber insurance policy considers the risk exposures of greatest concern to the company, as there is no “one size fits
+                all” from a coverage standpoint. A cyber policy should always be treated as part of a broader cyber security strategy
+                that has, at its heart, a proactive approach to risk mitigation.
+            </h3>
+        </div>
+    </div>
+
+    <div class="innerDiv">
+        <h3 style="font-size: 1rem; color: #5d6d78;">
+            This material has been prepared for informational purposes only and should not be relied on for any other purpose. 
+            You should consult with your own legal and information security advisors or IT department before implementing any 
+            recommendation or guidance provided herein.
+        </h3>
+    </div>
+</div>
