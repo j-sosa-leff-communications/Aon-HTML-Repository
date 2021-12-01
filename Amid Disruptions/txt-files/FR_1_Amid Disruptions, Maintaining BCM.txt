@@ -1,0 +1,136 @@
+<div id="parent" style="border:#e11b22 2px solid; height: auto; display: flex; margin: 20px; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 75%; margin: auto; padding-top: 20px;">
+
+        <h3 style="font-size: 2rem;"><span style="color: #e11b22; font-size: 2rem;">Consultez ces ressources pour définir et gérer les services essentiels :</span></h3>
+
+    </div>
+    <div style="display: flex; margin: 20px; justify-content: center;">
+        <div style="display: flex; margin: 20px; justify-content: center; width: 90%; max-width: 100px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWYyZWRiNWNiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTMzYzBmOTAzNmRlOTUxZTE0NTI3NjIzYzA3MWNhNDUx" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+    </div>
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWU0OWM2OGRkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWQxNmI0M2RhNTU3YzY5ZGE1ZDVjZjIyNDY4YmYwZWZh" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 2rem;"><span style="color: #e11b22;">Effectuez régulièrement une analyse pour déterminer quels sont les produits ou services essentiels à la mission et quelles sont les ressources nécessaires pour les soutenir.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVlYTgyOWFjLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWU2YzQ3NGE3NDBiNDZkOWNkN2I2ZDQ4ODAzOWI2ZTU4" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>À mesure que les entreprises évoluent et améliorent leurs portefeuilles de produits et de services, elles doivent effectuer cette analyse de façon régulière, idéalement chaque année.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVmYzAwZjM0LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWRmZmQxOThhMTQwZGNjODQ3MTQ1NTY2ZDk0Y2Y0M2E1" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>Elles doivent également savoir quelles personnes sont nécessaires à chaque étape afin de gérer efficacement les talents en période d’incertitude. </span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWYwNThhZDZiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ4Yzg3OWM5YWQ2MDJkODgwZjQyODQzMjk5YzYxMGY0" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>Au moment de documenter le processus, les entreprises devraient déterminer quelles tâches peuvent être réalisées à distance et lesquelles ne le peuvent pas.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWU0OWM2OGRkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWQxNmI0M2RhNTU3YzY5ZGE1ZDVjZjIyNDY4YmYwZWZh" style="width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 2rem;"><span style="color: #e11b22;">Déterminez les niveaux de criticité par produit ou service.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVkNzI4YjI1LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWIwMDQwMWE4NmM4YmUxODUwYmY2ZTMxOTFhM2I0NmU3" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>Le positionnement des produits et services sur une échelle peut aider les entreprises à déterminer la meilleure façon d’utiliser les ressources à n’importe quel moment.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVhMzVhYWUyLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTFjYzU0MWZhOWUyNTEwNmI1NjMwOTA4ZjUzNjhlMzYz" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 2rem;"><span style="color: #e11b22;">Déterminez pendant combien de temps vous pouvez vous passer d’un processus ou d’un fournisseur donné avant que la perturbation ait des répercussions négatives sur les activités, le service à la clientèle, les finances, la réputation et la conformité contractuelle ou réglementaire.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVjYzgwMDY0LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ5YmM5MWU3ZTJiMDFlOTc1OGI0NGY0ZWVmNGUzZDBh" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>Faire affaire avec plusieurs fournisseurs pour la production d’un produit ou d’un service clé peut vous aider à éviter qu’une interruption des activités d’un fournisseur donné vienne perturber la chaîne d’approvisionnement.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVhZTIwZmQ3LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTAyMWIzOWIzNGM0MzFkN2IxNTQ2NzQ0MTRkODg1NTFk" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 2rem;"><span style="color: #e11b22;">Assurez-vous de comprendre le rôle des fournisseurs à l’égard des tâches essentielles à la mission, et veillez à ce que les fournisseurs disposent de stratégies et de plans de gestion de la continuité des activités </span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVjMjlkZDU2LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTA4NWMxMGU3OWI3ZDkyZWFmNDdmMzg0MWQ2ZWQzYzhl" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>De plus en plus d’entreprises exigent que les ententes-cadres de services comprennent des plans de gestion de la continuité des activités afin d’assurer la responsabilisation et la transparence en cas de risque.</span>
+
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row; justify-content: center; flex-wrap: nowrap;" id="parent">
+        <div style="display: flex; margin: 0px 20px; justify-content: center; width: 20%; max-width: 50px;">
+            <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWE2NWVjMjlkZDU2LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTA4NWMxMGU3OWI3ZDkyZWFmNDdmMzg0MWQ2ZWQzYzhl" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            <h3 style="font-size: 1.5rem;"><span>Une analyse de la résilience des fournisseurs peut aider les entreprises à déterminer la meilleure façon de fournir les produits et services </span>
+
+            </h3>
+        </div>
+    </div>
+
+
+
+
+</div>

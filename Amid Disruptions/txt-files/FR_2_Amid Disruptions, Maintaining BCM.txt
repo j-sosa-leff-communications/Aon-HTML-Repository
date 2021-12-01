@@ -1,0 +1,66 @@
+<div id="parent" style="border:#e11b22 2px solid; height: auto; display: flex; flex-direction: column;">
+    <div class="wrapper">
+        <div class="box1"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Producters, agriculteurs, éleveurs</b></span></div>
+        <div class="box2"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Transformation</b></span></div>
+        <div class="box3"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Produits papetiers</b></span></div>
+        <div class="box4"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Transport entrant</b></span></div>
+        <div class="box5"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Distribution</b></span></div>
+        <div class="box6"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Transport sortant</b></span></div>
+        <div class="box7"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Établissement et personnel</b></span></div>
+        <div class="box8"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1.2rem;" ><b>Client</b></span></div>
+        <div class="box9"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Laitue, légumes</span></div>
+        <div class="box10" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Galettes de steak haché</span></div>
+        <div class="box11" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Emballages et récipients</span></div>
+        <div class="box12" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Parc de véhicules réfrigérants</span></div>
+        <div class="box13" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Centres de distribution mondiaux; personnel en santé et en sécurité</span></div>
+        <div class="box14" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Camionnage à température contrôlée</span></div>
+        <div class="box15" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Travailleurs de premiére ligne et mesures en place pour assurer la santé etla sécurité</span></div>
+        <div class="box16" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Pommes de terre</span></div>
+        <div class="box17" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Frites</span></div>
+        <div class="box18" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Serviettes de table</span></div>
+        <div class="box19" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Disponibilité des conducteurs</span></div>
+        <div class="box20" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Disponibilité des conducteurs</span></div>
+        <div class="box21" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Équipement et entretien aubesoin</span></div>
+        <div class="box22" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Volaille</span></div>
+        <div class="box23" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Produits laitiers</span></div>
+        <div class="box24" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Pailles</span></div>
+        <div class="box25" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Entretien</span></div>
+        <div class="box26" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Entretien</span></div>
+        <div class="box27" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Boeuf</span></div>
+        <div class="box28" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Boissons</span></div>
+        <div class="box29" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Condiments</span></div>
+        <div class="box30" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: 1rem;">Huile pour bacs à friture</span></div>
+    </div>  
+    <div class="wrapper2">
+        <div class="box1"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Producters, agriculteurs, éleveurs</b></span></div>
+        <div class="box2"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Transformation</b></span></div>
+        <div class="box3"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Produits papetiers</b></span></div>
+        <div class="box4"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Transport entrant</b></span></div>
+        <div class="box5"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Distribution</b></span></div>
+        <div class="box6"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Transport sortant</b></span></div>
+        <div class="box7"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Établissement et personnel</b></span></div>
+        <div class="box8"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container" ><span style="color: #e11b22; font-size: 1rem;" ><b>Client</b></span></div>
+        <div class="box9"  style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Laitue, légumes</span></div>
+        <div class="box10" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Galettes de steak haché</span></div>
+        <div class="box11" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Emballages et récipients</span></div>
+        <div class="box12" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Parc de véhicules réfrigérants</span></div>
+        <div class="box13" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Centres de distribution mondiaux; personnel en santé et en sécurité</span></div>
+        <div class="box14" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Camionnage à température contrôlée</span></div>
+        <div class="box15" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Travailleurs de premiére ligne et mesures en place pour assurer la santé etla sécurité</span></div>
+        <div class="box16" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Pommes de terre</span></div>
+        <div class="box17" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Frites</span></div>
+        <div class="box18" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Serviettes de table</span></div>
+        <div class="box19" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Disponibilité des conducteurs</span></div>
+        <div class="box20" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Disponibilité des conducteurs</span></div>
+        <div class="box21" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Équipement et entretien aubesoin</span></div>
+        <div class="box22" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Volaille</span></div>
+        <div class="box23" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Moulin à grains et boulangerie</span></div>
+        <div class="box24" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Pailles</span></div>
+        <div class="box25" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Entretien</span></div>
+        <div class="box26" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Entretien</span></div>
+        <div class="box27" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Boeuf</span></div>
+        <div class="box28" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Boissons</span></div>
+        <div class="box29" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Condiments</span></div>
+        <div class="box30" style="display: flex; justify-content: center; text-align: center; align-items: center;" class="container"><span style="font-size: .75rem;">Huile pour bacs à friture</span></div>
+    </div>
+</div>
