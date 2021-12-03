@@ -1,0 +1,15 @@
+<div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
+    <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTgzZWEzODIyMTg3LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRiZmUwYzJiMGZiZDg5YjdkNzdjYTk3MzgwNzRkZDJl" id="desktop-img" 
+    style="width: 25%; height: fit-content;">
+
+    <img id="mobile-img" src="" 
+    style="width: 100%; height: fit-content;">
+
+    <div style="width: 70%; position: relative;" id="content">
+        <h3 style="font-size: 2rem;">
+            While some hang-ups may prevent early starts, such as underwriters wanting to wait for the most up-to-date financial statement, there are
+        <span style="color: #e11b22; font-size: 2rem;">few downsides to getting a jump on the process. </span>
+        </h3>
+        
+    </div>
+</div>
