@@ -1,0 +1,24 @@
+<div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
+    
+    
+    
+
+    <div style="width: 100%; position: relative; display: flex; float: left; padding-left: 10px;" id="content2">
+        <h3 style="font-size: 1.5rem;">
+            <span style="color: #e11b22; font-size: 1.5rem;">An ESG strategy</span>
+            isn’t something that can be replicated from peers. ESG can look very different for each business, and your ESG program will be 
+        <span style="color: #e11b22; font-size: 1.5rem;">unique to your business’s own facts and circumstances.</span>
+        </h3>
+        
+    </div>
+    <div style= "width: 40%; display: flex; justify-content: flex-end; object-fit: contain;" id="mobile-display"> 
+        <img id="mobile-img" src="" 
+        style= "object-fit: contain; width: 100%;">
+         
+    </div>
+ 
+    <img src="" id="desktop-img" 
+    style="width: 25%; height: fit-content; float: right;">
+
+    
+</div>

@@ -1,0 +1,69 @@
+<div id="parent" style="border:#e11b22 2px solid; height: auto; display: flex; padding: 25px; flex-direction: column;">
+    <div id="content" style="float: left; vertical-align: top; text-align: left; padding-left: 0px; padding-top: 0px; width: 90%;">
+
+        <h3 style="font-size: 2rem;"><span style="color: #e11b22; font-size: 2rem;">What’s included in ESG?</span></h3>
+
+    </div>
+
+
+    <div class="direction" style="display: flex; padding-right: 0px;justify-content: center;">
+        <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="" style="width: 70%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span style="color: #e11b22;">Environmental</span></h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Climate change</h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Energy efficiency</h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Waste management</h3>
+            </div>
+        </div>
+    
+        <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
+            <div style="display: flex;padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="" style="width: 70%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span style="color: #e11b22;">Social</span></h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Diversity and inclusion</h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Fair pay</h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Human rights</h3>
+            </div>
+        </div>
+    
+        <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
+            <div style="display: flex;padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="" style="width: 70%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span style="color: #e11b22;">Governance </span></h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Board composition</h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Compliance</h3>
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;">Succession planning</h3>
+            </div>
+        </div>
+
+    </div>
+    
+
+
+
+</div>
