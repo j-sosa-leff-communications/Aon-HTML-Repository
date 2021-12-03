@@ -1,0 +1,80 @@
+<div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center; padding: 25px; flex-wrap: wrap; justify-content: flex-end;" id="parent">
+    <div style="float: left; vertical-align: top; text-align: left; padding-left: 0px; padding-top: 0px; width: 90%;" id="content">
+        <h3 style="font-size: 2rem;">
+            <span style="color: #e11b22; font-size: 2rem;">Four steps to managing organizational ESG</span>
+        </h3>
+    </div>
+
+    <br>
+
+    <div >
+        <div style="width: 70%;">
+            <img src="" id="desktop-img" 
+            style="width: 50%; height: 50%; float: left; padding-right: 0px;">
+        </div>
+        <div style="display: flex;">
+            <img id="mobile-img" src="" 
+            style="width: 50%; height: 50%; float: left; display: none;">
+            <div style="width: 50%; position: relative;" id="content">
+                <h3 style="font-size: 2rem;">
+                    <span style="color: #e11b22; font-size: 1.5rem;">1. Determine which factors are material</span>
+                </h3>
+            </div>
+        </div>
+    </div>
+
+    <div>
+        <div style="width: 70%;">
+            <img src="" id="desktop-img" 
+            style="width: 50%; height: 50%; float: left; padding-right: 0px;">
+        </div>
+        <div style="display: flex;">
+            <img id="mobile-img" src="" 
+            style="width: 50%; height: 50%; float: left; display: none;">
+            <div style="width: 50%; position: relative;" id="content">
+                <h3 style="font-size: 2rem;">
+                    <span style="color: #e11b22; font-size: 1.5rem;">2. Address Deficiencies</span>
+                </h3>
+            </div>
+        </div>
+        
+    </div>
+
+    <br>
+
+    <div>
+        <div style="width: 70%;">
+            <img src="" id="desktop-img" 
+            style="width: 50%; height: 50%; float: left; padding-right: 0px;">
+        </div>
+        <div style="display: flex;">
+            <img id="mobile-img" src="" 
+            style="width: 50%; height: 50%; float: left; display: none;">
+            <div style="width: 50%; position: relative;" id="content">
+                <h3 style="font-size: 2rem;">
+                    <span style="color: #e11b22; font-size: 1.5rem;">3. Report Succinctly</span>
+                </h3>
+            </div>
+
+        </div>
+    </div>
+
+    <div>
+        <div style="width: 70%;">
+            <img src="" id="desktop-img" 
+            style="width: 50%; height: 50%; float: left; padding-right: 0px;">
+        </div>
+        <div style="display: flex;">
+            <img id="mobile-img" src="" 
+            style="width: 50%; height: 50%; float: left; display: none;">
+            <div style="width: 50%; position: relative;" id="content">
+                <h3 style="font-size: 2rem;">
+                    <span style="color: #e11b22; font-size: 1.5rem;">4. Continuously Reevaluate</span>
+                </h3>
+            </div>
+
+        </div>
+        
+
+    </div>
+</div>
