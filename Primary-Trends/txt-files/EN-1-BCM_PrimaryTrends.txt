@@ -1,0 +1,16 @@
+<div style="border:#e11b22 2px solid; width: 100%; height: auto; display: flex; align-items: center; flex-direction: column;">
+    <div style="display: flex; flex-direction: column; position: relative; z-index: 1; min-height: 400px;">
+        <h3 style="width: 85%; margin: auto; font-size: 1.5rem; padding: 20px 0px;">
+        More than eight in 10 businesses reported that
+        <br>
+        <span style="color: #e11b22; font-size: 2rem;">the pandemic created the need to have an enterprise-wide approuch to risk to solve complex issues and maintain operational resiliancy.</span>
+        <br>
+        
+        </h3>
+        <p style="font-size: .7rem; width: 85%; margin: auto; padding: 5px 0px 25px 0px;">Organizations' Pandemic Response: React and Respond," Aon</p>
+        
+        <div style="padding: 30px 0px; width: 250px; position: absolute; right: 5%; bottom: 5%;">
+            <img src="" style="max-width: 100%; height: auto;">
+        </div>
+    </div>
+</div>

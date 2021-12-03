@@ -1,0 +1,20 @@
+<div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
+    <img src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MTgzZWE2ODZiYjRlLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWVjMDA2ZWMyNjM1ZmM3YWUxZDgwOGVlNTM0YThhZmIy" id="desktop-img" 
+    style="width: 25%; height: fit-content;">
+
+    <img id="mobile-img" src="" 
+    style="width: 100%; height: fit-content;">
+
+    <div style="width: 70%; position: relative;" id="content">
+        <h3 style="width: 100%; margin: auto; font-size: 2rem; padding-bottom: 0px;">
+            The virtual environment has also made it
+        <span style="color: #e11b22; font-size: 2rem;">easier to connect</span>
+        <span style="font-size: 2rem;">the buyer’s senior leadership with underwriters to</span>
+        <span style="color: #e11b22; font-size: 2rem;">tell the buyer’s story more effectively,</span>
+        <span style="font-size: 2rem;">which can be an advantage at renewals.</span>
+
+        
+        </h3>
+        
+    </div>
+</div>

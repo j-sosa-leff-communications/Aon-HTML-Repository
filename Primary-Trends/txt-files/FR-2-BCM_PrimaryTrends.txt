@@ -1,0 +1,21 @@
+<div style="border:#e11b22 2px solid; width: 100%; height: auto; display: flex; align-items: center; flex-direction: column;">
+    <div style="padding: 30px 0px; width: 250px; position: absolute; left: 5%; top: 2%;">
+        <img src="" style="max-width: 100%; height: auto;">
+    </div>
+
+    <div style="display: flex; text-align: right; align-items: flex-end; position: relative; bottom: 1%; z-index: 1; min-height: 400px;">
+        <div style="width: 85%; margin: auto; font-size: 1.5rem; padding: 20px 0px;">
+            Un plan de gestion de la continuité des activités, c’est beaucoup plus qu’un simple document.
+        <br>
+        <span style="color: #e11b22; font-size: 2rem;">Il s’agit d’un plan d’action qui ne
+            fonctionne que si les
+            intervenants clés sont en mesure
+            de le comprendre et de l’exécuter
+            correctement.</span>
+        <br>
+        
+        </div>
+        
+        
+    </div>
+</div>
