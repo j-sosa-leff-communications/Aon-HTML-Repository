@@ -1,6 +1,51 @@
 <header>
     <style>
+        .innerDiv {
+            display: flex; 
+            justify-content: center;
+        }
+
+        .column {
+            float: left;
+            width: 33.33%;
+        }
+
+        .row:after {
+            content: "";
+            display: table;
+            clear: both;
+        }
+        .img_container{
+            display: none;
+        }
+        #mobile-img{
+            display: none;
+        }
+        .img_container2 {
+            flex: 0 0 130px !important;
+            text-align: center;
+            flex-direction: column;
+            position: relative;
+        }
+        .centered {
+            position: absolute;
+            padding-bottom: 280px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .centered2 {
+            position: absolute;
+            padding-bottom: 750px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
         @media only screen and (max-width: 650px) {
+            .innerDiv{
+                display: none !important;
+            }
+
             #desktop-img {
                 display: none;
             }
@@ -11,16 +56,20 @@
                 flex-direction: column;
                 position: relative;
             }
+
+            .img_container2{
+                display: none !important;
+            }
             .centered {
                 position: absolute;
-                padding-bottom: 250px;
+                padding-bottom: 280px;
                 left: 50%;
                 transform: translate(-50%, -50%);
             }
 
             .centered2 {
                 position: absolute;
-                padding-bottom: 700px;
+                padding-bottom: 750px;
                 left: 50%;
                 transform: translate(-50%, -50%);
             }
@@ -45,7 +94,7 @@
     <div class="innerDiv" style="margin: 40px 20px 0px 20px;">
         <h3 style="font-size: 2rem; width: 90%;"><span style="font-size: 2rem;">Managing Risk Costs with Controllable KPIs</span></h3>
     </div>
-    <div class="img_container" style="margin: 10px 10px;">
+    <div class="img_container" style="margin: 2px 2px;">
         <img src="EN-How Data and Analytics Can Help Improve WC_mobile_topred.png" style="width: 90%; margin: 20px;">
         <h3 class="centered" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
             <span style="font-size: 1.5rem; color: #ffffff;">Traditional Risk Costs</span>
@@ -61,7 +110,7 @@
 
     <br>
 
-    <div class="img_container" style="margin: 10px 10px;">
+    <div class="img_container" style="margin: 2px 2px;">
         <img src="EN-How Data and Analytics Can Help Improve WC_mobile_bottomgrey.png" style="width: 90%; margin: 20px;">
         <h3 class="centered2" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
             <span style="font-size: 1.5rem; color: #ffffff;">Controllable KPIs</span>
@@ -94,5 +143,150 @@
             <br>
             <span style="font-size: 1rem; color: #ffffff;">Medical Strategy</span>
         </h3>
+    </div>
+
+    <div class="row">
+        <div class="column">
+            <h3 style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
+                <span style="font-size: 2rem;">Controllable KPIs</span>
+            </h3>
+            <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greyrule.png" style="width: 90%; margin: 20px;">
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Collateral</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Actuarial trends</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Claims Process</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Litigation Management</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Information Management</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Hiring Strategy Prevention</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Program Structure</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+        </div>
+
+        <div class="column">
+            <div class="img_container2" style="margin: 2px 2px;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-shape.png" style="width: 90%; margin: 20px;">
+                    <h3 class="centered" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
+                        <span style="font-size: 1.5rem; color: #ffffff">Traditional Risk Costs</span>
+                        <br>
+                        <span style="font-size: 1rem; color: #ffffff">Insurance Costs</span>
+                        <br>
+                        <span style="font-size: 1rem; color: #ffffff">Claim Costs</span>
+                        <br>
+                        <span style="font-size: 1rem; color: #ffffff">Risk Management Costs</span>
+                        <br>
+                    </h3>
+                </div>
+            </div>
+        </div>
+
+        <div class="column">
+            <h3 style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
+                <span style="font-size: 2rem;">Controllable KPIs</span>
+            </h3>
+            <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greyrule.png" style="width: 90%; margin: 20px;">
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Premiums</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Coverage</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Disability Management</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>State Pass-Throughs</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Absence Management</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Medical Strategy</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+            <div class="innerDiv" style="margin: 10px 0px;">
+                
+                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+                    <span>Prevention</span>
+                </h3>
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            </div>
+        </div>
     </div>
 </div>
