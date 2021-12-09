@@ -1,0 +1,13 @@
+<div style="display: flex; align-items: center; flex-direction: column;">
+    <div style="background: #5fb9e4; width: 100%; display: flex; justify-content: space-evenly;">
+        
+        <img src="" style="width: 100%; object-fit: contain;">
+    </div>
+    <div style="display: flex; flex-direction: column;">
+        <h3 style="width: 85%; margin: auto; font-size: 2rem; padding: 20px 0px;">
+            Les assureurs peuvent modifier les exigences en matière de garanties au fil de l’évolution des conditions du marché; 
+        <span style="color: #5fb9e4;">le rythme de ces changements est parfois difficile à suivre pour les acheteurs d’assurance.</span>
+        </h3>
+        
+    </div>
+</div>

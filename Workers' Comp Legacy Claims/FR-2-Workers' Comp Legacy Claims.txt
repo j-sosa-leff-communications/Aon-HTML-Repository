@@ -1,0 +1,15 @@
+<div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
+
+    <div style="width: 100%; position: relative; display: flex; float: left; margin: 15px 0px 15px 15px;">
+        <h3 style="font-size: 2rem;" class="responsive-header">
+            Certes, les leaders préfèrent de loin utiliser les titres de créance pour faire progresser l’organisation par la recherche et le développement, 
+        <span style="color: #e11b22;">par l’investissement en capital ou par de nouvelles technologies – et non pour souscrire une assurance.</span>
+        </h3>
+        
+    </div>
+ 
+    <img src="" class="responsive-image" style="width: 25%; height: fit-content; float: right; object-fit: contain;">
+
+    
+</div>
+

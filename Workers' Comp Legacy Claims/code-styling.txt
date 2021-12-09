@@ -1,0 +1,47 @@
+<style>
+
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+    
+        .img_container {
+            min-width: 50px !important;
+            min-height: 150px !important;
+            padding: 0px 20px 20px 20px;
+            height: fit-content;
+            display: flex;
+            justify-content: center;
+            object-fit: contain;
+        }
+    
+        @media only screen and (max-width: 650px) {
+            .img_container {
+                min-width: 130px !important;
+            }
+    
+            #content {
+                margin: auto;
+                width: 100% !important;
+            }
+    
+            #parent {
+                flex-direction: row;
+            }
+            .direction{
+                flex-direction: column;
+            }
+
+            .responsive-header {
+                font-size: 1.5rem !important;
+                line-height: 2rem !important;
+            }
+
+            .responsive-image {
+                width: 40% !important;
+            }
+        }
+    </style>
