@@ -1,14 +1,11 @@
 <div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
-    <img src="" id="desktop-img" 
+    <img src="" class="responsive-image" 
     style="width: 25%; height: fit-content; object-fit: contain;">
 
-    <img id="mobile-img" src="" 
-    style="width: 50%; height: fit-content; object-fit: contain;">
-
-    <div style="width: 70%; position: relative; padding-right: 10px;" id="content">
-        <h3 style="font-size: 1.5rem;">
+    <div style="width: 70%; position: relative; margin: 15px;" id="content">
+        <h3 style="font-size: 2rem;" class="responsive-header">
             L’approche idéale pour se libérer de garanties consiste 
-        <span style="color: #e11b22; font-size: 1.5rem;">à s’engager avec les assureurs dans ces différents domaines, dans le cadre d’une stratégie multiniveaux.</span>
+        <span style="color: #e11b22;">à s’engager avec les assureurs dans ces différents domaines, dans le cadre d’une stratégie multiniveaux.</span>
         </h3>
         
     </div>

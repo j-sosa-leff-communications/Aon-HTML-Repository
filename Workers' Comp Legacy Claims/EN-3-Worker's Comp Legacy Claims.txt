@@ -1,14 +1,10 @@
 <div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
-    <img src="" id="desktop-img" 
-    style="width: 25%; height: fit-content;">
+    <img src="" class="responsive-image" style="width: 25%; height: fit-content;">
 
-    <img id="mobile-img" src="" 
-    style="width: 50%; height: fit-content;">
-
-    <div style="width: 70%; position: relative; padding-right: 10px;" id="content">
+    <div style="width: 70%; position: relative; margin: 15px;" id="content">
         <h3 style="font-size: 2rem;">
         The ideal approach to unlocking collateral is 
-        <span style="color: #e11b22; font-size: 2rem;">to engage with insurers across these various areas with a multilevel strategy.</span>
+        <span style="color: #e11b22;">to engage with insurers across these various areas with a multilevel strategy.</span>
         </h3>
         
     </div>
