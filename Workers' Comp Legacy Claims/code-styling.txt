@@ -1,9 +1,5 @@
 <style>
 
-        .backgrounimg {
-            z-index: -1;
-        }
-
         img[src=""] {
             background-color: #e11b22;
             min-height: 100px;
@@ -22,29 +18,9 @@
             object-fit: contain;
         }
     
-        .header {
-            grid-column: 1 / 4;
-        }
-        
-    
-        #mobile-img {
-                display: none;
-        }
-        #mob{
-            display: none;
-        }
-    
         @media only screen and (max-width: 650px) {
-            #desktop-img {
-                display: none;
-            }
-
             .img_container {
                 min-width: 130px !important;
-            }
-    
-            #mobile-img {
-                display: initial !important;
             }
     
             #content {
@@ -57,9 +33,6 @@
             }
             .direction{
                 flex-direction: column;
-            }
-            #mob{
-                width: 100% !important; 
             }
 
             .responsive-header {
