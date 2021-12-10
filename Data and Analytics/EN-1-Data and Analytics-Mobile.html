@@ -3,6 +3,7 @@
         .innerDiv {
             display: flex; 
             justify-content: center;
+            align-items: center;
         }
 
         .column {
@@ -42,6 +43,14 @@
             transform: translate(-50%, -50%);
         }
 
+        .centered3 {
+                position: absolute;
+                padding-bottom: 250px;
+                left: 50%;
+                transform: translate(-50%, -50%);
+            }
+
+
         @media only screen and (max-width: 650px) {
             .row:after{
                 display: none !important;
@@ -61,14 +70,14 @@
 
             .centered {
                 position: absolute;
-                padding-bottom: 280px;
+                padding-top: 500px;
                 left: 50%;
                 transform: translate(-50%, -50%);
             }
 
             .centered2 {
                 position: absolute;
-                padding-bottom: 100px;
+                padding-top: 1360px;
                 left: 50%;
                 transform: translate(-50%, -50%);
             }
@@ -89,11 +98,11 @@
     </style>
 </header>
 
-<div id="parent" style="border: #5d6d78 1px solid; flex-direction: column;">
-    <div id="parent" style="margin: 40px 20px 0px 20px;">
+<div class="innerDiv" style="border: #5d6d78 1px solid; flex-direction: column;">
+    <div class="innerDiv" style="margin: 40px 20px 0px 20px;">
         <h3 style="font-size: 2rem; width: 90%;"><span style="font-size: 2rem;">Managing Risk Costs with Controllable KPIs</span></h3>
     </div>
-    <div class="img_container" style="margin: 2px 2px;">
+    <div class="img_container" style="margin: 10px 10px;">
         <img src="EN-How Data and Analytics Can Help Improve WC_mobile_topred.png" style="width: 90%; margin: 20px;">
         <h3 class="centered" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
             <span style="font-size: 1.5rem; color: #ffffff;">Traditional Risk Costs</span>
@@ -109,7 +118,7 @@
 
     <br>
 
-    <div class="img_container" style="margin: 2px 2px;">
+    <div class="img_container" style="margin: 10px 10px;">
         <img src="EN-How Data and Analytics Can Help Improve WC_mobile_bottomgrey.png" style="width: 90%; margin: 20px;">
         <h3 class="centered2" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
             <span style="font-size: 1.5rem; color: #ffffff;">Controllable KPIs</span>
@@ -143,6 +152,8 @@
             <span style="font-size: 1rem; color: #ffffff;">Medical Strategy</span>
         </h3>
     </div>
+    
+    
 
     <div class="row">
         <div class="column">
@@ -211,7 +222,7 @@
         <div class="column">
             <div class="img_container" style="margin: 2px 2px;">
                 <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-shape.png" style="width: 90%; margin: 20px;">
-                    <h3 class="centered" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
+                    <h3 class="centered3" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
                         <span style="font-size: 1.5rem; color: #ffffff">Traditional Risk Costs</span>
                         <br>
                         <span style="font-size: 1rem; color: #ffffff">Insurance Costs</span>
