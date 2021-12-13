@@ -16,9 +16,23 @@
             display: table;
             clear: both;
         }
+
+        .backgrounimg {
+            z-index: -1;
+        }
+    
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+
         #mobile-img{
             display: none;
         }
+
         .img_container {
             min-width: 50px !important;
             min-height: 150px !important;
@@ -34,6 +48,14 @@
             padding-bottom: 280px;
             left: 50%;
             transform: translate(-50%, -50%);
+        }
+
+        .header {
+            grid-column: 1 / 4;
+        }
+
+        #mob{
+            display: none;
         }
 
         .centered2 {
@@ -91,8 +113,16 @@
                 flex: 0 0 100% !important;
             }
 
-            #parent {
+            .direction{
                 flex-direction: column;
+            }
+            
+            #mob{
+                width: 100% !important; 
+            }
+
+            #parent {
+                flex-direction: row;
             }
         }
     </style>
@@ -102,193 +132,166 @@
     <div class="innerDiv" style="margin: 40px 20px 0px 20px;">
         <h3 style="font-size: 2rem; width: 90%;"><span style="font-size: 2rem;">Managing Risk Costs with Controllable KPIs</span></h3>
     </div>
-    <div class="img_container" style="margin: 10px 10px;">
-        <img src="EN-How Data and Analytics Can Help Improve WC_mobile_topred.png" style="width: 90%; margin: 20px;">
-        <h3 class="centered" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
-            <span style="font-size: 1.5rem; color: #ffffff;">Traditional Risk Costs</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Insurance Costs</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Claim Costs</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Risk Management Costs</span>
-            <br>
-        </h3>
-    </div>
 
-    <br>
+    <div class="direction" style="display: flex; padding-right: 0px;justify-content: center;">
+        <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Controllable KPIs</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greyrule.png" style="width: 90%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Collateral</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Actuarial trends</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Claims Process</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Litigation Management</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Information Management</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Hiring Strategy Prevention</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Program Structure</span></h3>
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            
+           
+           
+            
+        </div>
 
-    <div class="img_container" style="margin: 10px 10px;">
-        <img src="EN-How Data and Analytics Can Help Improve WC_mobile_bottomgrey.png" style="width: 90%; margin: 20px;">
-        <h3 class="centered2" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
-            <span style="font-size: 1.5rem; color: #ffffff;">Controllable KPIs</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Collateral</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Actuarial trends</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Claims Process</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Litigation Management</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Information Management</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Hiring Strategy Prevention</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Program Structure</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Prevention</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Premiums</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Coverage</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Disability Management</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">State Pass-Throughs</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Absence Management</span>
-            <br>
-            <span style="font-size: 1rem; color: #ffffff;">Medical Strategy</span>
-        </h3>
-    </div>
-    
-    
-
-    <div class="row">
-        <div class="column">
-            <h3 style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
-                <span style="font-size: 2rem;">Controllable KPIs</span>
-            </h3>
-            <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greyrule.png" style="width: 90%; margin: 20px;">
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Collateral</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+        <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
+            <div style="display: flex;padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-shape.png" style="width: 70%;">
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Actuarial trends</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Traditional Risk Costs</span></h3>
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Claims Process</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Insurance Costs</span></h3>
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Litigation Management</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Claim Costs</span></h3>
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Information Management</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-            </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Hiring Strategy Prevention</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-            </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Program Structure</span>
-                </h3>
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Risk Management Costs</span></h3>
             </div>
         </div>
 
-        <div class="column">
-            <div class="img_container" style="margin: 2px 2px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-shape.png" style="width: 90%; margin: 20px;">
-                    <h3 class="centered3" style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
-                        <span style="font-size: 1.5rem; color: #ffffff">Traditional Risk Costs</span>
-                        <br>
-                        <span style="font-size: 1rem; color: #ffffff">Insurance Costs</span>
-                        <br>
-                        <span style="font-size: 1rem; color: #ffffff">Claim Costs</span>
-                        <br>
-                        <span style="font-size: 1rem; color: #ffffff">Risk Management Costs</span>
-                        <br>
-                    </h3>
-                </div>
+        <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Controllable KPIs</span></h3>
             </div>
-        </div>
-
-        <div class="column">
-            <h3 style="width: 80%; font-weight: normal; text-align: center; display: flex; flex-direction: column;">
-                <span style="font-size: 2rem;">Controllable KPIs</span>
-            </h3>
-            <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greyrule.png" style="width: 90%; margin: 20px;">
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Premiums</span>
-                </h3>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greyrule.png" style="width: 90%;">
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Coverage</span>
-                </h3>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Disability Management</span>
-                </h3>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>State Pass-Throughs</span>
-                </h3>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Premiums</span></h3>
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Absence Management</span>
-                </h3>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Medical Strategy</span>
-                </h3>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
             </div>
-            <div class="innerDiv" style="margin: 10px 0px;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 50px; margin: 0px 20px; object-fit: contain;">
-                <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                    <span>Prevention</span>
-                </h3>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Coverage</span></h3>
+            </div><div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Disability Management</span></h3>
+            </div><div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>State Pass-Throughs</span></h3>
+            </div><div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Absence Management</span></h3>
+            </div><div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Medical Strategy</span></h3>
+            </div><div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-smallsquare.png" style="width: 10%;">
+            </div>
+            <div style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+                <img src="EN-How-Data-and-Analytics-Can-Help-Improve-WC-center-greylinefromcenter.png" style="width: 20%;">
+            </div>
+            <div id="content" style="width: 50%; position: relative; margin: auto;">
+                <h3 style="font-size: 1.5rem; text-align: center;"><span>Prevention</span></h3>
             </div>
         </div>
     </div>
