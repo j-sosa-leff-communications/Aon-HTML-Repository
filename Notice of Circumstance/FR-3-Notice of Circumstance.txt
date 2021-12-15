@@ -1,69 +1,69 @@
 <div>
-    <div class="innerDiv" style="margin: 10px 0px;">
-        <h3 style="font-weight: bold; font-size: 2rem; color: #e11b22">Reasons for Circumstance</h3>
-        <h3 style="font-weight: normal; font-size: 1.5rem;">There are many strategic reasons for tagging and expiring policy with a future claim. 
-        Some factors to take into consideration:</h3>
+    <div class="innerDiv" style="margin: 10px 0px; flex-direction: column; align-items: flex-start;">
+        <h3 style="font-weight: bold; font-size: 2rem; color: #e11b22">Raisons pour un avis de circonstance</h3>
+        <h3 style="font-weight: normal; font-size: 2rem;">Il y a de nombreuses raisons stratégiques d’associer une police venant à 
+            échéance à une réclamation future. Voici certains facteurs à prendre en considération :</h3>
     </div>
 
-    <div class="innerDiv" style="flex-direction: column;">
+    <div class="innerDiv" style="flex-direction: column; display: flex; align-items: flex-start; width: 80%; margin: auto;">
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                Will the business be moving to a new insurer?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                L’entreprise passera-t-elle à un nouvel assureur?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                Do you have the specifics to satisfy the notice requirements?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Avez-vous les données particulières pour satisfaire aux exigences de l’avis?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                Is the current limit unencumbered?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Le montant de garantie actuel est-il disponible? 
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                What is the breadth of coverage under the current policy?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Quelle est l’étendue de la couverture en vertu de la police actuelle?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                What are the relative limits and retentions of the current and going-forward policy?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Quels sont les montants de garantie et les seuils de rétention relatifs de la police actuelle et future?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                What are the current market conditions: hard or soft?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Quelles sont les conditions actuelles du marché : étroit ou faible?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                Will there be a specific matter exclusion on the going-forward policy, and how broad will it be?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Y aura-t-il une exclusion relative à des questions précises dans la politique à venir, et quelle sera son étendue?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                Will notable new exclusions, such as COVID-19 or other event-driven issues, be added at renewal?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                De nouvelles exclusions notables, comme la COVID-19 ou d’autres questions liées à des événements, seront-elles ajoutées lors du renouvellement?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                What is the wording of the prior notice exclusion?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Quel est le libellé de l’exclusion relative à l’avis préalable?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
-                Have you already been required to give the insurer loss information that deals with the circumstance?
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
+                Vous a-t-on déjà demandé de fournir des renseignements sur les pertes qui traitent de la circonstance à l’assureur?
             </h3>
         </div>
 

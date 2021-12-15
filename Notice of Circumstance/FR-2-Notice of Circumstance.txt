@@ -1,53 +1,6 @@
-<head>
-    <style>
-
-        img[src=""] {
-            background-color: #e11b22;
-            min-height: 100px;
-            min-width: 100px;
-            z-index: 1;
-            display: initial !important;
-        }
-    
-        .img_container {
-            min-width: 50px !important;
-            min-height: 150px !important;
-            padding: 0px 20px 20px 20px;
-            height: fit-content;
-            display: flex;
-            justify-content: center;
-            object-fit: contain;
-        }
-    
-        .header {
-            grid-column: 1 / 4;
-        }
-        
-    
-        #mobile-img {
-                display: none;
-        }
-    
-        @media only screen and (max-width: 650px) {
-
-            .img_container {
-                min-width: 130px !important;
-            }
-    
-            #content {
-                margin: auto;
-            }
-    
-            #parent {
-                flex-direction: row;
-            }
-        }
-    </style>
-</head>
-
 <div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
-    <img src="EN_Ex3_5ESGmyths_mobile-illustration.png" 
-    style="width: 25%; height: fit-content; object-fit: contain;">
+    <img src="" 
+    style="width: 25%; height: fit-content; object-fit: contain; margin: 20px 20px 20px 0px;">
 
     <div style="width: 70%; position: relative; padding-right: 10px;" id="content">
         <h3 style="font-size: 2rem; color: #e11b22">

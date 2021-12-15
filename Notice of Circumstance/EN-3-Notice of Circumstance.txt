@@ -1,68 +1,68 @@
 <div>
-    <div class="innerDiv" style="margin: 10px 0px;">
+    <div class="innerDiv" style="margin: 10px 0px; flex-direction: column; align-items: flex-start;">
         <h3 style="font-weight: bold; font-size: 2rem; color: #e11b22">Reasons for Circumstance</h3>
-        <h3 style="font-weight: normal; font-size: 1.5rem;">There are many strategic reasons for tagging and expiring policy with a future claim. 
+        <h3 style="font-weight: normal; font-size: 2rem;">There are many strategic reasons for tagging and expiring policy with a future claim. 
         Some factors to take into consideration:</h3>
     </div>
 
-    <div class="innerDiv" style="flex-direction: column;">
+    <div class="innerDiv" style="flex-direction: column; display: flex; align-items: flex-start; width: 80%; margin: auto;">
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 Will the business be moving to a new insurer?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 Do you have the specifics to satisfy the notice requirements?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 Is the current limit unencumbered?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 What is the breadth of coverage under the current policy?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 What are the relative limits and retentions of the current and going-forward policy?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 What are the current market conditions: hard or soft?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 Will there be a specific matter exclusion on the going-forward policy, and how broad will it be?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 Will notable new exclusions, such as COVID-19 or other event-driven issues, be added at renewal?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 What is the wording of the prior notice exclusion?
             </h3>
         </div>
         <div class="innerDiv" style="margin: 10px 0px;">
             <img src="" style="width: 100px; margin: 20px; max-width: 20%; justify-self: center;">
-            <h3 style="font-size: 1.5rem; width: 80%; font-weight: normal;">
+            <h3 style="font-size: 2rem; width: 80%; font-weight: normal;">
                 Have you already been required to give the insurer loss information that deals with the circumstance?
             </h3>
         </div>
