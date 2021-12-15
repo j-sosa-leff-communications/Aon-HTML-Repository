@@ -29,9 +29,6 @@
         }
     
         @media only screen and (max-width: 650px) {
-            #desktop-img {
-                display: none;
-            }
 
             .img_container {
                 min-width: 130px !important;
@@ -53,12 +50,8 @@
     style="width: 25%; height: fit-content; object-fit: contain;">
 
     <div style="width: 70%; position: relative; padding-right: 10px;" id="content">
-        <h3 style="font-size: 1.5rem;">
-        La façon dont les entreprises
-        <span style="color: #e11b22">traitent leurs employés, interagissent avec leurs clients </span>
-        et 
-        <span style="color: #e11b22">gèrent leurs chaînes d’approvisionnement relève </span>
-        des facteurs ESG.  
+        <h3 style="font-size: 2rem; color: #e11b22">
+            Lorsqu’il produit un avis de circonstance, l’assuré marque cette période de la police.
         </h3>
         
     </div>

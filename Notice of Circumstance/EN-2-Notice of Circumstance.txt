@@ -1,0 +1,12 @@
+<div style="border:#e11b22 2px solid; height: auto; display: flex; align-items: center;" id="parent">
+    <img src="" 
+    style="width: 25%; height: fit-content; object-fit: contain;">
+
+    <div style="width: 70%; position: relative; padding-right: 10px;" id="content">
+        <h3 style="font-size: 2rem; color: #e11b22">
+            When noticing a circumstance, the insured is putting a marker in that policy period.
+        </h3>
+        
+    </div>
+</div>
+

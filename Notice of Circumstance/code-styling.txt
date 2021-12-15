@@ -1,0 +1,40 @@
+<style>
+
+        .innerDiv {
+            display: flex; 
+            justify-content: center;
+            align-items: center;
+        }
+
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+    
+        .header {
+            grid-column: 1 / 4;
+        }
+        
+    
+        #mobile-img {
+                display: none;
+        }
+
+        @media only screen and (max-width: 650px) {
+
+            .img_container {
+                min-width: 130px !important;
+            }
+    
+            #content {
+                margin: auto;
+            }
+    
+            #parent {
+                flex-direction: row;
+            }
+        }
+    </style>
