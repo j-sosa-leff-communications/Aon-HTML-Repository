@@ -49,6 +49,24 @@
             transform: translate(-50%, -50%);
         }
 
+        .vll{
+            background-color:#82949c;
+            height: 80%;
+            width: 3px;
+            position: absolute;
+            right: 1%;
+            bottom: 1%;
+        }
+
+        .vlr{
+            background-color:#82949c;
+            height: 80%;
+            width: 3px;
+            position: absolute;
+            left: 1%;
+            bottom: 1%;
+        }
+
         .header {
             grid-column: 1 / 4;
         }
@@ -89,6 +107,14 @@
                 min-width: 130px !important;
             }
 
+            .vll{
+                display: none;
+            }
+
+            .vlr{
+                display: none;
+            }
+
             .centered {
                 position: absolute;
                 padding-top: 500px;
@@ -118,6 +144,7 @@
 
             .direction{
                 flex-direction: column;
+                width: 100% !important;
             }
 
             .hide{
@@ -148,4 +175,4 @@
                 flex-direction: row;
             }
         }
-</style>
+    </style>
