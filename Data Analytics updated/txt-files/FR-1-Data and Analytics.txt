@@ -1,210 +1,118 @@
-<div class="innerDiv" style="border: #5d6d78 1px solid; flex-direction: column;">
-    <div class="innerDiv" style="margin: 40px 20px 0px 20px;">
+<div class="innerDiv" style="flex-direction: column;">
+    <div class="innerDiv" style="margin: 30px 20px 0px 20px;">
         <h3 style="font-size: 2rem; width: 100%;"><span style="font-size: 2rem;">Gestion des coûts liés aux risques à l’aide d’indicateurs de rendement clés contrôlables</span></h3>
     </div>
 
-    <div class="direction" style="display: flex; padding-left: 0px;justify-content: center;">
-        <div id="mob" class="gray" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
-            <div id="content" style="width: 50%; position: relative; margin: auto;">
-                <h3 class="txtsize" style="font-size: 1.5rem; text-align: center;"><span>Indicateurs de rendement clés contrôlables</span></h3>
-            </div>
-            <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
-                <img src="" style="width: 90%;">
-            </div>
-            <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                <img src="" style="width: 2%;">
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Garantie</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Tendances actuarielles</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: right;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Processus de demande de règlement</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: right;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Gestion des litiges</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: right;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Gestion des renseignements</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: right;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Prévention de la stratégie d’embauche</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-            <div style="display: flex;">
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: right;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Structure de programme</span></h3>
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: right;">
-                    <img src="" style="width: 200%; padding-left: 40%;">
-                </div>
-            </div>
-        </div>
-
-        <div id="mob" class="red" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; padding-top: 20%; position: relative;" id="parent">     
+    <div class="direction" style="display: flex; padding-left: 20%;justify-content: center;">
+        <div id="mob" class="red" style="display: block; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; padding-top: 20%; position: relative; max-width: 80%;" id="parent"> 
+            <ul style="margin: 0px auto; max-width: 25ch; justify-content: center;">    
             <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 class="txtsize" style="font-size: 1.5rem; text-align: center; margin-block-end: 0px;"><span style="background-color: #eb1d24; color: white;">Coûts du risque traditionnel</span></h3>
+                <h3 style="font-size: 2rem; text-align: center; margin-block-end: 0px;"><span style="background-color: #eb1d24; color: white;">Coûts du risque traditionnel</span></h3>
             </div>
             <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: center; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;">Coûts d’assurance</span></h3>
+                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Coûts d’assurance</li></span></h3>
             </div>
             <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: center; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;">Coûts des demandes de règlement</span></h3>
+                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Coûts des demandes de règlement</li></span></h3>
             </div>
             <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: center; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;">Coûts de la gestion des risques</span></h3>
+                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Coûts de la gestion des risques</li></span></h3>
             </div>
-            <div class="hide" style="display: flex; padding-bottom: 0px;justify-content: center;width: 30%;margin: auto; float: left;">
-                <img src="" style="width: 35%; padding-right: 140%;">
-            </div>
-            <div class="hide" style="display: flex; padding-bottom: 0px;justify-content: center;width: 30%;margin: auto; float: right;">
-                <img src="" style="width: 35%; padding-left: 140%;">
-            </div>
-            <div class="hide" style="display: flex; justify-content: center; width: 100%; position: relative; scroll-margin-block-start: 0px; top: -10%;">
-                <img src="" style="width: 100%;">
-            </div>
+            </ul>
+            
             
         </div>
 
-        <div id="mob" class="gray" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 30%; justify-content: space-between;" id="parent">
-            <div class="hide" id="content" style="width: 50%; position: relative; margin: auto;">
-                <h3 style="font-size: 1.5rem; text-align: center;"><span>Indicateurs de rendement clés contrôlables</span></h3>
-            </div>
-            <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
-                <img src="" style="width: 90%;">
-            </div>
-            <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                <img src="" style="width: 2%;">
+        <div id="mob" class="gray" style="display: block; position: relative; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; justify-content: space-between; max-width: 80%;">
+            <ul style="margin: 0px auto; max-width: 25ch; justify-content: center;">
+            <div id="content" style="width: 100%; position: relative; margin: auto;">
+                <h3 style="font-size: 2rem; text-align: center;"><span>Indicateurs de rendement clés contrôlables</span></h3>
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Garantie</li></span></h3>
                 </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Prévention</span></h3>
-                </div>
+                
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Tendances actuarielles</li></span></h3>
                 </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Primes</span></h3>
-                </div>
+                
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Processus de demande de règlement</li></span></h3>
                 </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Couverture</span></h3>
-                </div>
+                
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion des litiges</li></span></h3>
                 </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Gestion de l’invalidité</span></h3>
-                </div>
+                
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion des renseignements</li></span></h3>
                 </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
+                
+            </div>
+            <div style="display: flex;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Prévention de la stratégie d’embauche</li></span></h3>
                 </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Transferts de l’état</span></h3>
+                
+            </div>
+            <div style="display: flex;">
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Structure de programme</li></span></h3>
+                </div>
+                
+            </div>
+            <div style="display: flex;">
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Prévention</li></span></h3>
                 </div>
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Gestion des absences</span></h3>
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Primes</li></span></h3>
                 </div>
             </div>
             <div style="display: flex;">
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 200%; padding-right: 40%;">
-                </div>
-                <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 20%;margin: auto; float: left;">
-                    <img src="" style="width: 50%;">
-                </div>
-                <div id="content" class="float" style="width: 50%; position: relative; margin: auto; float: left;">
-                    <h3 style="font-size: 1.5rem; text-align: center;"><span>Stratégie médicale</span></h3>
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Couverture</li></span></h3>
                 </div>
             </div>
+            <div style="display: flex;">
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion de l’invalidité</li></span></h3>
+                </div>
+            </div>
+            <div style="display: flex;">
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Transferts de l’état</li></span></h3>
+                </div>
+            </div>
+            <div style="display: flex;">
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion des absences</li></span></h3>
+                </div>
+            </div>
+            <div style="display: flex;">
+                
+                <div id="content" style="width: 100%; position: relative; float: center;">
+                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Stratégie médicale</li></span></h3>
+                </div>
+            </div>
+            </ul>
         </div>
     </div>
 </div>
