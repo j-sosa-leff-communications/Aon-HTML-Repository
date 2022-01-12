@@ -3,8 +3,8 @@
         <h3 style="font-size: 2rem; width: 100%;"><span style="font-size: 2rem;">Gestion des coûts liés aux risques à l’aide d’indicateurs de rendement clés contrôlables</span></h3>
     </div>
 
-    <div class="direction" style="display: flex; padding-left: 20%;justify-content: center;">
-        <div id="mob" class="red" style="display: block; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; padding-top: 20%; position: relative; max-width: 80%;" id="parent"> 
+    <div class="direction" style="display: flex; padding-left: 10%;justify-content: center;">
+        <div id="mob" class="red" style="display: block; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; padding-top: 20%; position: relative; max-width: 90%;" id="parent"> 
             <ul style="margin: 0px auto; max-width: 25ch; justify-content: center;">    
             <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-end: 0px; position: relative; z-index: 1;">
                 <h3 style="font-size: 2rem; text-align: center; margin-block-end: 0px;"><span style="background-color: #eb1d24; color: white;">Coûts du risque traditionnel</span></h3>
@@ -23,7 +23,7 @@
             
         </div>
 
-        <div id="mob" class="gray" style="display: block; position: relative; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; justify-content: space-between; max-width: 80%;">
+        <div id="mob" class="gray" style="display: block; position: relative; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; justify-content: space-between; max-width: 90%;">
             <ul style="margin: 0px auto; max-width: 25ch; justify-content: center;">
             <div id="content" style="width: 100%; position: relative; margin: auto;">
                 <h3 style="font-size: 2rem; text-align: center;"><span>Indicateurs de rendement clés contrôlables</span></h3>
