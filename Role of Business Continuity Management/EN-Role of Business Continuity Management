@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .circle-desktop{
+            background-color: #eb1d24;
+            color: white;
+            text-align: center;
+            min-width: 30ch;
+            border-radius: 5px;
+            box-shadow:5px 5px black;
+        }
+
+    </style>
+</head>
+<body>
+    <div>
+        <h3 style="color: #eb1d24; font-size: 2rem;">
+            Companies can take a three-pronged approach:
+        </h3>
+        <div>
+            <div id="circle-1" class="circle-desktop">Sharing information with carriers</div>
+            <div id="circle-2" class="circle-desktop">Conducting a vendor resiliency analysis</div>
+            <div id="circle-3" class="circle-desktop">Assessing company agility</div>
+        </div>
+    </div>
+</body>
+</html>

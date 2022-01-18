@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .circle-desktop{
+            background-color: #eb1d24;
+            color: white;
+            text-align: center;
+            width: 15ch;
+            min-height: 15ch;
+            border-radius: 15ch;
+            box-shadow:5px 5px 10px #00000070;
+            display: grid;
+            align-items: center;
+            border: 3px solid white;
+        }
+
+        #circle-1 {
+            position: relative;
+            margin: 0px auto;
+            z-index: 3;
+
+        }
+
+        #circle-2 {
+            position: absolute;
+            margin-left: 20%;
+            left: 0%;
+            bottom: 0%;
+            z-index: 3;
+        }
+
+        #circle-3 {
+            position: absolute;
+            margin-right: 20%;
+            right: 0%;
+            bottom: 0%;
+            z-index: 3;
+        }
+
+        .line{
+            width: 50%;
+            height: 10px;
+            background-color: #00000086;
+        }
+
+        #line-180 {
+            position: absolute;
+            bottom: 7ch;
+            left: 25%;
+        }
+
+        #line-60 {
+            position: absolute;
+            top: 50%;
+            left: 35%;
+            transform: rotate(55deg);
+        }
+
+        #line-120 {
+            position: absolute;
+            top: 50%;
+            left: 15%;
+            transform: rotate(-55deg);
+        }
+
+
+    </style>
+</head>
+<body>
+    <div>
+        <h3 style="color: #eb1d24; font-size: 2rem; margin: 1.5em;">
+            Companies can take a three-pronged approach:
+        </h3>
+        <div style="position: relative; height: 550px;">
+            <div id="circle-1" class="circle-desktop"><span style="font-size:1.5rem; margin: 0.5em;">Sharing information with carriers</span></div>
+            <div id="circle-2" class="circle-desktop"><span style="font-size:1.5rem; margin: 0.5em;">Conducting a vendor resiliency analysis</span></div>
+            <div id="circle-3" class="circle-desktop"><span style="font-size:1.5rem; margin: 0.5em;">Assessing company agility</span></div>
+
+            <div id="line-180" class="line"></div>
+            <div id="line-60" class="line"></div>
+            <div id="line-120" class="line"></div>
+        </div>
+    </div>
+</body>
+</html>
