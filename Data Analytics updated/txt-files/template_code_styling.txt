@@ -187,4 +187,4 @@
                 flex-direction: row;
             }
         }
-</style>
+    </style>

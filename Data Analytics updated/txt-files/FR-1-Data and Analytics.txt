@@ -5,113 +5,37 @@
 
     <div class="direction" style="display: flex; padding-left: 10%;justify-content: center;">
         <div id="mob" class="red" style="display: block; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; padding-top: 20%; position: relative; max-width: 90%;" id="parent"> 
-            <ul style="margin: 0px auto; max-width: 25ch; justify-content: center;">    
             <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-end: 0px; position: relative; z-index: 1;">
                 <h3 style="font-size: 2rem; text-align: center; margin-block-end: 0px;"><span style="background-color: #eb1d24; color: white;">Coûts du risque traditionnel</span></h3>
             </div>
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Coûts d’assurance</li></span></h3>
-            </div>
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Coûts des demandes de règlement</li></span></h3>
-            </div>
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Coûts de la gestion des risques</li></span></h3>
-            </div>
+            <ul style="margin: 0px auto; max-width: 30ch; justify-content: center; font-size: 1.5rem; font-weight: bold;">
+                <li style="margin: 5px 0px;">Coûts d’assurance</li>
+                <li style="margin: 5px 0px;">Coûts des demandes de règlement</li>
+                <li style="margin: 5px 0px;">Coûts de la gestion des risques</li>
             </ul>
             
             
         </div>
 
         <div id="mob" class="gray" style="display: block; position: relative; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; justify-content: space-between; max-width: 90%;">
-            <ul style="margin: 0px auto; max-width: 25ch; justify-content: center;">
             <div id="content" style="width: 100%; position: relative; margin: auto;">
                 <h3 style="font-size: 2rem; text-align: center;"><span>Indicateurs de rendement clés contrôlables</span></h3>
             </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Garantie</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Tendances actuarielles</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Processus de demande de règlement</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion des litiges</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion des renseignements</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Prévention de la stratégie d’embauche</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Structure de programme</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Prévention</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Primes</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Couverture</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion de l’invalidité</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Transferts de l’état</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Gestion des absences</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Stratégie médicale</li></span></h3>
-                </div>
-            </div>
+            <ul style="margin: 0px auto; max-width: 30ch; justify-content: center; font-size: 1.5rem; font-weight: bold;">
+                <li style="margin: 5px 0px;">Garantie</li>
+                <li style="margin: 5px 0px;">Tendances actuarielles</li>
+                <li style="margin: 5px 0px;">Processus de demande de règlement</li>
+                <li style="margin: 5px 0px;">Gestion des litiges</li>
+                <li style="margin: 5px 0px;">Gestion des renseignements</li>
+                <li style="margin: 5px 0px;">Prévention de la stratégie d’embauche</li>
+                <li style="margin: 5px 0px;">Structure de programme</li>
+                <li style="margin: 5px 0px;">Prévention</li>
+                <li style="margin: 5px 0px;">Primes</li>
+                <li style="margin: 5px 0px;">Couverture</li>
+                <li style="margin: 5px 0px;">Gestion de l’invalidité</li>
+                <li style="margin: 5px 0px;">Transferts de l’état</li>
+                <li style="margin: 5px 0px;">Gestion des absences</li>
+                <li style="margin: 5px 0px;">Stratégie médicale</li>
             </ul>
         </div>
     </div>

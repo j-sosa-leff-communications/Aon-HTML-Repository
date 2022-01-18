@@ -5,113 +5,36 @@
 
     <div class="direction" style="display: flex; padding-left: 10%;justify-content: center;">
         <div id="mob" class="red" style="display: block; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; padding-top: 20%; position: relative; max-width: 90%;" id="parent"> 
-            <ul style="margin: 0px auto; max-width: 20ch; justify-content: center;">    
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 2rem; text-align: center; margin-block-end: 0px;"><span style="background-color: #eb1d24; color: white;">Traditional Risk Costs</span></h3>
+            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-end: 0px; position: relative; z-index: 1; font-size: 2rem; text-align: center; color: white;">
+                <span>Traditional Risk Costs</span>
             </div>
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Insurance Costs</li></span></h3>
-            </div>
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Claim Costs</li></span></h3>
-            </div>
-            <div id="content" style="width: 100%; justify-content: center; background-color: #eb1d24; margin-block-start: 0px; margin-block-end: 0px; position: relative; z-index: 1;">
-                <h3 style="font-size: 1.5rem; text-align: left; margin-block-start: 0px; margin-block-end: 0px;"><span style="color: white;"><li>Risk Management Costs</li></span></h3>
-            </div>
+            <ul style="margin: 0px auto; max-width: 30ch; justify-content: center; font-size: 1.5rem; font-weight: bold;">    
+                <li style="margin: 5px 0px;">Insurance Costs</li>
+                <li style="margin: 5px 0px;">Claim Costs</li>
+                <li style="margin: 5px 0px;">Risk Management Costs</li>
             </ul>
-            
-            
         </div>
 
         <div id="mob" class="gray" style="display: block; position: relative; padding-bottom: 20px; float: center; flex-direction: row; width: 90%; justify-content: space-between; max-width: 90%;">
-            <ul style="margin: 0px auto; max-width: 20ch; justify-content: center;">
-            <div id="content" style="width: 100%; position: relative; margin: auto;">
-                <h3 style="font-size: 2rem; text-align: center;"><span>Controllable KPIs</span></h3>
+            <div id="content" style="width: 100%; position: relative; margin: auto; font-size: 2rem; text-align: center;">
+                <span>Controllable KPIs</span>
             </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Collateral</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Actuarial trends</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Claims Process</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Litigation Management</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Information Management</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Hiring Strategy Prevention</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Program Structure</li></span></h3>
-                </div>
-                
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Premiums</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Coverage</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Disability Management</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>State Pass-Throughs</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Absence Management</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Medical Strategy</li></span></h3>
-                </div>
-            </div>
-            <div style="display: flex;">
-                
-                <div id="content" style="width: 100%; position: relative; float: center;">
-                    <h3 style="font-size: 1.5rem; text-align: left;"><span><li>Prevention</li></span></h3>
-                </div>
-            </div>
+            <ul style="margin: 0px auto; max-width: 30ch; justify-content: center; font-size: 1.5rem; font-weight: bold;">
+                <li style="margin: 5px 0px;">Collateral</li>
+                <li style="margin: 5px 0px;">Actuarial trends</li>
+                <li style="margin: 5px 0px;">Claims Process</li>
+                <li style="margin: 5px 0px;">Litigation Management</li>
+                <li style="margin: 5px 0px;">Information Management</li>
+                <li style="margin: 5px 0px;">Hiring Strategy Prevention</li>
+                <li style="margin: 5px 0px;">Program Structure</li>
+                <li style="margin: 5px 0px;">Premiums</li>
+                <li style="margin: 5px 0px;">Coverage</li>
+                <li style="margin: 5px 0px;">Disability Management</li>
+                <li style="margin: 5px 0px;">State Pass-Throughs</li>
+                <li style="margin: 5px 0px;">Absence Management</li>
+                <li style="margin: 5px 0px;">Medical Strategy</li>
+                <li style="margin: 5px 0px;">Prevention</li>
+    
             </ul>
         </div>
     </div>
