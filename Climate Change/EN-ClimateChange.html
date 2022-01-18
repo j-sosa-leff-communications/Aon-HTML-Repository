@@ -1,0 +1,206 @@
+<style>
+    .innerDiv {
+        display: flex; 
+        justify-content: center;
+        align-items: center;
+    }
+
+    .column {
+        float: left;
+        width: 33.33%;
+    }
+
+    .row:after {
+        content: "";
+        display: table;
+        clear: both;
+    }
+
+    .backgrounimg {
+        z-index: -1;
+    }
+
+    img[src=""] {
+        background-color: #eb1d24;
+        min-height: 100px;
+        min-width: 100px;
+        z-index: 1;
+        display: initial !important;
+    }
+
+    #mobile-img{
+        display: none;
+    }
+
+    .img_container {
+        min-width: 50px !important;
+        min-height: 150px !important;
+        padding: 0px 20px 20px 20px;
+        height: fit-content;
+        display: flex;
+        justify-content: center;
+        object-fit: contain;
+    }
+
+    .desk-hide{
+            display: none !important;
+        }
+
+    .centered {
+        position: absolute;
+        padding-bottom: 280px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .header {
+        grid-column: 1 / 4;
+    }
+
+    #mob{
+        display: none;
+    }
+
+    .centered2 {
+        position: absolute;
+        padding-bottom: 750px;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .centered3 {
+            position: absolute;
+            padding-bottom: 250px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+    }
+
+
+    @media only screen and (max-width: 650px) {
+        .row:after{
+            display: none !important;
+        }
+
+        .column{
+            display: none;
+        }
+
+        #desktop-img {
+            display: none;
+        }
+
+        .img_container {
+            min-width: 130px !important;
+        }
+
+        .rotate{
+            -webkit-transform: rotate(45deg);
+            -moz-transform: rotate(45deg);
+            -o-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+
+        .centered {
+            position: absolute;
+            padding-top: 500px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .centered2 {
+            position: absolute;
+            padding-top: 1360px;
+            left: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        #mobile-img {
+            display: initial !important;
+        }
+
+        #content {
+            margin: auto;
+            flex: 0 0 100% !important;
+        }
+
+        .float{
+            float: none !important;
+        }
+
+        .direction{
+            flex-direction: column;
+            width: 100% !important;
+        }
+
+        .hide{
+            display: none !important;
+        }
+
+        .txtsize{
+            font-size: 2rem !important;
+        }
+        
+        #mob{
+            width: 100% !important; 
+        }
+
+        #parent {
+            flex-direction: row;
+        }
+    }
+</style>
+
+
+<div class="direction" style="display: flex; padding-left: 0px;justify-content: center;">
+    <div id="mob" style="display: block; position: relative; padding-bottom: 20px; float: left; flex-direction: column; width: 50%; justify-content: space-between;">
+        <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="EN-ClimateChange_1_toprightleftred-desktop.png" style="width: 90%;">
+        </div>
+        <div class="desk-hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="EN+FR-ClimateChange_1_headerone-mobile.png" style="width: 30%;">
+        </div>
+        <div id="content" style="width: 30%; position: relative; margin: auto;">
+            <h3 class="txtsize" style="font-size: 1.5rem; text-align: center;"><span>Every company is at a different point in its ESG journey as measured by planning, monitoring and reporting.</span></h3>
+        </div>
+        
+        <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="EN-ClimateChange_1_toprightleftgray-desktop.png" style="width: 90%;">
+        </div>
+        <div class="desk-hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="EN+FR-ClimateChange_1_headertwo-mobile.png" style="width: 30%;">
+        </div>
+        <div id="content" style="width: 30%; position: relative; margin: auto;">
+            <h3 class="txtsize" style="font-size: 1.5rem; text-align: center;"><span>The scope, complexity and variability of climate risk have led many companies to adopt new modeling approaches.</span></h3>
+        </div>
+
+        <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="FR-ClimateChange_1_bottomleftred-desktop.png" style="width: 90%;">
+        </div>
+        <div class="desk-hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="EN+FR-ClimateChange_1_headerthree-mobile.png" style="width: 30%;">
+        </div>
+        <div id="content" style="width: 30%; position: relative; margin: auto;">
+            <h3 class="txtsize" style="font-size: 1.5rem; text-align: center;"><span>As companies develop plans to mitigate climate risk, they are selecting tools aligned with their business strategies and time horizons. Many climate risk models examine time horizons ranging from decades to centuries, generating a range of outcomes rather than exact forecasts.</span></h3>
+        </div>
+
+        <div class="hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="FR-ClimateChange_1_bottomleftgray-desktop.png" style="width: 90%;">
+        </div>
+        <div class="desk-hide" style="display: flex; padding-bottom: 20px;justify-content: center;width: 90%;margin: auto;">
+            <img src="EN+FR-ClimateChange_1_headerfour-mobile.png" style="width: 30%;">
+        </div>
+        <div id="content" style="width: 30%; position: relative; margin: auto;">
+            <h3 class="txtsize" style="font-size: 1.5rem; text-align: center;"><span>To understand the impact of decisions on climate exposures and property coverage, many companies are including risk managers in the discussion.</span></h3>
+        </div>
+
+        
+    </div>
+
+    <div id="mob" class="rotate" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 50%; padding-top: 20%; position: relative;" id="parent">     
+        <div style="display: flex; padding-bottom: 0px;justify-content: center;width: 50%;margin: auto; float: right;">
+            <img src="EN-ClimateChange_1_mainshape-desktop.png" style="width: 100%; padding-left: 130%;">
+        </div>
+        
+    </div>
+</div>
