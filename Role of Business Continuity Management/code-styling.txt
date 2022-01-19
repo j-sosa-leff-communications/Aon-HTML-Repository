@@ -1,0 +1,133 @@
+<style>
+
+    .circle-desktop{
+        background-color: #eb1d24;
+        color: white;
+        text-align: center;
+        width: 15ch;
+        min-height: 15ch;
+        border-radius: 15ch;
+        box-shadow:5px 5px 10px #00000070;
+        display: grid;
+        align-items: center;
+        border: 3px solid white;
+    }
+
+    #circle-1 {
+        position: relative;
+        margin: 0px auto;
+        z-index: 3;
+
+    }
+
+    #circle-2 {
+        position: absolute;
+        margin-left: 20%;
+        left: 0%;
+        bottom: 0%;
+        z-index: 3;
+    }
+
+    #circle-3 {
+        position: absolute;
+        margin-right: 20%;
+        right: 0%;
+        bottom: 0%;
+        z-index: 3;
+    }
+
+    .line{
+        width: 50%;
+        height: 10px;
+        background-color: #00000086;
+    }
+
+    #line-180 {
+        position: absolute;
+        bottom: 7ch;
+        left: 25%;
+    }
+
+    #line-60 {
+        position: absolute;
+        top: 50%;
+        left: 35%;
+        transform: rotate(55deg);
+    }
+
+    #line-120 {
+        position: absolute;
+        top: 50%;
+        left: 15%;
+        transform: rotate(-55deg);
+    }
+
+    #title {
+        color: #eb1d24;
+        font-size: 2rem;
+        margin: 1.5em;
+    }
+
+    .circle-text {
+        font-size:2rem;
+        margin: 0.5em;
+        font-weight: bold;
+        opacity: 0;
+    }
+
+    .fadeIn {
+            opacity: 1 !important;
+            transition: opacity 1s;
+        }
+
+    @media only screen and (max-width:860px) {
+        .circle-desktop {
+            background-color: #ecf0f1;
+            color: black;
+            border-radius: 0px;
+            box-shadow: none;
+            width: auto;
+            min-height: 4em;
+            font-size: 2rem;
+            text-align: initial;
+        }
+
+        #title {
+            color: white;
+            background-color: #eb1d24;
+            border: 3px solid white;
+            min-height: 4em;
+            margin: 0px !important;
+            display: grid;
+            align-items: center;
+            padding: 1.5em;
+        }
+
+        .line {
+            display: none !important;
+        }
+
+        #circle-2 {
+            position: relative;
+            margin: auto;
+        }
+
+        #circle-3 {
+            position: relative;
+            margin: auto;
+        }
+
+        #container{
+            min-height: 0em !important;
+        }
+
+        .circle-text {
+        font-size:2rem;
+        margin: 1.5em;
+        font-weight: bold;
+        }
+        
+    }
+
+
+</style>
