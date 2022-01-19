@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .circle-desktop{
+            background-color: #eb1d24;
+            color: white;
+            text-align: center;
+            width: 15ch;
+            min-height: 15ch;
+            border-radius: 15ch;
+            box-shadow:5px 5px 10px #00000070;
+            display: grid;
+            align-items: center;
+            border: 3px solid white;
+        }
+
+        #title {
+            color: #eb1d24;
+            font-size: 2rem;
+        }
+
+        .circle-text {
+            font-size:2rem;
+            margin: 0.5em;
+            font-weight: bold;
+            opacity: 0;
+        }
+
+        .fadeIn {
+                opacity: 1 !important;
+                transition: opacity 1s;
+            }
+
+        @media only screen and (max-width:860px) {
+            .circle-desktop {
+                border-radius: 0px;
+                box-shadow: none;
+                width: auto;
+                min-height: 4em;
+                font-size: 2rem;
+                text-align: initial;
+                border: 1px solid white;
+            }
+
+            #title {
+                color: white;
+                background-color: #eb1d24;
+                border: 1px solid white;
+                min-height: 4em;
+                margin: 0px !important;
+                display: grid;
+                align-items: center;
+                padding: 1.5em;
+            }
+
+            #container{
+                min-height: 0em !important;
+            }
+
+            .circle-text {
+            font-size:2rem;
+            margin: 1.5em;
+            font-weight: bold;
+            }
+            
+        }
+
+
+    </style>
+</head>
+<body>
+    <div>
+        <h3 id="title">
+            As part of your vendor resiliency analysis, assess each vendor's risk across the four components of BCM:
+        </h3>
+        <div id="container" style="position: relative; min-height: 450px;">
+            <div id="circle-1" class="circle-desktop"><span class="circle-text" id="circle-text-1">The Four Components of BCM</span></div>
+            <div class="rectangle-blue">
+                <span style="font-weight: bold;">Emergency response and life safety:</span>
+                <br>
+                Incident-based emergency response to minimize injury to personnel and damage to company assets
+            </div>
+            <div class="rectangle-red">
+                <span style="font-weight: bold;">Crisis management:</span>
+                <br>
+                Strategic management of the event, including internal and external communications to protect reputation and brand image
+            </div>
+            <div class="rectangle-blue">
+                <span style="font-weight: bold;">IT disaster recovery:</span>
+                <br>
+                Technological recovery and restoration of data-center services — possibly at an alternate location — and computing capabilities
+            </div>
+            <div class="rectangle-red">
+                <span style="font-weight: bold;">Business unit continuity</span>
+                <br>
+                Preparations to identify the impact of business interruptions; formulate recovery strategies; 
+                develop business continuity plans; and administer regular training, exercise and maintenance
+            </div>
+        </div>
+    </div>
+</body>
+</html>
