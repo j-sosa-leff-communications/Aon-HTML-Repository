@@ -1,0 +1,39 @@
+<div class="direction" style="position: relative; min-height: 1100px;">
+
+    <img class="desktop-img" src="" style="position: absolute; width: 100%; object-fit: contain; margin-top: 100px;">
+
+    <img class="mobile-img" src="" style="position: absolute; right: 0%; max-width: 50%; object-fit: contain;">
+
+    <div id="content" style="position: absolute; width: 50%; bottom: 34%; left: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 50%; font-size: 1.25rem; margin-top: 30px;">
+            Alors que les entreprises mettent aupoint des plans pour atténuer les risques liés aux changements climatiques, elles choisissent des outils en fonction de leurs stratégies d’affaires et de leurs horizons de placement. De nombreux modèles de risque climatique examinent des horizons de tempsallant de dizaines d’années à des centaines d’années, produisant un éventail de résultats plutôt que des prévisions exactes.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 90%; bottom: 2%; left: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 60%; font-size: 1.25rem; margin-top: 80px;">
+            Afin de comprendre l’incidence des décisions sur l’exposition aux changements climatiques et l’assurance des biens, de nombreusesentreprises incluent des gestionnaires de risques dans la discussion.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 80%; right: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 51%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            Comme en témoignent la planification, la surveillance et la production de rapports, chaque entreprise en est à un stade différent dans son parcours ESG.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 48%; bottom: 60%; right: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 58%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            L’étendue, la complexité et la variabilité des risques climatiques ont amené de nombreuses entreprises à adopter de nouvelles approches en matière de modélisation.
+        </div>
+    </div>
+
+</div>

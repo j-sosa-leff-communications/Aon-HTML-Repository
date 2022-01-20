@@ -28,7 +28,7 @@
         display: initial !important;
     }
 
-    #mobile-img{
+    .mobile-img{
         display: none;
     }
 
@@ -41,10 +41,6 @@
         justify-content: center;
         object-fit: contain;
     }
-
-    .desk-hide{
-            display: none !important;
-        }
 
     .centered {
         position: absolute;
@@ -85,7 +81,7 @@
             display: none;
         }
 
-        #desktop-img {
+        .desktop-img {
             display: none;
         }
 
@@ -115,13 +111,14 @@
             transform: translate(-50%, -50%);
         }
 
-        #mobile-img {
+        .mobile-img {
             display: initial !important;
         }
 
         #content {
-            margin: auto;
-            flex: 0 0 100% !important;
+         width: 50% !important;
+         position: relative !important;
+         margin: 10px 0px;
         }
 
         .float{
@@ -148,44 +145,50 @@
         #parent {
             flex-direction: row;
         }
+        .text {
+            width: 100% !important;
+            margin: 0px !important;
+        }
     }
 </style>
 
 
-<div class="direction" style="display: flex; padding-left: 0px; position: relative; justify-content: center;">
+<div class="direction" style="position: relative; min-height: 1000px;">
 
-    <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 50%; justify-content: space-between;">
-        <div id="content" style="position: absolute; width: 33%; bottom: 20; left: 0; margin: auto;">
-            <img class="hide" src="https://uca1e93f4d684e3713b3e85091e2.previews.dropboxusercontent.com/p/thumb/ABakKi2gbs5JlD4HNIqFzofZtQnCD7Wo7k02xuR11HB7OtsNr7SV67LnQCUzEeDZe2YHns32e8FFBKWaC5qCL2YqmEBK7nJPc-kEfpGyySGlNJrpW4YbfwocrmMBiQaZup_SCnRMAY7wUjNScOWNKf8QK8aQ9ZieZXlg2Nz1bkMSeCRLyVVJTxR8a9bQCfPHsjq6rooG4bY0a747rDw6b-p6oH-NsWOqUTuatHKJO0RTyiN4SOWYf8QLhrA2sL2muNemuJdgkg8Oznexl_u_MY9q8ApYxNVqdyzzPhXiyVCJGqma4sxidqA32yNRCVEoEGjlIFpI3ob9kpyLmSkIv18rCgiHK-4E5IhUcoKNtRHWMPxayfj51Oq8lPwMc2NDE4w/p.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <img class="desk-hide" src="EN+FR-ClimateChange_1_headerthree-mobile.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <span class="txtsize" style="font-size: 1.25rem; text-align: left;">As companies develop plans to mitigate climate risk, they are selecting tools aligned with their business strategies and time horizons. Many climate risk models examine time horizons ranging from decades to centuries, generating a range of outcomes rather than exact forecasts.</span>
-        </div>
-        
-        <div id="content" style="position: absolute; width: 33%; bottom: 0; left: 0; margin: auto;">
-            <img class="hide" src="https://ucd4101ba8e7bb7fd2fbe9e54d1d.previews.dropboxusercontent.com/p/thumb/ABbO9g8uy1cMsH4Mje8lKJESJ_VWwNx_ns564Qq59nUNnmh7fie3Mkn342p5RwwDRQvbtiLzsDcfK219UeczRAg488VxW8XKTPxIsqx3_kH7mhZ5jBcpk4elouz9BSW6W1N-YM25qAvfL448hz4krKvHTgZGfC3ZJPK19SBQEIdN7yPQ3AGAulL3LccZf3sRwn-9YCSyUnLFpe6-Ud9TD_XwttSLVY-TxVbtKI7kc8L83vSIbo0zXc6VKxVibjp5w-nmWyi7YJDsKPivDHimI6CiWuUsGCgsETE3rbwLk3vZu-uIkS0yEDmAN5GlV9SL_1Pc1B-XvzSCrv5xL1W08imMN1OLszDR5GKps-UKI0AF1WNdjUMmiB6hSUGIqmisjWo/p.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <img class="desk-hide" src="EN+FR-ClimateChange_1_headerfour-mobile.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <span class="txtsize" style="font-size: 1.25rem; text-align: left;">To understand the impact of decisions on climate exposures and property coverage, many companies are including risk managers in the discussion.</span>
-        </div>
+    <img class="desktop-img" src="https://uc81948740c0d35df80ea066dc35.previews.dropboxusercontent.com/p/thumb/ABYJ0WZLPba7Hqa4PYusvKwjNj5KsYYqryAh108nKQFLRxtreazp8js-RvTHukzqZgUrOgaU4_zXZdE6UpKDWlMseC9f-aFrwzUnIhXs2_IdDdS2c14OTR4WRAhIihqVNlBlzyqUyTphS9FCHb1dgAxkKkhqok6WgAhqd03WgTtbtXeKXoO5S-epzye8TdSRXmbbxN-CuaD3AjAcLCQjUG8zMmhWh-oP7sB1tYek63450nUg4Ncnq8CXtTnkoGRh4q5j4sGh9fWU39o9d_51RHJu0c1V0tgub_FR8bAfsnO4pRCcI7_EsQu-HXbILxjS-WPG6zQqgoVXyxD74LG_9G0Smek4rKcIjx_5wheVUPcsg38S_qI85X11U_OQ1yjC1gU/p.png" style="position: absolute; width: 100%; object-fit: contain; margin-top: 100px;">
 
+    <img class="mobile-img" src="" style="position: absolute; right: 0%; max-width: 50%; object-fit: contain;">
+
+    <div id="content" style="position: absolute; width: 50%; bottom: 40%; left: 0;">
+        <img class="hide" src="https://ucc51d851128fa26a553d7ac05ce.previews.dropboxusercontent.com/p/thumb/ABYo1AGZ7VT2-riyWLqXXmsO7BrU9S86q5t4zik5KaPZ1fr4HmMgdEMrwNv-EC1zznnsrjqfMiCAoIzh6dFNXnAWPLLeuIBzdIZHYS2MLqe8_Us-ZwM9IxkqTIxLhne9kNboX2wIG20p-tfZAgBeXO4rTdkj_Tltz5JnjEX9N3oX08ioKRPoYuOuobCqb2hXunh0yf7ZjFrjLp9LP5zxmGkVgc6fgSfsHpWKqOgZDPEP-C9v33x845heI8WJG2zfQh0VUMZToQzNUwlHXnfE7DwG194DxgI81pumsbeQc1qZUAS4uFqm9Lt22QNOieIwh0vDLO52QTFMEaXdRJrHa7WVsn55JYJxrP8Fk2vbPGvw0DN302hs9zilYpIAFQKkRfY/p.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="EN+FR-ClimateChange_1_headerthree-mobile.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 50%; font-size: 1.25rem; margin-top: 30px;">
+            As companies develop plans to mitigate climate risk, they are selecting tools aligned with their business strategies and time horizons. Many climate risk models examine time horizons ranging from decades to centuries, generating a range of outcomes rather than exact forecasts.
+        </div>
     </div>
     
-    <div style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 50%; padding-top: 0; position: relative; top: 0; left: 0; margin: auto; ">
-            <img src="https://uce4ac9f5770e0cb33dfa40f30f0.previews.dropboxusercontent.com/p/thumb/ABaaW2if_fxCuDCrLn6IX1u7q7zHvk9zuHsCm7El_r08wbUBk8Chw6c3y9bGfdpr_FZnMELuSGiXSlTnyWbGYG-yc5E_QmH5yiO_F-ZxranG6Kb-95VhAF_ECrRvTN9dkfS1rbsfzKHEmq9jPj4-TwCi6dZFguh45JwiLRciLheqbRT3Sjl3nXk9Ew7lV4bBbmAAWjnQfQpvLR6gZ2vk0hKKNK09bHHBOExRVqJf9l2MXARGDp28GcHcIRrZGmI9nkcC1BspcBS0Sgh1_YqYbCRoBilz0YzGw-TnzCEgYrlqp0TWufhjK7HILC2wfEg3TciuDFU_TKC3g95_9WcE2RfFp72lH8LR3PDPDmaxJYEfgkY6Jj7Sy10dZXRyQktNYg0/p.png" style="position: absolute; width: 150%; object-fit: contain;">
+    <div id="content" style="position: absolute; width: 90%; bottom: 2%; left: 0;">
+        <img class="hide" src="https://uc9b4eb6bcb5997f50e8b2027997.previews.dropboxusercontent.com/p/thumb/ABaUwYGYlydt_q1dfe2rsgR3gX-XisYCw-zl9JsTzf0fmhoUAhYkhu9aCVdxjgY598oMuCw6Z5BReK4PxO2xcxJ7JbF_ftUU0xxd1ASWl3XkTnxSUi5YgOBNRsQjmMN8VIXcRuchdootUXvIw9DGPwCAtPkfVbIQT8yuS8UiyBkYY1SWGn_TeSXe7lBN2g1tPbuarbeQUDoqXCh6itS7cKu32_pqOntBNrZByaLwamH2I0Jy-BTJ6aB-Re8BIhVfA1NUpxN-FLEGKC39tS4s0UTQEh_eZI6S6mjVm-eUHap5icp0pLBTR59aE5B_rqJ9LB9pBtIUIpEE4-wFiPXciYP1AVVOAqRtgo1VNSp4Yg8_Vhp9Vfv-w9Phgz7BGd1KHvE/p.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="EN+FR-ClimateChange_1_headerfour-mobile.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 60%; font-size: 1.25rem; margin-top: 80px;">
+            To understand the impact of decisions on climate exposures and property coverage, many companies are including risk managers in the discussion.
+        </div>
     </div>
-
-    <div id="mob" style="display: block; padding-bottom: 20px; float: left; flex-direction: column; width: 50%; justify-content: space-between;">
-        <div id="content" style="position: absolute; width: 33%; top: 0; right: 0; margin: auto;">
-            <img class="hide" src="https://uc6e376395d03f833090dc3d6d2d.previews.dropboxusercontent.com/p/thumb/ABatrC-gEMMiDmHe9YbFxZOpu04CV0wEOPG8uUab6x3A2240RIMUj1WWz67GK5he3uVZFzoBd0z8RmblyqHXF85aDHfQ4LdnjXlA4xgXjDlwKchaR0Vp_oMKBHskzn_l6R4IHUYDjwVWY48V_HYYoLXmsawUOys60Lx2eaL5HoGoaTaRF3KHeWo5_ZrAhkASTP2x6hZ4m7udBmPTeJbP7zXhqRjSCouqLDP_lfqMZEQYEMYV9sio9nPai58yEn0uYkDOXk3NiUyhlYKXK0yFZ_7mmAnGQw01RmGbwwYn-rjqsvyvdKEiPfGadskBs8Y4i34S0brCqUWR_fBxqaBUph4CP32kjzybAnK-g-oA8xK-7vm6dfjtm8oRBLOc8IZAfck/p.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <img class="desk-hide" src="EN+FR-ClimateChange_1_headerone-mobile.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <span class="txtsize" style="font-size: 1.25rem; text-align: right;">Every company is at a different point in its ESG journey as measured by planning, monitoring and reporting.</span>
+    
+    <div id="content" style="position: absolute; width: 80%; right: 0;">
+        <img class="hide" src="https://uc452646eed68b5b44c709d516e5.previews.dropboxusercontent.com/p/thumb/ABaVkEF4oJ3BiB3QoUj4QtRlfUnWvAKmfz5gk-NYfmpmN6-F4BUecTXbTt7Kbi5Nch0g3iJmWyIyzAXgZzhEkvryKU6oe1Cf39879SNWuu4WFSijKkjt5p7dC3uEKITDALiEh-_3YaOlGu0kcahaOlyop6tR49sOrZED5UY8jnzHYGx9yxI6i_fYbpuO9yHiS27KE6wzwYASinFTYusZUHtSuEowi6FGZAwbNZ9bjO680hWn6PjAiownUZ1sXleOkZSLV1xuqSn-g8oDpwy0aHw51hsaIR58LyckI7chaMv0C_6yp5BRPvIXZAv3in01bcXEEAMAAH0yeesg2w-C3erLPfhHmzbuZhYe1sf3KfLRkfgZkUw3AZcRqOs_Ok5yqN0/p.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="EN+FR-ClimateChange_1_headerone-mobile.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 51%; font-size: 1.25rem; margin-top: 30px; margin-left: auto; margin-right: 80px;">
+            Every company is at a different point in its ESG journey as measured by planning, monitoring and reporting.
         </div>
-        
-        <div id="content" style="position: absolute; width: 33%; top: 20; right: 0; margin: auto;">
-            <img class="hide" src="https://uc011ad3c26159604d188f7ae617.previews.dropboxusercontent.com/p/thumb/ABb3rZXOUPRYWCr834h-ioR8sqThhjT9ssxHNSHUUYDz95zrA7D-mt9o742qx0XRJ_LWMspJQcbvEB9LllK-oPanNnSxjICIRaffqhhNvGXXUCDrqSWtaElQyJi5y67lw2iJqiEXI3n2JGcdhUe-XSwKsAfRv8n7BOuKgXElq2GDaGsXUuJamX8NGYC1aIvjYqe0d7snXgTWRFdJAL4wN-gemMAkB02kk5sK6yA4_qwW1GCJ8AwrEfH8Ne14Gs8dZwV4-AibygnYuCeseridf8FmYSVv5iYrtclQOLZrcq5KcMwoU5mk8J-338wgGjigUW9Yid69n29zYuGqiIgLi-0fanktDl2O5gKO9Wt64J-lDACLslu6tJL_yk6pjRKExT8/p.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <img class="desk-hide" src="EN+FR-ClimateChange_1_headertwo-mobile.png" style="position: absolute; width: 150%; object-fit: contain;">
-            <span class="txtsize" style="font-size: 1.25rem; text-align: right;">The scope, complexity and variability of climate risk have led many companies to adopt new modeling approaches.</span>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 48%; bottom: 60%; right: 0;">
+        <img class="hide" src="https://uc296aa993013997cb2b5762a93e.previews.dropboxusercontent.com/p/thumb/ABaupGVvUHmK60DI76_Cl6GnDhPu5pfGaF1uuD2MF13tP-N4DRY6R2HONRpynlXjz7BTb4BIYxJddOfyNUqTkSMm6zL0Fkhs2aXeZ8YYTpZ2iyRRYp3i0i9Xv7YokDE81ZH4dohrkcvZm_pqmiEMLMwDxVRKh7WObt6f6kzdBMvUoPvfaqqZ-5R_8pDkH42fYJAo1Ay2A_r3YKI2QpJmBu_PNa_wfVLbWZ2ydMm6Mk2zin9tq7eigjvTIMkuSubBPq4JfsvZw0HbPlSfZWn0HR715Segb82j467_D8I6eGlhmrxJ6bZB3mQ0OtkkyhM81Sm85GgmT05X8KhQuoCSIj3hKkEqO7AS47OT7p9UT5RthSlE33IwqGy95AFl0YXfM-s/p.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="EN+FR-ClimateChange_1_headertwo-mobile.png" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 58%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            The scope, complexity and variability of climate risk have led many companies to adopt new modeling approaches.
         </div>
-        
     </div>
 
 </div>

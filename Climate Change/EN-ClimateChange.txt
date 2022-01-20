@@ -1,0 +1,39 @@
+<div class="direction" style="position: relative; min-height: 1000px;">
+
+    <img class="desktop-img" src="" style="position: absolute; width: 100%; object-fit: contain; margin-top: 100px;">
+
+    <img class="mobile-img" src="" style="position: absolute; right: 0%; max-width: 50%; object-fit: contain;">
+
+    <div id="content" style="position: absolute; width: 50%; bottom: 40%; left: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 50%; font-size: 1.25rem; margin-top: 30px;">
+            As companies develop plans to mitigate climate risk, they are selecting tools aligned with their business strategies and time horizons. Many climate risk models examine time horizons ranging from decades to centuries, generating a range of outcomes rather than exact forecasts.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 90%; bottom: 2%; left: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 60%; font-size: 1.25rem; margin-top: 80px;">
+            To understand the impact of decisions on climate exposures and property coverage, many companies are including risk managers in the discussion.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 80%; right: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 51%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            Every company is at a different point in its ESG journey as measured by planning, monitoring and reporting.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 48%; bottom: 60%; right: 0;">
+        <img class="hide" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="" style="position: absolute; object-fit: contain; width: 100%;">
+        <div class="text" style="width: 58%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            The scope, complexity and variability of climate risk have led many companies to adopt new modeling approaches.
+        </div>
+    </div>
+
+</div>
