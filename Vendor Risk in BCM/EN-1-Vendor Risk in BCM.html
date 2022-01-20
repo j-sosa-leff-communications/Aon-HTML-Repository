@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+
+        .circle-desktop{
+            background-color: #eb1d24;
+            color: white;
+            text-align: center;
+            width: 20ch;
+            min-height: 20ch;
+            border-radius: 20ch;
+            box-shadow:5px 5px 10px #00000070;
+            display: grid;
+            align-items: center;
+            border: 3px solid white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translateY(-50%) translateX(-50%);
+            z-index: 1;
+        }
+
+        #title {
+            color: #eb1d24;
+            font-size: 2rem;
+        }
+
+        .circle-text {
+            font-size:2rem;
+            margin: 0.5em;
+            font-weight: bold;
+        }
+
+        .rectangle-blue {
+            background-color: #e4ebec;
+            width: 40%;
+            padding: 10px 20px;
+            font-size: 1.5rem
+        }
+
+        .rectangle-red {
+            background-color: #f5b6b8;
+            width: 40%;
+            padding: 10px 20px;
+            font-size: 1.5rem;
+        }
+
+        #rectangle-1 {
+            min-height: 230px;
+        }
+
+        #rectangle-2 {
+            position: absolute;
+            top: 0%;
+            right: 0%;
+            min-height: 230px;
+        }
+
+        #rectangle-3 {
+            min-height: 230px;
+            position: absolute;
+            left: 0%;
+            bottom: 0%;
+            padding-top: 50px;
+        }
+
+        #rectangle-4 {
+            padding-top: 50px;
+            min-height: 230px;
+            position: absolute;
+            right: 0%;
+            bottom: 0%;
+        }
+
+        @media only screen and (max-width:860px) {
+            .circle-desktop {
+                border-radius: 0px;
+                box-shadow: none;
+                width: auto;
+                min-height: 4em;
+                font-size: 2rem;
+                text-align: initial;
+                border: 1px solid white;
+                position: initial;
+                transform: none;
+            }
+
+            .rectangle-blue{
+                position: initial !important;
+                width: 100%;
+                background-color: #daeff9;
+            }
+
+            .rectangle-red{
+                position: initial !important;
+                width: 100%;
+                background-color: #daeff9;
+            }
+
+            #title {
+                border: 1px solid white;
+                min-height: 4em;
+                margin: 0px !important;
+                display: grid;
+                align-items: center;
+                padding: 1.5em;
+            }
+
+            #container{
+                min-height: 0em !important;
+            }
+
+            .circle-text {
+            font-size:2rem;
+            margin: 1.5em;
+            font-weight: bold;
+            }
+            
+        }
+
+
+    </style>
+</head>
+<body>
+    <div>
+        <h3 id="title">
+            As part of your vendor resiliency analysis, assess each vendor's risk across the four components of BCM:
+        </h3>
+        <div id="container" style="position: relative; min-height: 450px;">
+            <div id="circle-1" class="circle-desktop"><span class="circle-text" id="circle-text-1">The Four Components of BCM</span></div>
+            <div class="rectangle-blue" id="rectangle-1">
+                <span style="font-weight: bold;">Emergency response and life safety:</span>
+                <br>
+                Incident-based emergency response to minimize injury to personnel and damage to company assets
+            </div>
+            <div class="rectangle-red" id="rectangle-2">
+                <span style="font-weight: bold;">Crisis management:</span>
+                <br>
+                Strategic management of the event, including internal and external communications to protect reputation and brand image
+            </div>
+            <div class="rectangle-red" id="rectangle-3">
+                <span style="font-weight: bold;">IT disaster recovery:</span>
+                <br>
+                Technological recovery and restoration of data-center services — possibly at an alternate location — and computing capabilities
+            </div>
+            <div class="rectangle-blue" id="rectangle-4">
+                <span style="font-weight: bold;">Business unit continuity</span>
+                <br>
+                Preparations to identify the impact of business interruptions; formulate recovery strategies; 
+                develop business continuity plans; and administer regular training, exercise and maintenance
+            </div>
+        </div>
+    </div>
+</body>
+</html>

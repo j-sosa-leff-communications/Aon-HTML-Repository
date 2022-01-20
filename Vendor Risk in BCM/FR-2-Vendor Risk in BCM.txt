@@ -1,0 +1,17 @@
+<div style="height: auto; display: flex; align-items: center;" id="parent">
+
+    <div style="width: 50%; position: relative;" id="content">
+        <h3 style="width: 90%; margin: 20px auto; font-size: 2rem;">
+            La résilience de la chaîne d’approvisionnement 
+        <span style="color: #e11b22;">est un impératif pour la survie et la croissance des entreprises et constitue une partie importante du coût total du risque.</span>
+        </h3>
+        
+    </div>
+
+    <img src="" id="desktop-img" 
+    style="width: 50%; height: fit-content; object-fit: contain;">
+    
+    <img id="mobile-img" src="" 
+    style="width: 100%; height: fit-content; object-fit: contain;">
+</div>
+
