@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <style>
+<style>
 
         .circle-desktop{
             background-color: #eb1d24;
@@ -77,6 +70,33 @@
             bottom: 0%;
         }
 
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+    
+        .img_container {
+            min-width: 50px !important;
+            min-height: 150px !important;
+            padding: 0px 20px 20px 20px;
+            height: fit-content;
+            display: flex;
+            justify-content: center;
+            object-fit: contain;
+        }
+    
+        .header {
+            grid-column: 1 / 4;
+        }
+        
+    
+        #mobile-img {
+                display: none;
+        }
+
         @media only screen and (max-width:860px) {
             .circle-desktop {
                 border-radius: 0px;
@@ -120,41 +140,29 @@
             margin: 1.5em;
             font-weight: bold;
             }
+
+            #desktop-img {
+                display: none;
+            }
+
+            .img_container {
+                min-width: 130px !important;
+            }
+    
+            #mobile-img {
+                display: initial;
+            }
+    
+            #content {
+                margin: auto;
+                width: 100% !important;
+            }
+    
+            #parent {
+                flex-direction: column;
+            }
             
         }
 
 
     </style>
-</head>
-<body>
-    <div>
-        <h3 id="title">
-            As part of your vendor resiliency analysis, assess each vendor's risk across the four components of BCM:
-        </h3>
-        <div id="container" style="position: relative; min-height: 450px;">
-            <div id="circle-1" class="circle-desktop"><span class="circle-text" id="circle-text-1">The Four Components of BCM</span></div>
-            <div class="rectangle-blue" id="rectangle-1">
-                <span style="font-weight: bold;">Emergency response and life safety:</span>
-                <br>
-                Incident-based emergency response to minimize injury to personnel and damage to company assets
-            </div>
-            <div class="rectangle-red" id="rectangle-2">
-                <span style="font-weight: bold;">Crisis management:</span>
-                <br>
-                Strategic management of the event, including internal and external communications to protect reputation and brand image
-            </div>
-            <div class="rectangle-red" id="rectangle-3">
-                <span style="font-weight: bold;">IT disaster recovery:</span>
-                <br>
-                Technological recovery and restoration of data-center services — possibly at an alternate location — and computing capabilities
-            </div>
-            <div class="rectangle-blue" id="rectangle-4">
-                <span style="font-weight: bold;">Business unit continuity</span>
-                <br>
-                Preparations to identify the impact of business interruptions; formulate recovery strategies; 
-                develop business continuity plans; and administer regular training, exercise and maintenance
-            </div>
-        </div>
-    </div>
-</body>
-</html>

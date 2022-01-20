@@ -1,0 +1,28 @@
+<div>
+    <h3 id="title">
+        Dans le cadre de votre analyse de la résilience des fournisseurs, évaluez le risque de chaque fournisseur en fonction des quatre composantes de la GCA:
+    </h3>
+    <div id="container" style="position: relative; min-height: 450px;">
+        <div id="circle-1" class="circle-desktop"><span class="circle-text" id="circle-text-1">Quatre composantes de la GCA</span></div>
+        <div class="rectangle-blue" id="rectangle-1">
+            <span style="font-weight: bold;">Intervention d’urgence et sécurité des personnes:</span>
+            <br>
+            Intervention d’urgence en cas d’incident pour réduire au minimum les blessures subies par le personnel et les dommages aux actifs de l’entreprise
+        </div>
+        <div class="rectangle-red" id="rectangle-2">
+            <span style="font-weight: bold;">Gestion de crise:</span>
+            <br>
+            Gestion stratégique de l’événement, y compris les communications internes et externes visant à protéger la réputation et l’image de marque
+        </div>
+        <div class="rectangle-red" id="rectangle-3">
+            <span style="font-weight: bold;">Reprise après sinistre des TI:</span>
+            <br>
+            Rétablissement et réparations technologiques des services des centres de données–possiblement à un autre emplacement–et capacités informatiques
+        </div>
+        <div class="rectangle-blue" id="rectangle-4">
+            <span style="font-weight: bold;">Continuité des activités des unités fonctionnelles:</span>
+            <br>
+            Préparation en vue de déterminer l’incidence de l’interruption des activités, formulation de stratégies de rétablissement, élaboration de plans de continuité des activités et formations, exercices et entretien réguliers
+        </div>
+    </div>
+</div>
