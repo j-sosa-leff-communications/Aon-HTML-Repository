@@ -18,6 +18,10 @@
             display: grid;
             align-items: center;
             border: 3px solid white;
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translateY(-50%) translateX(-50%);
         }
 
         #title {
@@ -29,13 +33,17 @@
             font-size:2rem;
             margin: 0.5em;
             font-weight: bold;
-            opacity: 0;
         }
 
-        .fadeIn {
-                opacity: 1 !important;
-                transition: opacity 1s;
-            }
+        .rectangle-blue {
+            background-color: #e4ebec;
+            width: 40%;
+        }
+
+        .rectangle-red {
+            background-color: #f5b6b8;
+            width: 40%;
+        }
 
         @media only screen and (max-width:860px) {
             .circle-desktop {
