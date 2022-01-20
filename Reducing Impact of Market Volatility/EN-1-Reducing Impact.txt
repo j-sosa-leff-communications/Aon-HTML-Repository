@@ -1,0 +1,70 @@
+<div id="parent" style="height: auto; display: flex; margin: 20px; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 75%; margin: 20px;">
+
+        <h3 style="font-size: 2.5rem; color: #e11b22;">
+            Controlling Costs: A Four-Step Process
+        </h3>
+
+        <h3 style="font-size: 2rem; font-weight: normal;">
+            Companies looking to reestablish control over their risk costs should follow a four-step process that takes a longer-term–rather than transactional–approach to coverage. 
+            This process can enable risk managers to design a solution closely aligned with their organization's individual risk profile.
+        </h3>
+
+    </div>
+    <div style="display: flex; margin: 10px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Develop a long-term vision
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Move from a reactive, short-term approach to a proactive posture across longer time horizons
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Gather the necessary data
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Getting a comprehensive view of risk requires information from across the organization
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Run models and forecasts
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Home in on the optimal level of risk retention and understand trade-offs
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Engage in data-driven decision making
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Present analysis to the C-suite to inform risk strategy and gain consensus
+            </h3>
+        </div>
+    </div>
+
+</div>

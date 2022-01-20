@@ -1,0 +1,69 @@
+<div id="parent" style="height: auto; display: flex; margin: 20px; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 75%; margin: 20px;">
+
+        <h3 style="font-size: 2.5rem; color: #e11b22;">
+            Contrôler les coûts: un processus en quatre étapes
+        </h3>
+
+        <h3 style="font-size: 2rem; font-weight: normal;">
+            Les entreprises qui cherchent à reprendre le contrôle de leurs coûts liés au risque peuvent suivre un processus en quatre étapes qui repose sur une approche à long terme, plutôt que transactionnelle, de la couverture. Ce processus peut permettre aux gestionnaires de risques de personnaliser leurs solutions au profil de risque individuel de leur organisation. 
+        </h3>
+
+    </div>
+    <div style="display: flex; margin: 10px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Élaborer une vision à long terme
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Passer d'une attitude réactive à court terme à une posture proactive sur des horizons temporels plus longs
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Colliger les données nécessaires
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Disposer d’informations provenant de toute l’organisation afin d’obtenir une vue d’ensemble du risque
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Exécuter des modèles et des prévisions
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Déterminer le niveau optimal de rétention du risque et comprendre les compromis
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem;">
+                Se mobiliser pour prendre des décisions fondées sur des données
+            </h3>
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Présenter l’analyse à la direction supérieure pour documenter la stratégie en matière de risque et obtenir un consensus
+            </h3>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,17 @@
+<div style="height: auto; display: flex; align-items: center;" id="parent">
+
+    <div style="width: 50%; position: relative;" id="content">
+        <h3 style="width: 90%; margin: 20px auto; font-size: 2rem;">
+            Alternative risk transfer products are oftena
+        <span style="color: #e11b22;">a last resort for large companies that can't get coverage in the market, making their uptake quite small.</span>
+        </h3>
+        
+    </div>
+
+    <img src="" id="desktop-img" 
+    style="width: 50%; height: fit-content; object-fit: contain;">
+    
+    <img id="mobile-img" src="" 
+    style="width: 100%; height: fit-content; object-fit: contain;">
+</div>
+
