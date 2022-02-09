@@ -1,0 +1,39 @@
+<div class="direction" style="position: relative; min-height: 1100px;">
+
+    <img class="desktop-img" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MjAxNjE3Zjc2MzA4LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTU5ZmZjYTJkMWJhZDA1YjNmYWUyZWQ1NzNhZTBiNjk1" style="position: absolute; width: 100%; object-fit: contain; margin-top: 100px;">
+
+    <img class="mobile-img" src="" style="position: absolute; right: 0%; max-width: 50%; object-fit: contain;">
+
+    <div id="content" style="position: absolute; width: 80%; right: 0;">
+        <img class="hide" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmMyNDRmOGNkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPThlYTZlYzQ3NGI2OGFjZmQzYzQ5NmFkNzY4YWIxMjQ5" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmM4ZTcwOTgzLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTA5MGVmYzU3YmZlMjE5NjhhMzc2OTVlYTVkMjRhNDIx" style="object-fit: contain; width: 100%;">
+        <div class="text" style="width: 51%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            Comme en témoignent la planification, la surveillance et la production de rapports, chaque entreprise en est à un stade différent dans son parcours ESG.
+        </div>
+    </div>
+
+    <div id="content" style="position: absolute; width: 48%; bottom: 60%; right: 0;">
+        <img class="hide" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmM0ZGVjYTVlLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdlMGJkNzczYjExYTI2ZTllMTg3MjQzYjg4OWY4ZDY4" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmNiNzMyYzYwLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTQ1MTc0NTZiOGZkMTRiMTNlOGFiYTQ5NjU4OGI3OWVh" style="object-fit: contain; width: 100%;">
+        <div class="text" style="width: 58%; font-size: 1.25rem; margin-top: 30px; margin-left: auto;">
+            L’étendue, la complexité et la variabilité des risques climatiques ont amené de nombreuses entreprises à adopter de nouvelles approches en matière de modélisation.
+        </div>
+    </div>
+
+    <div id="content" style="position: absolute; width: 50%; bottom: 34%; left: 0;">
+        <img class="hide" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmMzYzE0MTExLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTYzNTA4NzkyMjY1NGYyZWY1YjJiOGI1OTJlZjU0NDYw" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmNhODFlMmJhLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWZlYjc3ZWVmZTAyNjQxMDU5MmQzZDA3MGZmMGUyOWYx" style="object-fit: contain; width: 100%;">
+        <div class="text" style="width: 50%; font-size: 1.25rem; margin-top: 30px;">
+            Alors que les entreprises mettent aupoint des plans pour atténuer les risques liés aux changements climatiques, elles choisissent des outils en fonction de leurs stratégies d’affaires et de leurs horizons de placement. De nombreux modèles de risque climatique examinent des horizons de tempsallant de dizaines d’années à des centaines d’années, produisant un éventail de résultats plutôt que des prévisions exactes.
+        </div>
+    </div>
+    
+    <div id="content" style="position: absolute; width: 90%; bottom: 2%; left: 0;">
+        <img class="hide" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmM1YWU1YjhlLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWI2OGUyOTY3MWI5NWQ3ODFlY2Y4ZjM3YThmNTM2YmIx" style="position: absolute; object-fit: contain; width: 100%;">
+        <img class="mobile-img" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWZjYmNjM2UxMjQ2LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTdkMzdlYTczZmZhMjkxOTY3N2NhOGQ2NjM1YTNmYzJi" style="object-fit: contain; width: 100%;">
+        <div class="text" style="width: 60%; font-size: 1.25rem; margin-top: 80px;">
+            Afin de comprendre l’incidence des décisions sur l’exposition aux changements climatiques et l’assurance des biens, de nombreusesentreprises incluent des gestionnaires de risques dans la discussion.
+        </div>
+    </div>
+
+</div>

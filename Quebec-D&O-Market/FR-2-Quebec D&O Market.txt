@@ -1,0 +1,63 @@
+<div id="parent" style="height: auto; display: flex; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 85%; margin: 20px 0px;">
+
+        <h3 style="font-size: 2rem;">
+            Le projet de règlement s’applique aux contrats d’assurance responsabilité civile
+            de quatre grandes catégories d’assurés : 
+        </h3>
+
+    </div>
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                les fabricants de médicaments et leurs administrateurs et dirigeants ou fiduciaires; 
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                certaines sociétés et fonds d’investissement en capital, tels que CRCD,
+                Fondaction, la F.T.Q., leurs filiales et leurs administrateurs et dirigeants
+                ou fiduciaires; 
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                les grandes entreprises, les sociétés publiques, les sociétés étrangères,
+                les sociétés qui exercent une activité à l’extérieur du Canada et leurs
+                administrateurs et dirigeants ou fiduciaires; et
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                les établissements visés par la Loi sur les services de santé et services
+                sociaux (S. 4.2), les ressources intermédiaires en soutien à l’autonomie
+                des personnes âgées, les résidences privées pour aînés (RPA), les
+                établissements de santé et de services sociaux exploitant un centre
+                d’hébergement et de soins de longue durée ou de réadaptation et leurs
+                administrateurs et dirigeants ou fiduciaires . 
+            </h3>
+        </div>
+    </div>
+
+</div>

@@ -1,0 +1,61 @@
+<div id="parent" style="height: auto; display: flex; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 85%; margin: 20px 0px;">
+
+        <h3 style="font-size: 2rem;">
+            The draft regulation applies to civil liability insurance contracts of four main classes of insureds:
+        </h3>
+
+    </div>
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Drug manufacturers and their directors and officers or trustees (pharmaceuticals). 
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Certain companies and capital investment funds, such as the C.R.C.D.,
+                Fondaction, the F.T.Q., their subsidiaries and their directors and officers
+                or trustees.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Large businesses, public corporations, foreign corporations, companies
+                that carry on business outside Canada and their directors and officers or
+                trustees.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                Health services and social services organizations covered by the Act (S.
+                4.2), intermediate resources to support the autonomy of the elderly,
+                private residences for the elderly (R.P.A.), health and social services
+                institutions operating residential and long-term care or rehabilitation
+                centres and their directors and officers or trustees.
+            </h3>
+        </div>
+    </div>
+
+</div>

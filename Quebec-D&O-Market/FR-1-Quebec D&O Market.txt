@@ -1,0 +1,57 @@
+<div id="parent" style="height: auto; display: flex; flex-direction: column;">
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    L’article 2500 
+                </span>
+                stipule que les montants de garantie d’une police
+                d’assurance responsabilité civile doivent être affectés uniquement au
+                paiement des réclamations d’un tiers lésé.
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+
+                <span style="font-weight: bold;">
+                    L’article 2503  
+                </span>
+                stipule que l’assureur responsabilité doit défendre
+                activement l’assuré à l’égard des réclamations couvertes et qu’il doit
+                payer les frais de défense, les intérêts et les frais engagés par des tiers
+                supérieurs aux limites de la police.
+            </h3>
+        </div>
+    </div>
+
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+        </div>
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 10%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 70%; position: relative;">
+            
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    Essentiellement, l’article 2503 
+                </span>
+                restreint la liberté contractuelle
+                des parties commerciales qui auraient pu préférer négocier
+                certaines modalités et ententes ou renoncer à ce type de
+                couverture. 
+            </h3>
+        </div>
+    </div>
+
+</div>

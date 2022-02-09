@@ -1,0 +1,55 @@
+<div id="parent" style="height: auto; display: flex; flex-direction: column;">
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    Article 2500 states 
+                </span>
+                that a liability insurance policy’s limits must be used
+                solely to pay an injured third party’s claims. 
+            </h3>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+
+                <span style="font-weight: bold;">
+                    Article 2503 stipulates 
+                </span>
+                that the liability insurer must actively defend the
+                insured with respect to covered claims and must pay defence costs,
+                interest, and third-party costs outside of the policy limits.
+            </h3>
+        </div>
+    </div>
+
+
+    <div style="display: flex; margin: 20px 0px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+        </div>
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 10%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 60%; position: relative;">
+            <h3 style="font-size: 2rem; font-weight: normal;">
+                <span style="font-weight: bold;">
+                    Article 2503 essentially restricts 
+                </span>
+                the contractual freedom of commercial
+                parties that may have otherwise
+                preferred to negotiate certain terms and
+                agreements and/or waive this type of
+                coverage.
+            </h3>
+        </div>
+    </div>
+
+</div>
