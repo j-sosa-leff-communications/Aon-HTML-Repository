@@ -1,0 +1,60 @@
+<style>
+    .square{
+        width: 47%;
+        margin: 15px 0px;
+        padding: 10px;
+        min-height: 400px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        border-radius: 15px;
+    }
+    .popup {
+        width: 96%;
+        position: absolute;
+        border-radius: 15px; 
+        top: 6em;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    .title {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: #82949c 3px solid;
+        border-radius: 15px;
+        min-height: 8em;
+    }
+
+    .mobile {    
+        border-radius: 15px; 
+        margin: 15px 0px;
+    }
+
+    @media only screen and (max-width: 860px) {
+
+        .mobile {
+            display: block !important;
+        }
+
+        .square {
+            display: none !important;
+        }
+
+        .popup {
+            display: none !important;
+        }
+
+        #title-numeral {
+            width: 10% !important;
+        }
+
+        #title-text {
+            width: 50% !important;
+        }
+    }
+
+</style>

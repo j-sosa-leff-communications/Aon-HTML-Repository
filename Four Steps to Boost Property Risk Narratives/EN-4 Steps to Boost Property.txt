@@ -1,0 +1,215 @@
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; min-height: 800px;">
+    <div class="title">
+        <h1 style="color: #e11b22; width: 5%; margin-left: auto; margin-right: 10px; text-align: right;" id="title-numeral">4</h1>
+        <h3 style="width: 30%; margin-right: auto;" id="title-text">
+            Steps to Boost Property Risk Narative With Metrics That Win Over C-Suite
+        </h3>
+    </div>
+    <div class="square" onclick="show1()" style="font-size: 2rem; background-color: #e4f1f2; text-align: center;">
+        <h1 style="color: #82949c;">1</h1>
+        <h3 style="color: #46545f; width: 70%;">Understand the Value of Impartial Comparisons</h3>
+        <h3 style="color: #46545f;">+</h3>
+    </div>
+    <div class="square" onclick="show2()" style="font-size: 2rem; background-color: #cedde0; text-align: center;">
+        <h1 style="color: #acc0c5;">2</h1>
+        <h3 style="color: #46545f; width: 70%;">Choose Metrics That Are Pertinent to Your Business</h3>
+        <h3 style="color: #46545f;">+</h3>
+    </div>
+    <div class="square" onclick="show3()" style="font-size: 2rem; background-color: #acc0c5; text-align: center;">
+        <h1 style="color: #cedde0;">3</h1>
+        <h3 style="color: #46545f; width: 70%;">Focus on What's Important to Executives</h3>
+        <h3 style="color: #46545f;">+</h3>
+    </div>
+    <div class="square" onclick="show4()" style="font-size: 2rem; background-color: #82949c; text-align: center;">
+        <h1 style="color: #e4f1f2;">4</h1>
+        <h3 style="color: white; width: 70%;">Know the Ideal Data May Not Be Available at First</h3>
+        <h3 style="color: white;">+</h3>
+    </div>
+    <div class="popup" id="one" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">1</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Understand the Value of Impartial Comparisons</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close1()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                It's extremely beneficial to benchmark yourself against your industry peers when trying to determine optimal limits and retention and deductible levels. 
+                If your company's insurance rate is lower thanyour peers, you can explain to the C-suite the steps you've taken to control losses and retain a better rate than 
+                your competitors. Conversely, if you're paying more than the industry average, those metrics could indicate the need to introduce new 
+                alternative risk-financing vehicles into the mix — such as captives, parametric insurance or a different retention strategy. A strong broker 
+                can provide industry data comparisons that can help you position your company among your peers.
+            </p>
+            <p>
+                Knowing how you stack up against competitors could influence your rates. The proactive next move, then, is to 
+                figure out how to differentiate your individual risk so that you get to the better side of the industry average.</p>
+        </div>
+    </div>
+    <div class="popup" id="two" style="font-size: 2rem; background-color: #cedde0; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #acc0c5; text-align: center; border-radius: 15px;">2</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Choose Metrics That Are Pertinent to Your Business</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close2()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                A plethora of metrics are available, but it's important to be strategic about what you use and how you use it. 
+                That's because the data presented to the C-suite must be focused on the real drivers of your business and on its risk management strategy. 
+                Take location, for instance. If you're an Iowa-based company, metrics on hurricane risk won't be relevant to your narrative. 
+                Similarly, rates, retention, deductibles, placement specifics and other factors must be viewed through the lens of your risk history. 
+                If you have all your insurance through one carrier or have significant loss experience, the metrics pertinent to you will be 
+                completely different from those of a firm with shared or layered insurance or little to no loss experience.
+            </p>
+        </div>
+    </div>
+    <div class="popup" id="three" style="font-size: 2rem; background-color: #acc0c5; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #cedde0; text-align: center; color: white; border-radius: 15px;">3</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Focus on What's Important to Executives</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close3()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                So much of making metrics matter comes down to understanding the motivations of the C-suite. CFOs may have certain metrics 
+                that they're used to or that mattered in an industry in which they have previous experience. Knowing this will help you understand how much of 
+                your narrative around metrics needs to focus on education and breaking down potential preconceived notions of which numbers matter. 
+            </p>
+            <p>
+                Similarly, understanding the hot-button issues for the C-suite will help you choose which metrics to highlight. 
+                If your firm just acquired facilities in California, for example, it's important to understand the earthquake exposure 
+                of those facilities and the options to mitigate that risk in the traditional or alternative markets. The better you can anticipate 
+                the concerns of executives, know your organization's risk profile,and provide ways to build risk resilience, problem-solve or recognize 
+                overall organizational concerns, the more impactful your narrative will be.
+            </p>
+            <p>
+                Approaching metrics from this strategic standpoint will also create the chance for a follow-up opportunity with executives 
+                and shift the conversation from reducing insurance costs to mitigating and transferring risk to help the overall business operate more efficiently.
+            </p>
+        </div>
+    </div>
+    <div class="popup" id="four" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">4</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Know the Ideal Data May Not Be Available at First</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close4()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                While the data and analytics capabilities of companies and insurers are improving everyday, work remains to enhance metric reporting. 
+                Some organizations may not have the information needed to perform proper data analytics. Other firms may have that information, 
+                but risk managers may not know where it lives or how to extract insights. That's why risk managers should work with their brokers to lay 
+                out a long-term roadmap for metrics, often developing it over several years. Over time, as the data collected become more robust, 
+                the analytics capabilities and models used will be tweaked and refined. 
+            </p>
+            <p>
+                The sooner you can get the C-suite on board with such an approach, the more effective — and successful — your property insurance metrics journey will be.</p>
+        </div>
+    </div>
+
+
+    <div class="mobile" id="one" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">1</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Understand the Value of Impartial Comparisons</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                It's extremely beneficial to benchmark yourself against your industry peers when trying to determine optimal limits and retention and deductible levels. 
+                If your company's insurance rate is lower thanyour peers, you can explain to the C-suite the steps you've taken to control losses and retain a better rate than 
+                your competitors. Conversely, if you're paying more than the industry average, those metrics could indicate the need to introduce new 
+                alternative risk-financing vehicles into the mix — such as captives, parametric insurance or a different retention strategy. A strong broker 
+                can provide industry data comparisons that can help you position your company among your peers.
+            </p>
+            <p>
+                Knowing how you stack up against competitors could influence your rates. The proactive next move, then, is to 
+                figure out how to differentiate your individual risk so that you get to the better side of the industry average.</p>
+        </div>
+    </div>
+    <div class="mobile" id="two" style="font-size: 2rem; background-color: #cedde0; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #acc0c5; text-align: center; border-radius: 15px;">2</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Choose Metrics That Are Pertinent to Your Business</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                A plethora of metrics are available, but it's important to be strategic about what you use and how you use it. 
+                That's because the data presented to the C-suite must be focused on the real drivers of your business and on its risk management strategy. 
+                Take location, for instance. If you're an Iowa-based company, metrics on hurricane risk won't be relevant to your narrative. 
+                Similarly, rates, retention, deductibles, placement specifics and other factors must be viewed through the lens of your risk history. 
+                If you have all your insurance through one carrier or have significant loss experience, the metrics pertinent to you will be 
+                completely different from those of a firm with shared or layered insurance or little to no loss experience.
+            </p>
+        </div>
+    </div>
+    <div class="mobile" id="three" style="font-size: 2rem; background-color: #acc0c5; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #cedde0; text-align: center; color: white; border-radius: 15px;">3</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Focus on What's Important to Executives</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                So much of making metrics matter comes down to understanding the motivations of the C-suite. CFOs may have certain metrics 
+                that they're used to or that mattered in an industry in which they have previous experience. Knowing this will help you understand how much of 
+                your narrative around metrics needs to focus on education and breaking down potential preconceived notions of which numbers matter. 
+            </p>
+            <p>
+                Similarly, understanding the hot-button issues for the C-suite will help you choose which metrics to highlight. 
+                If your firm just acquired facilities in California, for example, it's important to understand the earthquake exposure 
+                of those facilities and the options to mitigate that risk in the traditional or alternative markets. The better you can anticipate 
+                the concerns of executives, know your organization's risk profile,and provide ways to build risk resilience, problem-solve or recognize 
+                overall organizational concerns, the more impactful your narrative will be.
+            </p>
+            <p>
+                Approaching metrics from this strategic standpoint will also create the chance for a follow-up opportunity with executives 
+                and shift the conversation from reducing insurance costs to mitigating and transferring risk to help the overall business operate more efficiently.
+            </p>
+        </div>
+    </div>
+    <div class="mobile" id="four" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">4</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Know the Ideal Data May Not Be Available at First</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                While the data and analytics capabilities of companies and insurers are improving everyday, work remains to enhance metric reporting. 
+                Some organizations may not have the information needed to perform proper data analytics. Other firms may have that information, 
+                but risk managers may not know where it lives or how to extract insights. That's why risk managers should work with their brokers to lay 
+                out a long-term roadmap for metrics, often developing it over several years. Over time, as the data collected become more robust, 
+                the analytics capabilities and models used will be tweaked and refined. 
+            </p>
+            <p>
+                The sooner you can get the C-suite on board with such an approach, the more effective — and successful — your property insurance metrics journey will be.</p>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function show1() {
+        document.getElementById("one").style.display = "block";
+    }
+    function show2() {
+        document.getElementById("two").style.display = "block";
+    }
+    function show3() {
+        document.getElementById("three").style.display = "block";
+    }
+    function show4() {
+        document.getElementById("four").style.display = "block";
+    }
+
+    function close1() {
+        document.getElementById("one").style.display = "none";
+    }
+
+    function close2() {
+        document.getElementById("two").style.display = "none";
+    }
+
+    function close3() {
+        document.getElementById("three").style.display = "none";
+    }
+
+    function close4() {
+        document.getElementById("four").style.display = "none";
+    }
+</script>

@@ -1,0 +1,173 @@
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; min-height: 800px;">
+    <div class="title">
+        <h1 style="color: #e11b22; width: 5%; margin-left: auto; margin-right: 10px; text-align: right;" id="title-numeral">4</h1>
+        <h3 style="width: 30%; margin-right: auto;" id="title-text">
+            étapes pour renforcer votre discours portant sur le risque lié aux biens grâce à des mesures qui convainquent les cadres supérieurs
+        </h3>
+    </div>
+    <div class="square" onclick="show1()" style="font-size: 2rem; background-color: #e4f1f2; text-align: center;">
+        <h1 style="color: #82949c;">1</h1>
+        <h3 style="color: #46545f; width: 70%;">Comprendre la valeur des comparaisons impartiales</h3>
+        <h3 style="color: #46545f;">+</h3>
+    </div>
+    <div class="square" onclick="show2()" style="font-size: 2rem; background-color: #cedde0; text-align: center;">
+        <h1 style="color: #acc0c5;">2</h1>
+        <h3 style="color: #46545f; width: 70%;">Choisir des mesures pertinentes pour votre entreprise</h3>
+        <h3 style="color: #46545f;">+</h3>
+    </div>
+    <div class="square" onclick="show3()" style="font-size: 2rem; background-color: #acc0c5; text-align: center;">
+        <h1 style="color: #cedde0;">3</h1>
+        <h3 style="color: #46545f; width: 70%;">Mettre l’accent sur ce qui est important pour les cadres supérieurs</h3>
+        <h3 style="color: #46545f;">+</h3>
+    </div>
+    <div class="square" onclick="show4()" style="font-size: 2rem; background-color: #82949c; text-align: center;">
+        <h1 style="color: #e4f1f2;">4</h1>
+        <h3 style="color: white; width: 70%;">Garder en tête que les données idéales pourraient ne pas être disponibles au départ</h3>
+        <h3 style="color: white;">+</h3>
+    </div>
+    <div class="popup" id="one" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">1</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Comprendre la valeur des comparaisons impartiales</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close1()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Il est extrêmement avantageux de vous comparer à vos pairs du secteur lorsque vous tentez de déterminer les limites optimales et les niveaux de rétention et de franchise. Si la prime d’assurance de votre entreprise est inférieure à celle de vos pairs, vous pouvez expliquer aux cadres supérieurs les mesures que vous avez prises pour contrôler les pertes et maintenir une meilleure prime que celle de vos concurrents. À l’inverse, si vous payez plus que la moyenne du secteur, ces mesures pourraient indiquer la nécessité d’intégrer de nouveaux véhicules de financement non traditionnel des risques, comme les captives, l’assurance paramétrique ou une stratégie de rétention différente. Un courtier solide peut fournir des comparaisons de données sectorielles qui peuvent vous aider à positionner votre entreprise parmi vos pairs.
+            </p>
+            <p>
+                Savoir où vous vous situez par rapport à vos concurrents pourrait influer sur vos primes. La prochaine mesure proactive consiste donc à déterminer comment différencier votre risque individuel afin d’obtenir la meilleure valeur pour la moyenne du secteur.</p>
+        </div>
+    </div>
+    <div class="popup" id="two" style="font-size: 2rem; background-color: #cedde0; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #acc0c5; text-align: center; border-radius: 15px;">2</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Choisir des mesures pertinentes pour votre entreprise</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close2()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Il existe une multitude de mesures, mais il est important d’être stratégique quant à ce que vous utilisez et à la façon de le faire. En effet, les données présentées aux cadres supérieurs doivent être axées sur les véritables moteurs de votre entreprise et sur sa stratégie de gestion des risques. Prenez l’emplacement, par exemple. Si vous êtes une entreprise de l’Iowa, les mesures du risque lié aux ouragans ne seront pas pertinentes pour votre discours. De la même façon, les primes, la rétention, les franchises, les caractéristiques du placement et d’autres facteurs doivent être examinés à la lumière de votre historique de risque. Si votre organisation est assurée auprès d’un seul assureur ou si elle a un historique de pertes important, les mesures qui vous concernent seront complètement différentes de celles d’une entreprise qui a une assurance partagée ou échelonnée, ou peu ou pas d’historique de pertes. 
+            </p>
+        </div>
+    </div>
+    <div class="popup" id="three" style="font-size: 2rem; background-color: #acc0c5; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #cedde0; text-align: center; color: white; border-radius: 15px;">3</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Mettre l’accent sur ce qui est important pour les cadres supérieurs</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close3()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Une grande partie de l’importance des mesures se résume à comprendre les motivations des cadres supérieurs. Les directeurs financiers sont peut-être habitués à certaines mesures ou celles-ci ont de l’importance dans un secteur dans lequel ils ont une expérience antérieure. En sachant cela, vous serez mieux à même de comprendre dans quelle mesure votre discours sur les mesures doit être axé sur l’éducation et l’élimination des idées préconçues potentielles sur les chiffres qui comptent.
+            </p>
+            <p>
+                De la même façon, comprendre les problèmes urgents des cadres supérieurs vous aidera à choisir les mesures à mettre en évidence. Si votre entreprise vient tout juste d’acquérir des installations en Californie, par exemple, il est important de comprendre l’exposition aux tremblements de terre de ces installations et les options pour atténuer ce risque dans les marchés traditionnels ou non traditionnels. Plus vous serez en mesure de prévoir les préoccupations des cadres supérieurs, de connaître le profil de risque de votre organisation et de fournir des moyens de renforcer la résilience au risque, de résoudre des problèmes ou de reconnaître les préoccupations organisationnelles globales, plus votre discours sera percutant.
+            </p>
+            <p>
+                L’approche des mesures de ce point de vue stratégique créera également une occasion de suivi auprès des cadres supérieurs et fera passer la conversation de la réduction des primes d’assurance à l’atténuation et au transfert des risques pour aider l’ensemble de l’entreprise à fonctionner plus efficacement.
+            </p>
+        </div>
+    </div>
+    <div class="popup" id="four" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 10%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">4</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Garder en tête que les données idéales pourraient ne pas être disponibles au départ</h3>
+            <span style="width: 5%; margin-left: auto; font-weight: bold; font-size: 3rem; color: #46545f;" onclick="close4()">×</span>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Bien que les capacités en matière de données et d’analyse des entreprises s’améliorent chaque jour, il reste du travail à faire pour parfaire la production de rapports métriques. Certaines organisations pourraient ne pas disposer des renseignements nécessaires pour effectuer des analyses de données appropriées. D’autres entreprises peuvent détenir ces renseignements, mais les gestionnaires de risque ne savent peut-être pas où les trouver ou comment en tirer des conclusions. C’est pourquoi les gestionnaires de risque devraient collaborer avec leurs courtiers pour établir une feuille de route à long terme en matière de mesures, souvent en l’élaborant sur plusieurs années. Au fil du temps, à mesure que les données recueillies deviendront plus robustes, les capacités d’analyse et les modèles utilisés seront peaufinés et perfectionnés.
+            </p>
+            <p>
+                Plus tôt vous pourrez rallier les cadres supérieurs à une telle approche, plus votre parcours en matière de mesures d’assurance des biens sera efficace et fructueux.</p>
+        </div>
+    </div>
+
+
+    <div class="mobile" id="one" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">1</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Comprendre la valeur des comparaisons impartiales</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Il est extrêmement avantageux de vous comparer à vos pairs du secteur lorsque vous tentez de déterminer les limites optimales et les niveaux de rétention et de franchise. Si la prime d’assurance de votre entreprise est inférieure à celle de vos pairs, vous pouvez expliquer aux cadres supérieurs les mesures que vous avez prises pour contrôler les pertes et maintenir une meilleure prime que celle de vos concurrents. À l’inverse, si vous payez plus que la moyenne du secteur, ces mesures pourraient indiquer la nécessité d’intégrer de nouveaux véhicules de financement non traditionnel des risques, comme les captives, l’assurance paramétrique ou une stratégie de rétention différente. Un courtier solide peut fournir des comparaisons de données sectorielles qui peuvent vous aider à positionner votre entreprise parmi vos pairs.
+            </p>
+            <p>
+                Savoir où vous vous situez par rapport à vos concurrents pourrait influer sur vos primes. La prochaine mesure proactive consiste donc à déterminer comment différencier votre risque individuel afin d’obtenir la meilleure valeur pour la moyenne du secteur.</p>
+        </div>
+    </div>
+    <div class="mobile" id="two" style="font-size: 2rem; background-color: #cedde0; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #acc0c5; text-align: center; border-radius: 15px;">2</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Choisir des mesures pertinentes pour votre entreprise</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Il existe une multitude de mesures, mais il est important d’être stratégique quant à ce que vous utilisez et à la façon de le faire. En effet, les données présentées aux cadres supérieurs doivent être axées sur les véritables moteurs de votre entreprise et sur sa stratégie de gestion des risques. Prenez l’emplacement, par exemple. Si vous êtes une entreprise de l’Iowa, les mesures du risque lié aux ouragans ne seront pas pertinentes pour votre discours. De la même façon, les primes, la rétention, les franchises, les caractéristiques du placement et d’autres facteurs doivent être examinés à la lumière de votre historique de risque. Si votre organisation est assurée auprès d’un seul assureur ou si elle a un historique de pertes important, les mesures qui vous concernent seront complètement différentes de celles d’une entreprise qui a une assurance partagée ou échelonnée, ou peu ou pas d’historique de pertes.
+            </p>
+        </div>
+    </div>
+    <div class="mobile" id="three" style="font-size: 2rem; background-color: #acc0c5; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #cedde0; text-align: center; color: white; border-radius: 15px;">3</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Mettre l’accent sur ce qui est important pour les cadres supérieurs</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Une grande partie de l’importance des mesures se résume à comprendre les motivations des cadres supérieurs. Les directeurs financiers sont peut-être habitués à certaines mesures ou celles-ci ont de l’importance dans un secteur dans lequel ils ont une expérience antérieure. En sachant cela, vous serez mieux à même de comprendre dans quelle mesure votre discours sur les mesures doit être axé sur l’éducation et l’élimination des idées préconçues potentielles sur les chiffres qui comptent.
+            </p>
+            <p>
+                De la même façon, comprendre les problèmes urgents des cadres supérieurs vous aidera à choisir les mesures à mettre en évidence. Si votre entreprise vient tout juste d’acquérir des installations en Californie, par exemple, il est important de comprendre l’exposition aux tremblements de terre de ces installations et les options pour atténuer ce risque dans les marchés traditionnels ou non traditionnels. Plus vous serez en mesure de prévoir les préoccupations des cadres supérieurs, de connaître le profil de risque de votre organisation et de fournir des moyens de renforcer la résilience au risque, de résoudre des problèmes ou de reconnaître les préoccupations organisationnelles globales, plus votre discours sera percutant.
+            </p>
+            <p>
+                L’approche des mesures de ce point de vue stratégique créera également une occasion de suivi auprès des cadres supérieurs et fera passer la conversation de la réduction des primes d’assurance à l’atténuation et au transfert des risques pour aider l’ensemble de l’entreprise à fonctionner plus efficacement. 
+            </p>
+        </div>
+    </div>
+    <div class="mobile" id="four" style="font-size: 2rem; background-color: #e4f1f2; max-width: 100%; min-height: inherit; display: none;">
+        <div class="popup-header" style="display: flex; width: 95%; align-items: center; margin: 20px auto;">
+            <h1 style="width: 20%; background-color: #82949c; text-align: center; color: white; border-radius: 15px;">4</h1>
+            <h3 style="width: 40%; margin: 0px 10px; color: #46545f;">Garder en tête que les données idéales pourraient ne pas être disponibles au départ</h3>
+        </div>
+        <div style="width:95%; margin: 20px auto; color: #46545f;">
+            <p>
+                Bien que les capacités en matière de données et d’analyse des entreprises s’améliorent chaque jour, il reste du travail à faire pour parfaire la production de rapports métriques. Certaines organisations pourraient ne pas disposer des renseignements nécessaires pour effectuer des analyses de données appropriées. D’autres entreprises peuvent détenir ces renseignements, mais les gestionnaires de risque ne savent peut-être pas où les trouver ou comment en tirer des conclusions. C’est pourquoi les gestionnaires de risque devraient collaborer avec leurs courtiers pour établir une feuille de route à long terme en matière de mesures, souvent en l’élaborant sur plusieurs années. Au fil du temps, à mesure que les données recueillies deviendront plus robustes, les capacités d’analyse et les modèles utilisés seront peaufinés et perfectionnés.
+            </p>
+            <p>
+                Plus tôt vous pourrez rallier les cadres supérieurs à une telle approche, plus votre parcours en matière de mesures d’assurance des biens sera efficace et fructueux.</p>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript">
+    function show1() {
+        document.getElementById("one").style.display = "block";
+    }
+    function show2() {
+        document.getElementById("two").style.display = "block";
+    }
+    function show3() {
+        document.getElementById("three").style.display = "block";
+    }
+    function show4() {
+        document.getElementById("four").style.display = "block";
+    }
+
+    function close1() {
+        document.getElementById("one").style.display = "none";
+    }
+
+    function close2() {
+        document.getElementById("two").style.display = "none";
+    }
+
+    function close3() {
+        document.getElementById("three").style.display = "none";
+    }
+
+    function close4() {
+        document.getElementById("four").style.display = "none";
+    }
+</script>
