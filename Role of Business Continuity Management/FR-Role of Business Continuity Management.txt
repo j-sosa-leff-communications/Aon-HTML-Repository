@@ -1,0 +1,28 @@
+<div>
+    <h3 id="title">
+        Les entreprises peuvent adopter une approche à trois volets:
+    </h3>
+    <div id="container" style="position: relative; min-height: 450px;">
+        <div id="circle-1" class="circle-desktop" onclick="viewText1()"><span class="circle-text" id="circle-text-1">Communiquer l’information aux assureurs</span></div>
+        <div id="circle-2" class="circle-desktop" onclick="viewText2()"><span class="circle-text" id="circle-text-2">Analyser la résilience des fournisseurs</span></div>
+        <div id="circle-3" class="circle-desktop" onclick="viewText3()"><span class="circle-text" id="circle-text-3">Évaluerl’agilité de l’entreprise</span></div>
+
+        <div id="line-180" class="line"></div>
+        <div id="line-60" class="line"></div>
+        <div id="line-120" class="line"></div>
+    </div>
+</div>
+
+<script>
+    function viewText1() {
+        document.getElementById("circle-text-1").classList.add("fadeIn");
+    }
+
+    function viewText2() {
+        document.getElementById("circle-text-2").classList.add("fadeIn");
+    }
+
+    function viewText3() {
+        document.getElementById("circle-text-3").classList.add("fadeIn");
+    }
+</script>
