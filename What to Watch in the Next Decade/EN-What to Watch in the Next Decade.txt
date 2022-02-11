@@ -1,0 +1,100 @@
+<div id="parent" style="height: auto; display: flex; flex-direction: column;">
+    <div style="float: top; vertical-align: top; width: 75%; margin: 20px;">
+
+        <h3 style="font-size: 2rem;">
+            <span style="font-size: 2rem;">
+                Six Risks to Watch in the Next Decade
+            </span>
+        </h3>
+
+    </div>
+    <div style="display: flex; margin: 10px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem; color: #e11b22;">
+                Cyber risk
+            </h3>
+            <p style="font-size: 1rem; font-weight: bold;">
+                Cyber risk is a top concern among North America businesses now, and is expected to remain so in the coming years 
+                as ransomware attacks continue to grow.
+            </p>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem; color: #e11b22;">
+                Supply chain and vendor risk
+            </h3>
+            <p style="font-size: 1rem; font-weight: bold;">
+                Companies (and consumers) continue to face persistent supply shortages, delays, and rising commodity costs.
+            </p>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem; color: #e11b22;">
+                Pandemic risk
+            </h3>
+            <p style="font-size: 1rem; font-weight: bold;">
+                While the crisis has affected aspects of many global organizations, its impact on employees may have the most 
+                lasting effects in the next decade. 
+            </p>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem; color: #e11b22;">
+                Climate risk
+            </h3>
+            <p style="font-size: 1rem; font-weight: bold;">
+                A warming planet brings a wide range of exposures — from operational risks to regulatory uncertainty and increasing 
+                uncertainty in the risk transfer markets — and will likely have a dramatic effect on consumer preferences. 
+            </p>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem; color: #e11b22;">
+                Intellectual property risk
+            </h3>
+            <p style="font-size: 1rem; font-weight: bold;">
+                It is becoming urgent for companies to protect their intellectual property (IP) — patents, 
+                copyrights, trademarks and trade secrets that collectively make up an immense and growing asset class. 
+            </p>
+        </div>
+    </div>
+
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
+        <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
+            <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
+        </div>
+        <div style="width: 80%; position: relative;">
+            <h3 style="font-size: 1.5rem; color: #e11b22;">
+                Reputational risk
+            </h3>
+            <p style="font-size: 1rem; font-weight: bold;">
+                The pervasiveness of social media, a 24/7 news cycle and a near-constant stream of high-profile 
+                incidents have only reinforced the importance — and potential damage — of reputational risk in the decade to come. 
+            </p>
+        </div>
+    </div>
+
+</div>

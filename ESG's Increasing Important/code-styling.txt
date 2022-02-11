@@ -1,0 +1,75 @@
+<style type="text/css">.topDiv {
+        padding: 30px;
+    }
+
+    .innerDiv {
+        padding: 0px 30px;
+        display: flex; 
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .innerDiv h2, .bottomDiv h2 {
+        width: 70%;
+    }
+
+    h1 {
+        font-size: 3rem;
+    }
+
+    h2 {
+        font-size: 2rem;
+    }
+
+    .bottomDiv {
+        padding: 0px 30px 30px 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .trail {
+        width: 75.25%;
+        margin: auto;
+        padding: 5px 0px;
+    }
+
+    img[src=""] {
+    background-color: #e11b22;
+    min-height: 50px;
+    }
+
+    .iconImg {
+        width: 25%;
+    }
+
+    @media only screen and (max-width: 860px) {
+
+        .topDiv {
+            padding-bottom: 0px;
+        }
+
+        .innerDiv h2, .bottomDiv h2 {
+            width: auto !important;
+            order: 2;
+        }
+
+        .iconImg {
+            width: 80% !important;
+            order: 1;
+            margin: 20px auto 10px;
+        }
+
+        .innerDiv, .bottomDiv {
+            flex-wrap: wrap;
+        }
+
+        .trail {
+            display: none;
+        }
+
+        #trailDiv {
+            display: none;
+        }
+    }
+</style>

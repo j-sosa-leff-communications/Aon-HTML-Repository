@@ -1,0 +1,13 @@
+<style>
+
+        img[src=""] {
+            background-color: #e11b22;
+            min-height: 100px;
+            min-width: 100px;
+            z-index: 1;
+            display: initial !important;
+        }
+
+        
+        
+</style>

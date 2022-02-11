@@ -1,0 +1,29 @@
+<div style="border: #e11b22 2px solid; margin: 2px;">
+<div class="topDiv">
+<h1 style="color: #e11b22; font-size: 3rem;">Build Clear ESG Transparency for Renewal Time</h1>
+
+<h2 style="font-weight: bold; font-size: 2rem;">ESG transparency and data are becoming critical at renewal, as carriers demand more insight into how their customers operate. The current hard insurance market has increased the emphasis underwriters place on clear information disclosure -- ESG adds to the number of data points that must be collected for underwriters.</h2>
+</div>
+
+<div class="innerDiv"><img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWYzNjU4Y2FhLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRjMDJlMjMyM2YxMzFiNWMyYmY5Y2E0YjQ1MzJiYjRm">
+<h2 style="font-size: 2rem;">There is much insurer focus on the transition risk as organizations move toward a carbon neutral future. Being able to show a plan for improvement will help facilitate continued partnership with carriers.</h2>
+</div>
+
+<div class="innerDiv"><img class="trail" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWZkZDJiZDI1LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWJkMWQzOGUzYTQ0MWQ2MDRmMzZjMjc2MTM2ZjcyMzg3"></div>
+
+<div class="innerDiv">
+<h2 style="font-size: 2rem;">Organizations receive credit for stating their ESG intentions but will get more credit if intentions are translated into definable and measurable actions. Use external communications; if businesses are not telling the world what they are doing, they are not getting credit.</h2>
+<img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWY0YjU2ZDZkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTc3Yjk3ZWJhNjM0MTljOTljOGYxNmQ5NjY2YjQzNmNl"></div>
+
+<div class="innerDiv"><img class="trail" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWZlOGU1NjdkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRhNjAzODU5NzIwYjAyNGI0YjFiMWRkMDY2MWI3ZTc2"></div>
+
+<div class="innerDiv"><img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWY1ZGM2MDhiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRhY2VkMGZkMWZiZmU5ZTBhOTQyYzljMGRlN2ZmYmE5">
+<h2 style="font-size: 2rem;">Differentiate ESG activities with a strong narrative, preferably as well as, or better than, industry peers. Focus on intention (policy) and outcome (metrics) and set targets where reasonable.</h2>
+</div>
+
+<div class="innerDiv" id="trailDiv"><img class="trail" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWZmNmUxYzk0LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTA1MDMzNWNlOTcyNjA0NmQ1MzJkODNlMjc3YTVlOTQ5"></div>
+
+<div class="bottomDiv">
+<h2 style="font-size: 2rem;">Communicate through 10K/Q, proxy statements, sustainability reporting and the company website. Take command in communicating ESG actions. If businesses do not control their narrative, someone else will likely be doing it, and it may not be the desired narrative.<sup>7</sup></h2>
+<img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWY2YmU0ZmFlLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTI5MTQ2NjZiNDZjMjg3NGQ1ZDc2MWRjZTljOTEwNmI0"></div>
+</div>

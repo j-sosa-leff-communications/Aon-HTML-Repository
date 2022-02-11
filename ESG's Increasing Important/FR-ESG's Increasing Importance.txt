@@ -1,0 +1,32 @@
+<div style="border: #e11b22 2px solid; margin: 2px;">
+<div class="topDiv">
+<h1 style="color: #e11b22; font-size: 3rem;">Soyez transparent en ce qui concerne les facteurs ESG au moment du renouvellement</h1>
+
+<h2 style="font-weight: bold; font-size: 2rem;">La transparence et les données liées aux facteurs ESG deviennent essentielles au renouvellement, alors que les assureurs exigent plus de renseignements sur la façon dont leurs clients exercent leurs activités. Dans un marché d’assurance difficile, les souscripteurs ont tendance à mettre davantage l’accent sur la communication claire de renseignements. Les facteurs ESG ajoutent des points de données qui doivent être recueillis:</h2>
+</div>
+
+<div class="innerDiv"><img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWYzNjU4Y2FhLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRjMDJlMjMyM2YxMzFiNWMyYmY5Y2E0YjQ1MzJiYjRm">
+<h2 style="font-size: 2rem;">Les assureurs accordent une grande importance au risque de transition alors queles organisations évoluent vers un avenir carboneutre. Être en mesure de présenter un plan d’améliorationfacilitera le maintien du partenariat avec les assureurs.</h2>
+</div>
+
+<div class="innerDiv"><img class="trail" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWZkZDJiZDI1LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPWJkMWQzOGUzYTQ0MWQ2MDRmMzZjMjc2MTM2ZjcyMzg3"></div>
+
+<div class="innerDiv">
+<h2 style="font-size: 2rem;">Les organisations sont reconnues lorsqu’elles expriment leurs intentions à l’égard des facteurs ESG, 
+    mais cela sera de courte durée si ces intentions ne se traduisent pas par des mesures définissables et mesurables.Les communications externes sont importantes: 
+    si les entreprises ne disent pas au monde ce qu’elles font, elles ne se démarquerontpas autant qu’elles le méritent.</h2>
+<img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWY0YjU2ZDZkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTc3Yjk3ZWJhNjM0MTljOTljOGYxNmQ5NjY2YjQzNmNl"></div>
+
+<div class="innerDiv"><img class="trail" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWZlOGU1NjdkLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRhNjAzODU5NzIwYjAyNGI0YjFiMWRkMDY2MWI3ZTc2"></div>
+
+<div class="innerDiv"><img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWY1ZGM2MDhiLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTRhY2VkMGZkMWZiZmU5ZTBhOTQyYzljMGRlN2ZmYmE5">
+<h2 style="font-size: 2rem;">Faites que vos activités liées aux facteurs ESG se distinguent grâce à des descriptifs aussi solides, 
+    ou plus encore, que ceux de vos pairs dans le secteur. Concentrez-vous aussi bien sur l’intention (politique) que sur les résultats (mesures) et fixez-vous des ciblesdans la mesure du possible.</h2>
+</div>
+
+<div class="innerDiv" id="trailDiv"><img class="trail" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWZmNmUxYzk0LnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTA1MDMzNWNlOTcyNjA0NmQ1MzJkODNlMjc3YTVlOTQ5"></div>
+
+<div class="bottomDiv">
+<h2 style="font-size: 2rem;">Communiquez au moyen des formulaires 10-K/Q, des circulaires d’information, de rapports sur le développement durable et du site Web de l’entreprise. Communiquez clairement vos actions liées aux facteurs ESG. Vous devez contrôler ce qui est dit au sujet des facteurs ESG quant à votre entreprise, sans quoi d’autres personnes pourraient le faire pour vous.<sup>7</sup></h2>
+<img class="iconImg" src="https://content.cdntwrk.com/files/aHViPTExNzk2MyZjbWQ9aXRlbWVkaXRvcmltYWdlJmZpbGVuYW1lPWl0ZW1lZGl0b3JpbWFnZV82MWVmMWY2YmU0ZmFlLnBuZyZ2ZXJzaW9uPTAwMDAmc2lnPTI5MTQ2NjZiNDZjMjg3NGQ1ZDc2MWRjZTljOTEwNmI0"></div>
+</div>
