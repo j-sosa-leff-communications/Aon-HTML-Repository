@@ -1,4 +1,4 @@
-style>
+<style>
     .square{
         width: 47%;
         margin: 15px 0px;
@@ -14,12 +14,12 @@ style>
         width: 96%;
         position: absolute;
         border-radius: 15px; 
-        top: 30%;
+        bottom: 5%;
         left: 50%;
         transform: translateX(-50%);
     }
 
-    .title2 {
+    #title {
         width: 100%;
         display: flex;
         justify-content: center;
@@ -48,11 +48,11 @@ style>
             display: none !important;
         }
 
-        #title2-numeral {
+        #title-numeral {
             width: 10% !important;
         }
 
-        #title2-text {
+        #title-text {
             width: 50% !important;
         }
     }
