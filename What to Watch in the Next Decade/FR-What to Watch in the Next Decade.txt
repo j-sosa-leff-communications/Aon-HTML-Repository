@@ -1,22 +1,20 @@
 <div id="parent" style="height: auto; display: flex; flex-direction: column;">
     <div style="float: top; vertical-align: top; width: 75%; margin: 20px;">
 
-        <h3 style="font-size: 2rem;">
-            <span style="font-size: 2rem;">
-                Les six risques à surveiller au cours de la prochaine décennie
-            </span>
+        <h3 style="font-size: 3rem;">
+            Les six risques à surveiller au cours de la prochaine décennie
         </h3>
 
     </div>
-    <div style="display: flex; margin: 10px; flex-direction: row;" id="parent">
+    <div style="display: flex; margin: 20px; flex-direction: row;" id="parent">
         <div style="display: flex; margin: 0px 10px 0px 0px; justify-content: center; width: 20%; max-width: 75px;">
             <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
         </div>
         <div style="width: 80%; position: relative;">
-            <h3 style="font-size: 1.5rem; color: #e11b22;">
+            <h3 style="font-size: 2rem; color: #e11b22;">
                 Cyberrisque
             </h3>
-            <p style="font-size: 1rem; font-weight: bold;">
+            <p style="font-size: 1.5rem; font-weight: bold;">
                 La pandémie de COVID-19 et le passage à un milieu de travail numérique ont augmenté notre dépendance 
                 à l’égard de la technologie et, par conséquent, notre exposition aux risques de cybermenaces.
             </p>
@@ -28,10 +26,10 @@
             <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
         </div>
         <div style="width: 80%; position: relative;">
-            <h3 style="font-size: 1.5rem; color: #e11b22;">
+            <h3 style="font-size: 2rem; color: #e11b22;">
                 Risques liés à la chaîne d’approvisionnement et aux fournisseurs
             </h3>
-            <p style="font-size: 1rem; font-weight: bold;">
+            <p style="font-size: 1.5rem; font-weight: bold;">
                 Les entreprises sont encore et toujours confrontées à des pénuries d’approvisionnement, 
                 à des retards et à une hausse des coûts des produits de base – et, par le fait même, 
                 les consommateurs le sont aussi.
@@ -44,10 +42,10 @@
             <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
         </div>
         <div style="width: 80%; position: relative;">
-            <h3 style="font-size: 1.5rem; color: #e11b22;">
+            <h3 style="font-size: 2rem; color: #e11b22;">
                 Risque de pandémie
             </h3>
-            <p style="font-size: 1rem; font-weight: bold;">
+            <p style="font-size: 1.5rem; font-weight: bold;">
                 La crise a perturbé différents aspects de nombreuses organisations mondiales,
                 mais ce sont les employés qui devraient en subir les effets les plus persistants
                 au cours de la prochaine décennie.
@@ -60,10 +58,10 @@
             <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
         </div>
         <div style="width: 80%; position: relative;">
-            <h3 style="font-size: 1.5rem; color: #e11b22;">
+            <h3 style="font-size: 2rem; color: #e11b22;">
                 Risque lié aux changements climatiques
             </h3>
-            <p style="font-size: 1rem; font-weight: bold;">
+            <p style="font-size: 1.5rem; font-weight: bold;">
                 Le réchauffement planétaire entraîne de nombreux risques – risques
                 opérationnels, incertitude réglementaire, incertitude croissante sur les
                 marchés du transfert du risque – et il influencera sans doute les préférences
@@ -77,10 +75,10 @@
             <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
         </div>
         <div style="width: 80%; position: relative;">
-            <h3 style="font-size: 1.5rem; color: #e11b22;">
+            <h3 style="font-size: 2rem; color: #e11b22;">
                 Risque lié à la propriété intellectuelle
             </h3>
-            <p style="font-size: 1rem; font-weight: bold;">
+            <p style="font-size: 1.5rem; font-weight: bold;">
                 Il devient urgent pour les entreprises de protéger leur propriété intellectuelle
                 (PI), c’est-à-dire les brevets, les droits d’auteur, les marques de commerce et
                 les secrets commerciaux qui forment, collectivement, une vaste catégorie
@@ -94,10 +92,10 @@
             <img src="" style= "width: 100%; height: fit-content; object-fit: contain;">
         </div>
         <div style="width: 80%; position: relative;">
-            <h3 style="font-size: 1.5rem; color: #e11b22;">
+            <h3 style="font-size: 2rem; color: #e11b22;">
                 Risque d’atteinte à la réputation
             </h3>
-            <p style="font-size: 1rem; font-weight: bold;">
+            <p style="font-size: 1.5rem; font-weight: bold;">
                 L’omniprésence des médias sociaux, l’actualité 24 heures sur 24, 7 jours
                 sur 7 et le flux quasi constant d’incidents très médiatisés ne font qu’accentuer
                 l’importance des risques d’atteinte à la réputation et des dommages qu’ils
