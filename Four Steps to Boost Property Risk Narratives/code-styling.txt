@@ -34,6 +34,11 @@
         margin: 15px 0px;
     }
 
+    #title-numeral {
+            width: 5%;
+            font-size: 8rem !important;
+        }
+
     @media only screen and (max-width: 860px) {
 
         .mobile {
@@ -46,10 +51,6 @@
 
         .popup {
             display: none !important;
-        }
-
-        #title-numeral {
-            width: 10% !important;
         }
 
         #title-text {

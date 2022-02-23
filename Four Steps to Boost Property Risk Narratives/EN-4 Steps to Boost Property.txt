@@ -1,8 +1,8 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; min-height: 800px;">
     <div id="title">
-        <h1 style="color: #e11b22; width: 5%; margin-left: auto; margin-right: 10px; text-align: right;" id="title-numeral">4</h1>
+        <h1 style="color: #e11b22; margin-left: auto; margin-right: 10px; text-align: right;" id="title-numeral">4</h1>
         <h3 style="width: 80%; margin-right: auto;" id="title-text">
-            Steps to Boost Property Risk Narative With Metrics That Win Over C-Suite
+            Steps to Boost Property Risk Narrative With Metrics That Win Over C-Suite
         </h3>
     </div>
     <div class="square" onclick="show1()" style="font-size: 2rem; background-color: #e4f1f2; text-align: center;">
