@@ -35,7 +35,6 @@
     }
 
     #title-numeral {
-            width: 5%;
             font-size: 8rem !important;
         }
 
@@ -55,6 +54,7 @@
 
         #title-text {
             width: 50% !important;
+            font-size: 2rem;
         }
     }
 
